@@ -5104,7 +5104,7 @@
     "label": "poly(p-phenylene oxide)",
     "description": "polymer",
     "cxsmiles": [
-      "[*]c1cc(O)c(c(O)c1)O[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
+      "[*]c1cc(C)c(c(C)c1)O[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
     ],
     "photos": [],
     "classes": [
@@ -10525,7 +10525,7 @@
         "qid": "Q146206",
         "label": "poly(p-phenylene oxide)",
         "cxsmiles": [
-          "[*]c1cc(O)c(c(O)c1)O[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
+          "[*]c1cc(C)c(c(C)c1)O[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
         ],
         "photos": [],
         "wikipedia": {
