@@ -7936,7 +7936,9 @@
     "qid": "Q3446275",
     "label": "Paraloid B-72",
     "description": "chemical compound",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "CCC(C)(C(=O)OCC)CC(C(=O)OC)C |Sg:n:1,2,3,4,5,6,7,8:m:ht,Sg:n:9,10,11,12,13,14:n:ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8141,7 +8143,9 @@
     "qid": "Q4214543",
     "label": "Q4214543",
     "description": "chemical compound",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "HNC(=O)NCO |Sg:n:1,2,3,4,5::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
