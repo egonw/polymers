@@ -5003,7 +5003,9 @@
     "qid": "Q146537",
     "label": "urea-formaldehyde",
     "description": "thermoset polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]NC(=O)NC[*] |Sg:n:1,2,3,4,5::ht|"
+    ],
     "classes": [
       {
         "qid": "Q113145171",
@@ -5111,7 +5113,9 @@
     "qid": "Q177570",
     "label": "linear maltodextrin",
     "description": "organic polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]O[C@H]1[C@H](O)[C@@H](O)[C@@H]([*])O[C@@H]1CO |Sg:n:1,2,3,4,5,6,7,9,10,11,12::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5434,7 +5438,9 @@
     "qid": "Q409762",
     "label": "polyacrylic acid",
     "description": "anionic polyelectrolyte polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]CC(C(=O)O)[*] |Sg:n:1,2,3,4,5::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5981,7 +5987,9 @@
     "qid": "Q423261",
     "label": "gutta-percha",
     "description": "latex derived from the Gutta-percha tree (tree of the genus Palaquium in the family Sapotaceae)",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C/C(C)=C/C[*] |Sg:n:1,2,3,4,5::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6124,7 +6132,9 @@
     "qid": "Q448540",
     "label": "parylene",
     "description": "chemical compound",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]Cc1ccc(cc1)C[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6854,7 +6864,9 @@
     "qid": "Q2252869",
     "label": "polytrimethylene terephthalate",
     "description": "chemical compound",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C(=O)c1ccc(cc1)C(=O)OCCCO[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7347,7 +7359,9 @@
     "qid": "Q3395462",
     "label": "Poly(N-isopropylacrylamide)",
     "description": "chemical compound",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]CC(C(=O)NC(C)C)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7862,7 +7876,9 @@
     "qid": "Q7071155",
     "label": "nylon 66",
     "description": "nylon polymer and synthetic fibre",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C(=O)CCCCC(=O)NCCCCCCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8119,7 +8135,9 @@
     "qid": "Q7226099",
     "label": "polyAMPS",
     "description": "polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]CC(C(=O)NC(C)(C)CS(=O)(=O)O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8520,7 +8538,9 @@
     "qid": "Q15526606",
     "label": "polyethylene adipate",
     "description": "polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]OCCOC(=O)CCCCC(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8552,7 +8572,9 @@
     "qid": "Q15634168",
     "label": "poly-gamma-D-glutamate",
     "description": "organic polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C(=O)CC[C@H](C(=O)O)N[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8975,7 +8997,9 @@
     "qid": "Q21099595",
     "label": "Nylon 46",
     "description": "polyamide",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C(=O)CCCCC(=O)NCCCCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
+    ],
     "classes": [
       {
         "qid": "Q81163",
@@ -9163,7 +9187,9 @@
     "qid": "Q25449356",
     "label": "poly(trifluoroethylene)",
     "description": "polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C(F)C(F)(F)[*] |Sg:n:1,2,3,4,5::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9656,7 +9682,9 @@
     "qid": "Q72501434",
     "label": "polyglycerine",
     "description": "polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]OCC(O)C[*] |Sg:n:1,2,3,4,5::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9709,7 +9737,9 @@
     "qid": "Q72501764",
     "label": "poly(trimethylene carbonate)",
     "description": "polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]OCCCOC(=O)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9737,7 +9767,9 @@
     "qid": "Q72509226",
     "label": "tosylamide/formaldehyde resin",
     "description": "type of polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]N(S(=O)(=O)c1ccccc1)C[*].*C |m:13:8.9,Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10354,7 +10386,9 @@
     "qid": "Q116214097",
     "label": "polyoxetane",
     "description": "synthetic organic heteroatomic thermoplastic polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]OCCC[*] |Sg:n:1,2,3,4::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10426,7 +10460,9 @@
     "qid": "Q116893794",
     "label": "poly(ethyl acrylate)",
     "description": "organic polymer",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]CC(C(=O)OCC)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
