@@ -107,6 +107,14 @@ website with [Frozen-Flask](https://frozen-flask.readthedocs.io/) and publishes 
 push to `main`. Set *Settings > Pages > Source* to *GitHub Actions* once. The links in the pages
 are relative, so the website works at any address.
 
+## License and citation
+
+The code is released under the GNU General Public License version 3, see [LICENSE.md](LICENSE.md),
+the same license as [Scholia](https://github.com/WDscholia/scholia). The data comes from Wikidata
+(CC0). If you use this website, please cite the Scholia Chemistry article it is based on, as given
+in [CITATION.cff](CITATION.cff): Willighagen et al., *Scholia Chemistry: access to chemistry in
+Wikidata*, ChemRxiv (2025), [doi:10.26434/chemrxiv-2025-53n0w](https://doi.org/10.26434/chemrxiv-2025-53n0w).
+
 ## Use of LLMs
 
 This web application is created with the help of LLMs, but the authors take full responsibility of all functionality.

@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+message: >-
+  If you use this website or its data, please cite the Scholia Chemistry
+  article that it is based on.
+title: Polymers
+abstract: >-
+  A Wikidata-powered database of polymers with their physicochemical
+  properties, backed by scientific literature, published as a website.
+type: software
+authors:
+  - given-names: Egon
+    family-names: Willighagen
+    orcid: https://orcid.org/0000-0001-7542-0286
+repository-code: https://github.com/egonw/polymers
+license: GPL-3.0-only
+keywords:
+  - polymers
+  - Wikidata
+  - CXSMILES
+  - Scholia
+preferred-citation:
+  type: article
+  title: "Scholia Chemistry: access to chemistry in Wikidata"
+  authors:
+    - given-names: Egon
+      family-names: Willighagen
+      orcid: https://orcid.org/0000-0001-7542-0286
+    - given-names: Denise
+      family-names: Slenter
+      orcid: https://orcid.org/0000-0001-8449-1318
+    - given-names: Adriano
+      family-names: Rutz
+      orcid: https://orcid.org/0000-0003-0443-9902
+    - given-names: Daniel
+      family-names: Mietchen
+      orcid: https://orcid.org/0000-0001-9488-1870
+    - given-names: Finn
+      family-names: Nielsen
+      orcid: https://orcid.org/0000-0001-6128-3356
+  doi: 10.26434/chemrxiv-2025-53n0w
+  url: https://doi.org/10.26434/chemrxiv-2025-53n0w
+  journal: ChemRxiv
+  publisher:
+    name: American Chemical Society (ACS)
+  year: 2025
+  month: 5
+  date-published: 2025-05-14
+  status: preprint
+  license: CC-BY-4.0
