@@ -69,6 +69,7 @@ class AppTest(unittest.TestCase):
         self.assertIn('cdkdepict.toolforge.org', page)
         self.assertIn('No CXSMILES in Wikidata', page)
         self.assertIn('href="https://doi.org/10.26434/chemrxiv-2025-53n0w"', page)
+        self.assertIn('href="https://github.com/egonw/polymers/blob/main/LICENSE.md">GPL-3.0</a>', page)
         self.assertIn('href="https://commons.wikimedia.org/wiki/File:PPO_sample_%281%29.jpg"', page)
         self.assertIn('src="https://commons.wikimedia.org/wiki/Special:FilePath/PPO%20sample%20%281%29.jpg?width=150"', page)
         self.assertIn('hreflang="en" title="English Wikipedia">EN</a>', page)
