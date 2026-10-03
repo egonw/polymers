@@ -25,7 +25,8 @@ The website is a small [Flask](https://flask.palletsprojects.com/) application t
 static HTML on GitHub Pages. The front page lists the polymers, three next to each other, with their
 name, a 2D depiction made by [CDK Depict](https://cdkdepict.toolforge.org/) and the CXSMILES from
 Wikidata. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID), the
-polymer classes and monomers, and a table of its physicochemical properties: the value with its
+polymer classes and monomers, links to the English, Dutch, German, French and Italian Wikipedia,
+and a table of its physicochemical properties: the value with its
 unit, the conditions (qualifiers such as the temperature) and the source with its DOI.
 
 The polymers are the items that are an instance of polymer ([wd:Q81163](http://www.wikidata.org/entity/Q81163))

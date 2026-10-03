@@ -37,7 +37,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Starch",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Starch",
+      "nl": "https://nl.wikipedia.org/wiki/Zetmeel",
+      "de": "https://de.wikipedia.org/wiki/St%C3%A4rke",
+      "fr": "https://fr.wikipedia.org/wiki/Amidon",
+      "it": "https://it.wikipedia.org/wiki/Amido"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -261,7 +267,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polycarbonate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polycarbonate",
+      "nl": "https://nl.wikipedia.org/wiki/Polycarbonaat",
+      "de": "https://de.wikipedia.org/wiki/Polycarbonate",
+      "fr": "https://fr.wikipedia.org/wiki/Polycarbonate",
+      "it": "https://it.wikipedia.org/wiki/Policarbonato"
+    },
     "properties": [
       {
         "property": "P2130",
@@ -1081,7 +1093,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Cellulose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Cellulose",
+      "nl": "https://nl.wikipedia.org/wiki/Cellulose",
+      "de": "https://de.wikipedia.org/wiki/Cellulose",
+      "fr": "https://fr.wikipedia.org/wiki/Cellulose",
+      "it": "https://it.wikipedia.org/wiki/Cellulosa"
+    },
     "properties": [
       {
         "property": "P2107",
@@ -1411,7 +1429,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon_6",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon_6",
+      "de": "https://de.wikipedia.org/wiki/Polycaprolactam",
+      "fr": "https://fr.wikipedia.org/wiki/Nylon_6"
+    },
     "properties": []
   },
   {
@@ -1457,7 +1479,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polycaprolactone",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polycaprolactone",
+      "nl": "https://nl.wikipedia.org/wiki/Polycaprolacton",
+      "de": "https://de.wikipedia.org/wiki/Polycaprolacton",
+      "fr": "https://fr.wikipedia.org/wiki/Polycaprolactone",
+      "it": "https://it.wikipedia.org/wiki/Policaprolattone"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -1532,7 +1560,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polymethylpentene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polymethylpentene",
+      "nl": "https://nl.wikipedia.org/wiki/Polymethylpenteen",
+      "de": "https://de.wikipedia.org/wiki/Polymethylpenten",
+      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A9thylpent%C3%A8ne"
+    },
     "properties": []
   },
   {
@@ -1564,7 +1597,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
+      "nl": "https://nl.wikipedia.org/wiki/Teflon",
+      "de": "https://de.wikipedia.org/wiki/Polytetrafluorethylen",
+      "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9trafluoro%C3%A9thyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Politetrafluoroetilene"
+    },
     "properties": [
       {
         "property": "P2107",
@@ -1733,7 +1772,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyethylene",
+      "nl": "https://nl.wikipedia.org/wiki/Polyetheen",
+      "de": "https://de.wikipedia.org/wiki/Polyethylen",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polietilene"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -1825,7 +1870,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene",
+      "nl": "https://nl.wikipedia.org/wiki/Acrylonitril-butadieen-styreen",
+      "de": "https://de.wikipedia.org/wiki/Acrylnitril-Butadien-Styrol-Copolymer",
+      "fr": "https://fr.wikipedia.org/wiki/Acrylonitrile_butadi%C3%A8ne_styr%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Acrilonitrile_butadiene_stirene"
+    },
     "properties": [
       {
         "property": "P6014",
@@ -1871,7 +1922,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polybutadiene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polybutadiene",
+      "nl": "https://nl.wikipedia.org/wiki/Polybutadieen",
+      "de": "https://de.wikipedia.org/wiki/Polybutadien",
+      "fr": "https://fr.wikipedia.org/wiki/Polybutadi%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polibutadiene"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -1931,7 +1988,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nitrocellulose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nitrocellulose",
+      "nl": "https://nl.wikipedia.org/wiki/Cellulosenitraat",
+      "de": "https://de.wikipedia.org/wiki/Cellulosenitrat",
+      "fr": "https://fr.wikipedia.org/wiki/Nitrocellulose",
+      "it": "https://it.wikipedia.org/wiki/Nitrocellulosa"
+    },
     "properties": []
   },
   {
@@ -1954,7 +2017,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Cyclic_olefin_copolymer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Cyclic_olefin_copolymer",
+      "de": "https://de.wikipedia.org/wiki/Cycloolefin-Copolymere"
+    },
     "properties": []
   },
   {
@@ -1986,7 +2052,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Neoprene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Neoprene",
+      "nl": "https://nl.wikipedia.org/wiki/Neopreen",
+      "de": "https://de.wikipedia.org/wiki/Chloropren-Kautschuk",
+      "fr": "https://fr.wikipedia.org/wiki/N%C3%A9opr%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Neoprene"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -2126,7 +2198,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/ETFE",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/ETFE",
+      "nl": "https://nl.wikipedia.org/wiki/ETFE",
+      "de": "https://de.wikipedia.org/wiki/Ethylen-Tetrafluorethylen-Copolymer",
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne_t%C3%A9trafluoro%C3%A9thyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Etilene_tetrafluoroetilene"
+    },
     "properties": []
   },
   {
@@ -2158,7 +2236,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Ethylene-vinyl_acetate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Ethylene-vinyl_acetate",
+      "nl": "https://nl.wikipedia.org/wiki/Ethyleenvinylacetaat",
+      "de": "https://de.wikipedia.org/wiki/Ethylen-Vinylacetat-Copolymer",
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne-ac%C3%A9tate_de_vinyle",
+      "it": "https://it.wikipedia.org/wiki/Etilene_vinil_acetato"
+    },
     "properties": []
   },
   {
@@ -2188,7 +2272,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyisoprene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyisoprene",
+      "de": "https://de.wikipedia.org/wiki/Polyisopren",
+      "fr": "https://fr.wikipedia.org/wiki/Polyisopr%C3%A8ne_synth%C3%A9tique",
+      "it": "https://it.wikipedia.org/wiki/Poliisoprene"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -2335,7 +2424,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nitrile_rubber",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nitrile_rubber",
+      "nl": "https://nl.wikipedia.org/wiki/Nitrilbutadieenrubber",
+      "de": "https://de.wikipedia.org/wiki/Acrylnitril-Butadien-Kautschuk",
+      "fr": "https://fr.wikipedia.org/wiki/Butadi%C3%A8ne-acrylonitrile",
+      "it": "https://it.wikipedia.org/wiki/Gomma_nitrilica"
+    },
     "properties": []
   },
   {
@@ -2367,7 +2462,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyacrylonitrile",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyacrylonitrile",
+      "de": "https://de.wikipedia.org/wiki/Polyacrylnitril",
+      "fr": "https://fr.wikipedia.org/wiki/Polyacrylonitrile",
+      "it": "https://it.wikipedia.org/wiki/Poliacrilonitrile"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -2469,7 +2569,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polybutylene_terephthalate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polybutylene_terephthalate",
+      "nl": "https://nl.wikipedia.org/wiki/Polybutyleentereftalaat",
+      "de": "https://de.wikipedia.org/wiki/Polybutylenterephthalat",
+      "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_de_butyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polibutilentereftalato"
+    },
     "properties": []
   },
   {
@@ -2492,7 +2598,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polycyclohexylenedimethylene_terephthalate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polycyclohexylenedimethylene_terephthalate",
+      "de": "https://de.wikipedia.org/wiki/Polycyclohexylendimethylenterephthalat"
+    },
     "properties": []
   },
   {
@@ -2522,7 +2631,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polychlorotrifluoroethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polychlorotrifluoroethylene",
+      "nl": "https://nl.wikipedia.org/wiki/Polychloortrifluorethyleen",
+      "de": "https://de.wikipedia.org/wiki/Polychlortrifluorethylen",
+      "fr": "https://fr.wikipedia.org/wiki/Polychlorotrifluoro%C3%A9thyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Policlorotrifluoroetilene"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -2662,7 +2777,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyetherimide",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyetherimide",
+      "de": "https://de.wikipedia.org/wiki/Polyetherimide",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9therimide",
+      "it": "https://it.wikipedia.org/wiki/Polietereimmide"
+    },
     "properties": []
   },
   {
@@ -2699,7 +2819,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Polyethersulfon"
+    },
     "properties": []
   },
   {
@@ -2707,7 +2829,7 @@
     "label": "polyethylene terephthalate",
     "description": "type of polyester commonly used for bottles and clothing",
     "cxsmiles": [
-      "[*]CCOC(=O)c1cc(ccc1)C(=O)O[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
+      "[*]CCOC(=O)c1ccc(cc1)C(=O)O[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
     ],
     "classes": [
       {
@@ -2735,7 +2857,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate",
+      "nl": "https://nl.wikipedia.org/wiki/Polyethyleentereftalaat",
+      "de": "https://de.wikipedia.org/wiki/Polyethylenterephthalat",
+      "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_d%27%C3%A9thyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polietilene_tereftalato"
+    },
     "properties": [
       {
         "property": "P2102",
@@ -2963,7 +3091,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyisobutene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyisobutene",
+      "nl": "https://nl.wikipedia.org/wiki/Polyisobuteen",
+      "de": "https://de.wikipedia.org/wiki/Polyisobutylen",
+      "fr": "https://fr.wikipedia.org/wiki/Polyisobutyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Poliisobutilene"
+    },
     "properties": []
   },
   {
@@ -2986,7 +3120,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Polymethacrylimid"
+    },
     "properties": []
   },
   {
@@ -3020,7 +3156,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)",
+      "nl": "https://nl.wikipedia.org/wiki/Polymethylmethacrylaat",
+      "de": "https://de.wikipedia.org/wiki/Polymethylmethacrylat",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(m%C3%A9thacrylate_de_m%C3%A9thyle)",
+      "it": "https://it.wikipedia.org/wiki/Polimetilmetacrilato"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -3343,7 +3485,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polypropylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polypropylene",
+      "nl": "https://nl.wikipedia.org/wiki/Polypropeen",
+      "de": "https://de.wikipedia.org/wiki/Polypropylen",
+      "fr": "https://fr.wikipedia.org/wiki/Polypropyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polipropilene"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -3884,7 +4032,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)",
+      "de": "https://de.wikipedia.org/wiki/Polyphenylenether",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(oxyde_de_ph%C3%A9nyl%C3%A8ne)",
+      "it": "https://it.wikipedia.org/wiki/Polifenilenossido"
+    },
     "properties": [
       {
         "property": "P5675",
@@ -3962,7 +4115,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyphenylene_sulfide",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyphenylene_sulfide",
+      "nl": "https://nl.wikipedia.org/wiki/Polyfenyleensulfide",
+      "de": "https://de.wikipedia.org/wiki/Polyphenylensulfid",
+      "fr": "https://fr.wikipedia.org/wiki/Polysulfure_de_ph%C3%A9nyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Poliparafenilensolfuro"
+    },
     "properties": [
       {
         "property": "P2101",
@@ -3999,7 +4158,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polypyrrole",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polypyrrole",
+      "de": "https://de.wikipedia.org/wiki/Polypyrrol",
+      "fr": "https://fr.wikipedia.org/wiki/Polypyrrole",
+      "it": "https://it.wikipedia.org/wiki/Polipirrolo"
+    },
     "properties": []
   },
   {
@@ -4031,7 +4195,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polystyrene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polystyrene",
+      "nl": "https://nl.wikipedia.org/wiki/Polystyreen",
+      "de": "https://de.wikipedia.org/wiki/Polystyrol",
+      "fr": "https://fr.wikipedia.org/wiki/Polystyr%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polistirene"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -4208,7 +4378,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinyl_alcohol",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinyl_alcohol",
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylalcohol",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylalkohol",
+      "fr": "https://fr.wikipedia.org/wiki/Alcool_polyvinylique",
+      "it": "https://it.wikipedia.org/wiki/Alcol_polivinilico"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -4292,7 +4468,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinyl_acetate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinyl_acetate",
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylacetaat",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylacetat",
+      "fr": "https://fr.wikipedia.org/wiki/Polyac%C3%A9tate_de_vinyle",
+      "it": "https://it.wikipedia.org/wiki/Polivinilacetato"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -4427,7 +4609,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinyl_chloride",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinyl_chloride",
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylchloride",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylchlorid",
+      "fr": "https://fr.wikipedia.org/wiki/Polychlorure_de_vinyle",
+      "it": "https://it.wikipedia.org/wiki/Polivinilcloruro"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -4766,7 +4954,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinylidene_fluoride",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinylidene_fluoride",
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylideenfluoride",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylidenfluorid",
+      "fr": "https://fr.wikipedia.org/wiki/Polyfluorure_de_vinylid%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polivinilidenfluoruro"
+    },
     "properties": [
       {
         "property": "P2101",
@@ -4926,7 +5120,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinyl_fluoride",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinyl_fluoride",
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylfluoride",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylfluorid",
+      "fr": "https://fr.wikipedia.org/wiki/Polyfluorure_de_vinyle",
+      "it": "https://it.wikipedia.org/wiki/Polivinilfluoruro"
+    },
     "properties": []
   },
   {
@@ -4962,7 +5162,12 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Styrene-acrylonitrile_resin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Styrene-acrylonitrile_resin",
+      "de": "https://de.wikipedia.org/wiki/Styrol-Acrylnitril-Copolymer",
+      "fr": "https://fr.wikipedia.org/wiki/Styr%C3%A8ne-acrylonitrile",
+      "it": "https://it.wikipedia.org/wiki/Copolimero_SAN"
+    },
     "properties": []
   },
   {
@@ -4996,7 +5201,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Styrene-butadiene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Styrene-butadiene",
+      "de": "https://de.wikipedia.org/wiki/Styrol-Butadien-Kautschuk",
+      "fr": "https://fr.wikipedia.org/wiki/Styr%C3%A8ne-butadi%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Gomma_SBR"
+    },
     "properties": []
   },
   {
@@ -5032,7 +5242,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
+      "nl": "https://nl.wikipedia.org/wiki/Ureumformaldehyde",
+      "de": "https://de.wikipedia.org/wiki/Harnstoffharz",
+      "fr": "https://fr.wikipedia.org/wiki/Mousse_isolante_d%27ur%C3%A9e-formald%C3%A9hyde"
+    },
     "properties": []
   },
   {
@@ -5065,7 +5280,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Chitin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Chitin",
+      "nl": "https://nl.wikipedia.org/wiki/Chitine",
+      "de": "https://de.wikipedia.org/wiki/Chitin",
+      "fr": "https://fr.wikipedia.org/wiki/Chitine",
+      "it": "https://it.wikipedia.org/wiki/Chitina"
+    },
     "properties": [
       {
         "property": "P2067",
@@ -5106,7 +5327,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Glycogen",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Glycogen",
+      "nl": "https://nl.wikipedia.org/wiki/Glycogeen",
+      "de": "https://de.wikipedia.org/wiki/Glykogen",
+      "fr": "https://fr.wikipedia.org/wiki/Glycog%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Glicogeno"
+    },
     "properties": []
   },
   {
@@ -5135,7 +5362,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Maltodextrin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Maltodextrin",
+      "nl": "https://nl.wikipedia.org/wiki/Maltodextrine",
+      "de": "https://de.wikipedia.org/wiki/Maltodextrin",
+      "fr": "https://fr.wikipedia.org/wiki/Maltodextrine",
+      "it": "https://it.wikipedia.org/wiki/Maltodestrina"
+    },
     "properties": []
   },
   {
@@ -5162,7 +5395,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon",
+      "nl": "https://nl.wikipedia.org/wiki/Nylon",
+      "de": "https://de.wikipedia.org/wiki/Nylon_(Faser)",
+      "fr": "https://fr.wikipedia.org/wiki/Nylon",
+      "it": "https://it.wikipedia.org/wiki/Nylon"
+    },
     "properties": [
       {
         "property": "P5480",
@@ -5229,7 +5468,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyglutamic_acid",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyglutamic_acid",
+      "de": "https://de.wikipedia.org/wiki/%CE%93-Polyglutamins%C3%A4ure"
+    },
     "properties": []
   },
   {
@@ -5260,7 +5502,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Amylose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Amylose",
+      "nl": "https://nl.wikipedia.org/wiki/Amylose",
+      "de": "https://de.wikipedia.org/wiki/Amylose",
+      "fr": "https://fr.wikipedia.org/wiki/Amylose",
+      "it": "https://it.wikipedia.org/wiki/Amilosio"
+    },
     "properties": []
   },
   {
@@ -5289,7 +5537,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Zylon",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Zylon",
+      "de": "https://de.wikipedia.org/wiki/Poly(p-phenylen-2,6-benzobisoxazol)",
+      "fr": "https://fr.wikipedia.org/wiki/Zylon",
+      "it": "https://it.wikipedia.org/wiki/Zylon"
+    },
     "properties": []
   },
   {
@@ -5316,7 +5569,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Amylopectin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Amylopectin",
+      "nl": "https://nl.wikipedia.org/wiki/Amylopectine",
+      "de": "https://de.wikipedia.org/wiki/Amylopektin",
+      "fr": "https://fr.wikipedia.org/wiki/Amylopectine",
+      "it": "https://it.wikipedia.org/wiki/Amilopectina"
+    },
     "properties": [
       {
         "property": "P2067",
@@ -5364,7 +5623,13 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Hyaluronic_acid",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Hyaluronic_acid",
+      "nl": "https://nl.wikipedia.org/wiki/Hyaluronan",
+      "de": "https://de.wikipedia.org/wiki/Hyalurons%C3%A4ure",
+      "fr": "https://fr.wikipedia.org/wiki/Acide_hyaluronique",
+      "it": "https://it.wikipedia.org/wiki/Acido_ialuronico"
+    },
     "properties": []
   },
   {
@@ -5402,7 +5667,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Chondroitin_sulfate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Chondroitin_sulfate",
+      "nl": "https://nl.wikipedia.org/wiki/Chondro%C3%AFtine",
+      "de": "https://de.wikipedia.org/wiki/Chondroitinsulfat",
+      "fr": "https://fr.wikipedia.org/wiki/Sulfate_de_chondro%C3%AFtine",
+      "it": "https://it.wikipedia.org/wiki/Condroitina_solfato"
+    },
     "properties": []
   },
   {
@@ -5431,7 +5702,12 @@
         "134222025"
       ]
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyhexanide",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyhexanide",
+      "nl": "https://nl.wikipedia.org/wiki/Polyhexanide",
+      "de": "https://de.wikipedia.org/wiki/Polyhexanid",
+      "fr": "https://fr.wikipedia.org/wiki/Polyhexam%C3%A9thyl%C3%A8ne_biguanide"
+    },
     "properties": []
   },
   {
@@ -5463,7 +5739,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyacrylic_acid",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyacrylic_acid",
+      "nl": "https://nl.wikipedia.org/wiki/Polyacrylzuur",
+      "de": "https://de.wikipedia.org/wiki/Polyacryls%C3%A4ure",
+      "fr": "https://fr.wikipedia.org/wiki/Acide_polyacrylique"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -5515,7 +5796,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyethylene_glycol",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyethylene_glycol",
+      "nl": "https://nl.wikipedia.org/wiki/Polyethyleenglycol",
+      "de": "https://de.wikipedia.org/wiki/Polyethylenglycol",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_glycol",
+      "it": "https://it.wikipedia.org/wiki/Glicole_polietilenico"
+    },
     "properties": [
       {
         "property": "P4250",
@@ -5569,7 +5856,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Ficoll",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Ficoll",
+      "nl": "https://nl.wikipedia.org/wiki/Ficoll",
+      "de": "https://de.wikipedia.org/wiki/Saccharose-Epichlorhydrin-Copolymer",
+      "it": "https://it.wikipedia.org/wiki/Ficoll"
+    },
     "properties": []
   },
   {
@@ -5590,7 +5882,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Diethylaminoethyl_cellulose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Diethylaminoethyl_cellulose",
+      "de": "https://de.wikipedia.org/wiki/Diethylaminoethylcellulose",
+      "fr": "https://fr.wikipedia.org/wiki/Cellulose_di%C3%A9thylamino%C3%A9thyle"
+    },
     "properties": []
   },
   {
@@ -5626,7 +5922,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyethylene_naphthalate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyethylene_naphthalate",
+      "nl": "https://nl.wikipedia.org/wiki/Polyethyleennaftalaat",
+      "de": "https://de.wikipedia.org/wiki/Polyethylennaphthalat",
+      "fr": "https://fr.wikipedia.org/wiki/Polynaphtalate_d%27%C3%A9thyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Polietilene_naftalato"
+    },
     "properties": []
   },
   {
@@ -5653,7 +5955,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polydimethylsiloxane",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polydimethylsiloxane",
+      "nl": "https://nl.wikipedia.org/wiki/Polydimethylsiloxaan",
+      "de": "https://de.wikipedia.org/wiki/Polydimethylsiloxan",
+      "fr": "https://fr.wikipedia.org/wiki/Polydim%C3%A9thylsiloxane",
+      "it": "https://it.wikipedia.org/wiki/Polidimetilsilossano"
+    },
     "properties": []
   },
   {
@@ -5676,7 +5984,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Cyanophycin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Cyanophycin",
+      "de": "https://de.wikipedia.org/wiki/Cyanophycin",
+      "fr": "https://fr.wikipedia.org/wiki/Cyanophycine"
+    },
     "properties": []
   },
   {
@@ -5699,7 +6011,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nafion",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nafion",
+      "de": "https://de.wikipedia.org/wiki/Nafion",
+      "fr": "https://fr.wikipedia.org/wiki/Nafion",
+      "it": "https://it.wikipedia.org/wiki/Nafion"
+    },
     "properties": []
   },
   {
@@ -5747,7 +6064,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinylpyrrolidone",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinylpyrrolidone",
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylpyrrolidon",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylpyrrolidon",
+      "fr": "https://fr.wikipedia.org/wiki/Polyvinylpyrrolidone",
+      "it": "https://it.wikipedia.org/wiki/Polivinilpirrolidone"
+    },
     "properties": []
   },
   {
@@ -5774,7 +6097,12 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Methyl_cellulose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Methyl_cellulose",
+      "de": "https://de.wikipedia.org/wiki/Methylcellulose",
+      "fr": "https://fr.wikipedia.org/wiki/M%C3%A9thylcellulose",
+      "it": "https://it.wikipedia.org/wiki/Metilcellulosa"
+    },
     "properties": []
   },
   {
@@ -5797,7 +6125,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Enoxaparin_sodium",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Enoxaparin_sodium",
+      "de": "https://de.wikipedia.org/wiki/Enoxaparin-Natrium",
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89noxaparine",
+      "it": "https://it.wikipedia.org/wiki/Enoxaparina"
+    },
     "properties": []
   },
   {
@@ -5824,7 +6157,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polybutylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polybutylene",
+      "nl": "https://nl.wikipedia.org/wiki/Polybutyleen",
+      "de": "https://de.wikipedia.org/wiki/Polybuten",
+      "fr": "https://fr.wikipedia.org/wiki/Polybut%C3%A8ne-1",
+      "it": "https://it.wikipedia.org/wiki/Polibutilene"
+    },
     "properties": []
   },
   {
@@ -5851,7 +6190,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Paraformaldehyde",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Paraformaldehyde",
+      "nl": "https://nl.wikipedia.org/wiki/Paraformaldehyde",
+      "de": "https://de.wikipedia.org/wiki/Paraformaldehyd",
+      "it": "https://it.wikipedia.org/wiki/Paraformaldeide"
+    },
     "properties": []
   },
   {
@@ -5876,7 +6220,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyethylenimine",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyethylenimine",
+      "nl": "https://nl.wikipedia.org/wiki/Polyethyleenimine",
+      "de": "https://de.wikipedia.org/wiki/Polyethylenimin",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8neimine"
+    },
     "properties": []
   },
   {
@@ -5903,7 +6252,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyacetylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyacetylene",
+      "de": "https://de.wikipedia.org/wiki/Polyethin",
+      "fr": "https://fr.wikipedia.org/wiki/Polyac%C3%A9tyl%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Poliacetilene"
+    },
     "properties": []
   },
   {
@@ -5932,7 +6286,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Policosanol",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Policosanol",
+      "de": "https://de.wikipedia.org/wiki/Policosanol",
+      "it": "https://it.wikipedia.org/wiki/Policosanoli"
+    },
     "properties": []
   },
   {
@@ -5959,7 +6317,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Ethyl_cellulose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Ethyl_cellulose",
+      "de": "https://de.wikipedia.org/wiki/Ethylcellulose",
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thylcellulose"
+    },
     "properties": []
   },
   {
@@ -5980,7 +6342,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/PEDOT:PSS",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/PEDOT:PSS",
+      "fr": "https://fr.wikipedia.org/wiki/PEDOT:PSS"
+    },
     "properties": []
   },
   {
@@ -6005,7 +6370,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Gutta-percha",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Gutta-percha",
+      "nl": "https://nl.wikipedia.org/wiki/Guttapercha",
+      "de": "https://de.wikipedia.org/wiki/Guttapercha",
+      "fr": "https://fr.wikipedia.org/wiki/Gutta-percha",
+      "it": "https://it.wikipedia.org/wiki/Guttaperca"
+    },
     "properties": []
   },
   {
@@ -6037,7 +6408,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyglycolide",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyglycolide",
+      "de": "https://de.wikipedia.org/wiki/Polyhydroxyessigs%C3%A4ure",
+      "fr": "https://fr.wikipedia.org/wiki/Acide_polyglycolique",
+      "it": "https://it.wikipedia.org/wiki/Acido_poliglicolico"
+    },
     "properties": []
   },
   {
@@ -6069,7 +6445,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyhydroxybutyrate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyhydroxybutyrate",
+      "de": "https://de.wikipedia.org/wiki/Polyhydroxybutters%C3%A4ure",
+      "fr": "https://fr.wikipedia.org/wiki/Poly-%CE%B2-hydroxybutyrate",
+      "it": "https://it.wikipedia.org/wiki/Poli-%CE%B2-idrossibutirrato"
+    },
     "properties": []
   },
   {
@@ -6102,7 +6483,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Heparan_sulfate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Heparan_sulfate",
+      "de": "https://de.wikipedia.org/wiki/Heparansulfat",
+      "fr": "https://fr.wikipedia.org/wiki/Sulfate_d%27h%C3%A9parane",
+      "it": "https://it.wikipedia.org/wiki/Eparan_solfato"
+    },
     "properties": []
   },
   {
@@ -6125,7 +6511,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Callose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Callose",
+      "de": "https://de.wikipedia.org/wiki/Callose",
+      "fr": "https://fr.wikipedia.org/wiki/Callose",
+      "it": "https://it.wikipedia.org/wiki/Callosio"
+    },
     "properties": []
   },
   {
@@ -6150,7 +6541,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Parylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Parylene",
+      "de": "https://de.wikipedia.org/wiki/Parylene",
+      "fr": "https://fr.wikipedia.org/wiki/Paryl%C3%A8ne"
+    },
     "properties": []
   },
   {
@@ -6176,7 +6571,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_de_masse_molaire_tr%C3%A8s_%C3%A9lev%C3%A9e",
+      "it": "https://it.wikipedia.org/wiki/Polietilene_ad_altissimo_peso_molecolare"
+    },
     "properties": []
   },
   {
@@ -6197,7 +6596,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Synthetic_ice",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Synthetic_ice",
+      "de": "https://de.wikipedia.org/wiki/Synthetisches_Eis",
+      "fr": "https://fr.wikipedia.org/wiki/Glace_synth%C3%A9tique"
+    },
     "properties": []
   },
   {
@@ -6220,7 +6623,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(4-vinylphenol)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(4-vinylphenol)",
+      "fr": "https://fr.wikipedia.org/wiki/Poly-4-vinylph%C3%A9nol"
+    },
     "properties": []
   },
   {
@@ -6243,7 +6649,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Lipoteichoic_acid",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Lipoteichoic_acid",
+      "fr": "https://fr.wikipedia.org/wiki/Acide_lipot%C3%A9icho%C3%AFque"
+    },
     "properties": []
   },
   {
@@ -6264,7 +6673,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Thermosetting_polymer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Thermosetting_polymer",
+      "nl": "https://nl.wikipedia.org/wiki/Thermoharder",
+      "de": "https://de.wikipedia.org/wiki/Duroplaste",
+      "fr": "https://fr.wikipedia.org/wiki/Thermodurcissable",
+      "it": "https://it.wikipedia.org/wiki/Polimeri_termoindurenti"
+    },
     "properties": []
   },
   {
@@ -6292,7 +6707,11 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Colesevelam",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Colesevelam",
+      "de": "https://de.wikipedia.org/wiki/Colesevelam",
+      "it": "https://it.wikipedia.org/wiki/Colesevelam"
+    },
     "properties": [
       {
         "property": "P4250",
@@ -6366,7 +6785,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Hypalon",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Hypalon",
+      "nl": "https://nl.wikipedia.org/wiki/Hypalon",
+      "de": "https://de.wikipedia.org/wiki/Hypalon",
+      "fr": "https://fr.wikipedia.org/wiki/Hypalon"
+    },
     "properties": []
   },
   {
@@ -6387,7 +6811,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/HNBR",
+      "fr": "https://fr.wikipedia.org/wiki/HNBR",
+      "it": "https://it.wikipedia.org/wiki/HNBR"
+    },
     "properties": []
   },
   {
@@ -6410,7 +6838,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polybutene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polybutene",
+      "fr": "https://fr.wikipedia.org/wiki/Polybut%C3%A8ne"
+    },
     "properties": []
   },
   {
@@ -6443,7 +6874,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polythiazyl",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polythiazyl",
+      "de": "https://de.wikipedia.org/wiki/Polythiazyl",
+      "fr": "https://fr.wikipedia.org/wiki/Polythiazyle"
+    },
     "properties": []
   },
   {
@@ -6464,7 +6899,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Cardo_polymer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Cardo_polymer",
+      "de": "https://de.wikipedia.org/wiki/Cardo-Polymer"
+    },
     "properties": []
   },
   {
@@ -6487,7 +6925,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Kollodiumwolle"
+    },
     "properties": []
   },
   {
@@ -6519,7 +6959,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Methylkautschuk"
+    },
     "properties": []
   },
   {
@@ -6545,7 +6987,13 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Low-density_polyethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Low-density_polyethylene",
+      "nl": "https://nl.wikipedia.org/wiki/Lagedichtheidpolyetheen",
+      "de": "https://de.wikipedia.org/wiki/Polyethylen_niedriger_Dichte",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_basse_densit%C3%A9",
+      "it": "https://it.wikipedia.org/wiki/Polietilene_a_bassa_densit%C3%A0"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -6836,7 +7284,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Poly(3-hexylthiophen-2,5-diyl)",
+      "fr": "https://fr.wikipedia.org/wiki/P3HT"
+    },
     "properties": []
   },
   {
@@ -6857,7 +7308,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Polymeres_Diphenylmethandiisocyanat"
+    },
     "properties": []
   },
   {
@@ -6882,7 +7335,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polytrimethylene_terephthalate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polytrimethylene_terephthalate",
+      "nl": "https://nl.wikipedia.org/wiki/Poly(trimethyleentereftalaat)",
+      "de": "https://de.wikipedia.org/wiki/Polytrimethylenterephthalat",
+      "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_de_trim%C3%A9thyl%C3%A8ne"
+    },
     "properties": []
   },
   {
@@ -6920,7 +7378,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nomex",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nomex",
+      "de": "https://de.wikipedia.org/wiki/Nomex",
+      "fr": "https://fr.wikipedia.org/wiki/Nomex",
+      "it": "https://it.wikipedia.org/wiki/Nomex"
+    },
     "properties": []
   },
   {
@@ -6951,7 +7414,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Dermatan_sulfate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Dermatan_sulfate",
+      "it": "https://it.wikipedia.org/wiki/Dermatan_solfato"
+    },
     "properties": []
   },
   {
@@ -6976,7 +7442,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon_12",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon_12",
+      "nl": "https://nl.wikipedia.org/wiki/Polyamide_12"
+    },
     "properties": []
   },
   {
@@ -7001,7 +7470,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "nl": "https://nl.wikipedia.org/wiki/Polyoctenameer"
+    },
     "properties": []
   },
   {
@@ -7028,7 +7499,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polythiophene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polythiophene",
+      "de": "https://de.wikipedia.org/wiki/Polythiophene",
+      "fr": "https://fr.wikipedia.org/wiki/Polythioph%C3%A8ne",
+      "it": "https://it.wikipedia.org/wiki/Politiofene"
+    },
     "properties": []
   },
   {
@@ -7056,7 +7532,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/High-density_polyethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
+      "nl": "https://nl.wikipedia.org/wiki/Hoge-dichtheidspolyetheen",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_haute_densit%C3%A9",
+      "it": "https://it.wikipedia.org/wiki/Polietilene_ad_alta_densit%C3%A0"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -7352,7 +7833,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
+      "de": "https://de.wikipedia.org/wiki/Vernetztes_Polyethylen",
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_r%C3%A9ticul%C3%A9"
+    },
     "properties": []
   },
   {
@@ -7379,7 +7864,12 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
+      "nl": "https://nl.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
+      "it": "https://it.wikipedia.org/wiki/PNIPPA"
+    },
     "properties": []
   },
   {
@@ -7407,7 +7897,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polystyrene_sulfonate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polystyrene_sulfonate",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(styr%C3%A8ne_sulfonate)_de_sodium"
+    },
     "properties": [
       {
         "property": "P4250",
@@ -7457,7 +7950,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Paraloid_B-72",
+      "de": "https://de.wikipedia.org/wiki/Paraloid_B-72",
+      "it": "https://it.wikipedia.org/wiki/Paraloid_B-72"
+    },
     "properties": []
   },
   {
@@ -7478,7 +7975,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89mail_%C3%A0_froid"
+    },
     "properties": []
   },
   {
@@ -7499,7 +7998,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Formazine",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Formazine",
+      "it": "https://it.wikipedia.org/wiki/Formazina"
+    },
     "properties": []
   },
   {
@@ -7520,7 +8022,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "it": "https://it.wikipedia.org/wiki/PVC-O"
+    },
     "properties": []
   },
   {
@@ -7547,7 +8051,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Carbom%C3%A8re",
+      "it": "https://it.wikipedia.org/wiki/Polimero_carbossivinilico"
+    },
     "properties": []
   },
   {
@@ -7572,7 +8079,10 @@
         "135020626"
       ]
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Cellulose_acetate_butyrate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Cellulose_acetate_butyrate",
+      "de": "https://de.wikipedia.org/wiki/Celluloseacetatbutyrat"
+    },
     "properties": []
   },
   {
@@ -7620,7 +8130,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Twaron",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Twaron",
+      "nl": "https://nl.wikipedia.org/wiki/Twaron",
+      "de": "https://de.wikipedia.org/wiki/Twaron"
+    },
     "properties": []
   },
   {
@@ -7641,7 +8155,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -7662,7 +8176,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -7683,7 +8197,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -7708,7 +8222,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Fluoroelastomer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Fluoroelastomer",
+      "fr": "https://fr.wikipedia.org/wiki/Fluoro%C3%A9lastom%C3%A8re"
+    },
     "properties": []
   },
   {
@@ -7731,7 +8248,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat"
+    },
     "properties": []
   },
   {
@@ -7756,7 +8275,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Anoxomer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Anoxomer",
+      "de": "https://de.wikipedia.org/wiki/Anoxomer",
+      "fr": "https://fr.wikipedia.org/wiki/Anoxom%C3%A8re"
+    },
     "properties": []
   },
   {
@@ -7779,7 +8302,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Ardeparin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Ardeparin"
+    },
     "properties": []
   },
   {
@@ -7802,7 +8327,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Compound_48/80",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Compound_48/80",
+      "fr": "https://fr.wikipedia.org/wiki/Compos%C3%A9_48/80"
+    },
     "properties": []
   },
   {
@@ -7827,7 +8355,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Elastolefin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Elastolefin"
+    },
     "properties": []
   },
   {
@@ -7848,7 +8378,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Flubber_(material)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Flubber_(material)"
+    },
     "properties": []
   },
   {
@@ -7869,7 +8401,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Graphitic_carbon_nitride",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Graphitic_carbon_nitride",
+      "fr": "https://fr.wikipedia.org/wiki/Nitrure_de_carbone_graphitique"
+    },
     "properties": []
   },
   {
@@ -7903,7 +8438,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon_66",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon_66",
+      "de": "https://de.wikipedia.org/wiki/Nylon_66"
+    },
     "properties": [
       {
         "property": "P5811",
@@ -7977,7 +8515,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polybutadiene_acrylonitrile",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polybutadiene_acrylonitrile",
+      "de": "https://de.wikipedia.org/wiki/Polybutadien-Acrylnitril"
+    },
     "properties": []
   },
   {
@@ -7998,7 +8539,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/P123",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/P123"
+    },
     "properties": []
   },
   {
@@ -8032,7 +8575,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/PHBV",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/PHBV"
+    },
     "properties": []
   },
   {
@@ -8071,7 +8616,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(dichlorophosphazene)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(dichlorophosphazene)",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(dichlorophosphaz%C3%A8ne)"
+    },
     "properties": []
   },
   {
@@ -8096,7 +8644,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(hydridocarbyne)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(hydridocarbyne)"
+    },
     "properties": []
   },
   {
@@ -8128,7 +8678,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(methyl_acrylate)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(methyl_acrylate)",
+      "it": "https://it.wikipedia.org/wiki/Polimetilacrilato"
+    },
     "properties": []
   },
   {
@@ -8156,7 +8709,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/PolyAMPS",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/PolyAMPS",
+      "fr": "https://fr.wikipedia.org/wiki/PolyAMPS"
+    },
     "properties": []
   },
   {
@@ -8177,7 +8733,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyaniline_nanofibers",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyaniline_nanofibers"
+    },
     "properties": []
   },
   {
@@ -8206,7 +8764,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyphenyl_ether",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyphenyl_ether",
+      "fr": "https://fr.wikipedia.org/wiki/Polyaryl%C3%A9ther"
+    },
     "properties": []
   },
   {
@@ -8244,7 +8805,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polypropylene_carbonate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polypropylene_carbonate",
+      "nl": "https://nl.wikipedia.org/wiki/Polypropyleencarbonaat",
+      "de": "https://de.wikipedia.org/wiki/Polypropylencarbonat"
+    },
     "properties": []
   },
   {
@@ -8271,7 +8836,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polymethylene_polyphenylene_isocyanate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polymethylene_polyphenylene_isocyanate"
+    },
     "properties": []
   },
   {
@@ -8296,7 +8863,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Sodium_apolate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Sodium_apolate"
+    },
     "properties": []
   },
   {
@@ -8317,7 +8886,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Telechelic_polymer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Telechelic_polymer",
+      "de": "https://de.wikipedia.org/wiki/Telechele"
+    },
     "properties": []
   },
   {
@@ -8338,7 +8910,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Thermoplastic_olefin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Thermoplastic_olefin"
+    },
     "properties": []
   },
   {
@@ -8359,7 +8933,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -8384,7 +8958,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Acetylated_starch",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Acetylated_starch",
+      "de": "https://de.wikipedia.org/wiki/Acetylierte_St%C3%A4rke"
+    },
     "properties": []
   },
   {
@@ -8409,7 +8986,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -8430,7 +9007,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -8458,7 +9035,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -8483,7 +9060,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -8508,7 +9085,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/PCDTBT"
+    },
     "properties": []
   },
   {
@@ -8531,7 +9110,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(3,4-ethylenedioxythiophene)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(3,4-ethylenedioxythiophene)",
+      "de": "https://de.wikipedia.org/wiki/Poly-3,4-ethylendioxythiophen",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(3,4-%C3%A9thyl%C3%A8nedioxythioph%C3%A8ne)"
+    },
     "properties": []
   },
   {
@@ -8565,7 +9148,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(ethylene_adipate)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(ethylene_adipate)"
+    },
     "properties": []
   },
   {
@@ -8592,7 +9177,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly-%CE%B3-glutamate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly-%CE%B3-glutamate"
+    },
     "properties": []
   },
   {
@@ -8619,7 +9206,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Tolevamer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Tolevamer",
+      "de": "https://de.wikipedia.org/wiki/Poly(styrolsulfons%C3%A4ure)"
+    },
     "properties": []
   },
   {
@@ -8651,7 +9241,9 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "nl": "https://nl.wikipedia.org/wiki/Polyvinylcaprolactam"
+    },
     "properties": []
   },
   {
@@ -8676,7 +9268,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Tritan_copolyester",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Tritan_copolyester",
+      "de": "https://de.wikipedia.org/wiki/Tritan_(Kunststoff)",
+      "fr": "https://fr.wikipedia.org/wiki/Tritan"
+    },
     "properties": []
   },
   {
@@ -8699,7 +9295,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(hexamethylene_carbonate)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(hexamethylene_carbonate)"
+    },
     "properties": []
   },
   {
@@ -8720,7 +9318,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Thiokol_(polymer)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Thiokol_(polymer)"
+    },
     "properties": []
   },
   {
@@ -8741,7 +9341,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon_4",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon_4"
+    },
     "properties": []
   },
   {
@@ -8762,7 +9364,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/IPK_Acrylic-polyvinyl_chloride",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/IPK_Acrylic-polyvinyl_chloride"
+    },
     "properties": []
   },
   {
@@ -8783,7 +9387,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Star-shaped_polymer",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Star-shaped_polymer",
+      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A8re_en_%C3%A9toile"
+    },
     "properties": []
   },
   {
@@ -8806,7 +9413,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(amidoamine)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(amidoamine)"
+    },
     "properties": []
   },
   {
@@ -8829,7 +9438,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polysuccinimide",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polysuccinimide",
+      "de": "https://de.wikipedia.org/wiki/Polysuccinimid"
+    },
     "properties": []
   },
   {
@@ -8850,7 +9462,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "nl": "https://nl.wikipedia.org/wiki/Glycix"
+    },
     "properties": []
   },
   {
@@ -8875,7 +9489,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Konjugierte_Polymere"
+    },
     "properties": []
   },
   {
@@ -8896,7 +9512,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyhexahydrotriazine",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyhexahydrotriazine"
+    },
     "properties": []
   },
   {
@@ -8919,7 +9537,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Ethyl_methyl_cellulose",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Ethyl_methyl_cellulose",
+      "de": "https://de.wikipedia.org/wiki/Methylethylcellulose",
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thylm%C3%A9thylcellulose"
+    },
     "properties": []
   },
   {
@@ -8942,7 +9564,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyoxymethylene_dimethyl_ethers",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyoxymethylene_dimethyl_ethers",
+      "de": "https://de.wikipedia.org/wiki/Polyoxymethylendimethylether"
+    },
     "properties": []
   },
   {
@@ -8965,7 +9590,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "nl": "https://nl.wikipedia.org/wiki/Natriumcarboxylmethylcellulose"
+    },
     "properties": []
   },
   {
@@ -8990,7 +9617,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/PIDA_(polymer)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/PIDA_(polymer)"
+    },
     "properties": []
   },
   {
@@ -9024,7 +9653,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon_46",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon_46"
+    },
     "properties": []
   },
   {
@@ -9055,7 +9686,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Lipegfilgrastim",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Lipegfilgrastim",
+      "de": "https://de.wikipedia.org/wiki/Lipegfilgrastim"
+    },
     "properties": [
       {
         "property": "P4250",
@@ -9109,7 +9743,9 @@
         "196409678"
       ]
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyhexamethylene_guanidine",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyhexamethylene_guanidine"
+    },
     "properties": []
   },
   {
@@ -9138,7 +9774,11 @@
         "404336438"
       ]
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyethylene_furan-2,5-dicarboxylate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyethylene_furan-2,5-dicarboxylate",
+      "de": "https://de.wikipedia.org/wiki/Polyethylenfuranoat",
+      "it": "https://it.wikipedia.org/wiki/Polietilene_furanoato"
+    },
     "properties": [
       {
         "property": "P2054",
@@ -9208,7 +9848,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9235,7 +9875,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9260,7 +9900,12 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Aloxiprin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Aloxiprin",
+      "de": "https://de.wikipedia.org/wiki/Aloxiprin",
+      "fr": "https://fr.wikipedia.org/wiki/Aloxiprine",
+      "it": "https://it.wikipedia.org/wiki/Alossiprina"
+    },
     "properties": []
   },
   {
@@ -9281,7 +9926,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Nylon_1,6",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Nylon_1,6"
+    },
     "properties": []
   },
   {
@@ -9304,7 +9951,10 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyquaternium-7",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyquaternium-7",
+      "de": "https://de.wikipedia.org/wiki/Polyquaternium-7"
+    },
     "properties": []
   },
   {
@@ -9325,7 +9975,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "fr": "https://fr.wikipedia.org/wiki/Lignosulfonate_de_calcium"
+    },
     "properties": []
   },
   {
@@ -9346,7 +9998,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Acetalated_dextran",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Acetalated_dextran"
+    },
     "properties": []
   },
   {
@@ -9378,7 +10032,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Styrol-Butadien-Styrol-Copolymer",
+      "fr": "https://fr.wikipedia.org/wiki/Styr%C3%A8ne-butadi%C3%A8ne-styr%C3%A8ne"
+    },
     "properties": []
   },
   {
@@ -9401,7 +10058,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Celluloseacetatpropionat"
+    },
     "properties": []
   },
   {
@@ -9424,7 +10083,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9449,7 +10108,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Promelacacinidin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Promelacacinidin",
+      "fr": "https://fr.wikipedia.org/wiki/Prom%C3%A9lacacinidine"
+    },
     "properties": []
   },
   {
@@ -9474,7 +10136,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Potassium_polyacrylate",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Potassium_polyacrylate"
+    },
     "properties": []
   },
   {
@@ -9495,7 +10159,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": [
       {
         "property": "P2076",
@@ -9541,7 +10205,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(ethyl_methacrylate)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(ethyl_methacrylate)",
+      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A9thacrylate_d%27%C3%A9thyle"
+    },
     "properties": []
   },
   {
@@ -9577,7 +10244,10 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyvinylcarbazole",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyvinylcarbazole",
+      "de": "https://de.wikipedia.org/wiki/Polyvinylcarbazol"
+    },
     "properties": []
   },
   {
@@ -9602,7 +10272,9 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Para_tertiary_butylphenol_formaldehyde_resin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Para_tertiary_butylphenol_formaldehyde_resin"
+    },
     "properties": [
       {
         "property": "P2067",
@@ -9652,7 +10324,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9675,7 +10347,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9705,7 +10377,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9730,7 +10402,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9760,7 +10432,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9796,7 +10468,9 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Tosylamide/formaldehyde_resin",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Tosylamide/formaldehyde_resin"
+    },
     "properties": []
   },
   {
@@ -9819,7 +10493,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9840,7 +10514,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9872,7 +10546,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9893,7 +10567,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9914,7 +10588,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polymers_of_intrinsic_microporosity",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polymers_of_intrinsic_microporosity"
+    },
     "properties": []
   },
   {
@@ -9941,7 +10617,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9969,7 +10645,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -9990,7 +10666,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Pyrrole%E2%80%93imidazole_polyamides",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Pyrrole%E2%80%93imidazole_polyamides"
+    },
     "properties": []
   },
   {
@@ -10017,7 +10695,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "it": "https://it.wikipedia.org/wiki/Polimero_P(NDI2OD-T2)"
+    },
     "properties": []
   },
   {
@@ -10044,7 +10724,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10071,7 +10751,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10094,7 +10774,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Melon_(chemistry)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Melon_(chemistry)"
+    },
     "properties": []
   },
   {
@@ -10115,7 +10797,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10145,7 +10827,11 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/CR-39",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/CR-39",
+      "de": "https://de.wikipedia.org/wiki/Polyallyldiglycolcarbonat",
+      "it": "https://it.wikipedia.org/wiki/CR39"
+    },
     "properties": []
   },
   {
@@ -10170,7 +10856,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10199,7 +10885,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/PG5",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/PG5"
+    },
     "properties": [
       {
         "property": "P2386",
@@ -10238,7 +10926,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Styrol-Ethylen-Butylen-Styrol-Copolymer"
+    },
     "properties": []
   },
   {
@@ -10274,7 +10964,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10295,7 +10985,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10331,7 +11021,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10356,7 +11046,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10379,7 +11069,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10409,7 +11099,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Polyoxetane",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyoxetane"
+    },
     "properties": [
       {
         "property": "P2101",
@@ -10453,7 +11145,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10483,7 +11175,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": "https://en.wikipedia.org/wiki/Poly(ethyl_acrylate)",
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(ethyl_acrylate)"
+    },
     "properties": []
   },
   {
@@ -10508,7 +11202,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Glycidylazid-Polymer"
+    },
     "properties": [
       {
         "property": "P5670",
@@ -10552,7 +11248,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10573,7 +11269,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/Wasserl%C3%B6sliche_Polymere"
+    },
     "properties": []
   },
   {
@@ -10598,7 +11296,7 @@
       ],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10623,7 +11321,7 @@
         "472263940"
       ]
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10652,7 +11350,7 @@
         "482566661"
       ]
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10675,7 +11373,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10703,7 +11401,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10726,7 +11424,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10754,7 +11452,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10782,7 +11480,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10803,7 +11501,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": []
   },
   {
@@ -10832,7 +11530,7 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {},
     "properties": [
       {
         "property": "P2054",
@@ -11327,7 +12025,9 @@
       "pubchem_cid": [],
       "pubchem_sid": []
     },
-    "wikipedia": null,
+    "wikipedia": {
+      "de": "https://de.wikipedia.org/wiki/MQ-Siliconcopolymere"
+    },
     "properties": []
   }
 ]

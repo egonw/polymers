@@ -17,7 +17,9 @@ POLYMERS = [
         'identifiers': {'cas': ['25134-01-4'], 'chebi': [],
                         'pubchem_cid': ['6378'],
                         'pubchem_sid': ['135283456']},
-        'wikipedia': None,
+        'wikipedia': {
+            'en': 'https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)',
+            'nl': 'https://nl.wikipedia.org/wiki/Polyfenyleenoxide'},
         'properties': [{
             'property': 'P2054', 'label': 'density', 'value': '1.06',
             'lower': '1.05', 'upper': '1.07',
@@ -35,7 +37,7 @@ POLYMERS = [
         'cxsmiles': [], 'classes': [], 'monomers': [],
         'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
                         'pubchem_sid': []},
-        'wikipedia': None, 'properties': [],
+        'wikipedia': {}, 'properties': [],
     },
 ]
 
@@ -56,6 +58,8 @@ class AppTest(unittest.TestCase):
         self.assertIn('href="/Q146206/"', page)
         self.assertIn('cdkdepict.toolforge.org', page)
         self.assertIn('No CXSMILES in Wikidata', page)
+        self.assertIn('hreflang="en" title="English Wikipedia">GB</a>', page)
+        self.assertIn('hreflang="nl" title="Dutch Wikipedia">NL</a>', page)
 
     def test_polymer_page(self):
         response = self.client.get('/Q146206/')
@@ -66,6 +70,7 @@ class AppTest(unittest.TestCase):
         self.assertIn('temperature:', page)
         self.assertIn('https://doi.org/10.1201/B17118', page)
         self.assertIn('2,6-xylenol', page)
+        self.assertIn('hreflang="nl">Dutch</a>', page)
         self.assertIn('https://pubchem.ncbi.nlm.nih.gov/compound/6378', page)
         self.assertIn('https://pubchem.ncbi.nlm.nih.gov/substance/135283456',
                       page)

@@ -22,7 +22,11 @@
           <span class="muted">No CXSMILES in Wikidata</span>
           {% endif %}
         </a>
-        <p class="qid muted">{{ polymer.qid }}</p>
+        <p class="qid muted">{{ polymer.qid }}
+          {%- for language, url in polymer.wikipedia.items() %}
+          <a class="wiki" href="{{ url }}" hreflang="{{ language }}" title="{{ languages.get(language, language) }} Wikipedia">{{ countries.get(language, language|upper) }}</a>
+          {%- endfor %}
+        </p>
       </li>
       {% endfor %}
     </ul>

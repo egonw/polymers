@@ -50,7 +50,7 @@
           <tr><th scope="row">PubChem SID</th><td>{% for sid in polymer.identifiers.pubchem_sid %}<a href="https://pubchem.ncbi.nlm.nih.gov/substance/{{ sid }}">{{ sid }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
           {% endif %}
           {% if polymer.wikipedia %}
-          <tr><th scope="row">Wikipedia</th><td><a href="{{ polymer.wikipedia }}">English Wikipedia</a></td></tr>
+          <tr><th scope="row">Wikipedia</th><td>{% for language, url in polymer.wikipedia.items() %}<a href="{{ url }}" hreflang="{{ language }}">{{ languages.get(language, language) }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
           {% endif %}
           <tr><th scope="row">Scholia</th><td><a href="https://qlever.scholia.wiki/topic/{{ polymer.qid }}">Literature about this polymer</a></td></tr>
         </tbody>

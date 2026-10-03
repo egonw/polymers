@@ -9,6 +9,13 @@ DEPICT = ('https://cdkdepict.toolforge.org/depict/bow/svg?smi={smiles}'
           '&abbr=on&hdisp=bridgehead&showtitle=false&zoom={zoom}'
           '&annotate=none')
 
+# Names of the Wikipedias that polymer pages link to.
+LANGUAGES = {'en': 'English', 'nl': 'Dutch', 'de': 'German', 'fr': 'French',
+             'it': 'Italian'}
+# The ISO 3166 country code shown for each Wikipedia language on the front
+# page; English gets the United Kingdom.
+COUNTRIES = {'en': 'GB', 'nl': 'NL', 'de': 'DE', 'fr': 'FR', 'it': 'IT'}
+
 
 @main.app_template_filter('depict')
 def depict(cxsmiles, zoom=2):
@@ -58,7 +65,8 @@ def polymers_by_qid():
 def index():
     with_structure = sum(1 for polymer in polymers() if polymer['cxsmiles'])
     return render_template('index.html', polymers=polymers(),
-                           with_structure=with_structure)
+                           with_structure=with_structure,
+                           languages=LANGUAGES, countries=COUNTRIES)
 
 
 @main.route('/<qid>/')
@@ -67,7 +75,7 @@ def polymer(qid):
     if polymer is None:
         abort(404)
     return render_template('polymer.html', polymer=polymer,
-                           known=polymers_by_qid())
+                           known=polymers_by_qid(), languages=LANGUAGES)
 
 
 @main.app_errorhandler(404)

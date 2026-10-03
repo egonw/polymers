@@ -8,6 +8,7 @@ import json
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urlsplit
 
 import requests
 
@@ -22,6 +23,9 @@ TIMEOUT = 300
 # Identifiers in the JSON, with the column of polymers.rq they come from.
 IDENTIFIERS = {'cas': 'cas', 'chebi': 'chebi', 'pubchem_cid': 'pubchemCid',
                'pubchem_sid': 'pubchemSid'}
+
+# The Wikipedias whose articles are linked, in the order of the page.
+WIKIPEDIAS = ('en', 'nl', 'de', 'fr', 'it')
 
 ENTITY = 'http://www.wikidata.org/entity/'
 GENID = '/.well-known/genid/'
@@ -113,7 +117,7 @@ def collect_polymers(rows):
             'monomers': [],
             'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
                             'pubchem_sid': []},
-            'wikipedia': row.get('article'),
+            'wikipedia': {},
             'properties': [],
         })
         if 'cxsmiles' in row:
@@ -126,6 +130,9 @@ def collect_polymers(rows):
             add_unique(polymer['monomers'],
                        {'qid': row['monomer'],
                         'label': row.get('monomerLabel', row['monomer'])})
+        if 'article' in row:
+            language = urlsplit(row['wikipedia']).netloc.split('.')[0]
+            polymer['wikipedia'][language] = row['article']
         for key, column in IDENTIFIERS.items():
             if column in row:
                 add_unique(polymer['identifiers'][key], row[column])
@@ -218,6 +225,9 @@ def build():
             polymer['properties'].append(statement)
     for polymer in polymers.values():
         polymer['cxsmiles'].sort()
+        polymer['wikipedia'] = {
+            language: polymer['wikipedia'][language]
+            for language in WIKIPEDIAS if language in polymer['wikipedia']}
         polymer['classes'].sort(key=lambda item: qid_number(item['qid']))
         polymer['monomers'].sort(key=lambda item: qid_number(item['qid']))
         for values in polymer['identifiers'].values():

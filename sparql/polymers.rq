@@ -8,7 +8,7 @@ PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 
 SELECT ?polymer ?polymerLabel ?polymerDescription ?cxsmiles
-       ?class ?classLabel ?monomer ?monomerLabel ?cas ?chebi ?pubchemCid ?pubchemSid ?article
+       ?class ?classLabel ?monomer ?monomerLabel ?cas ?chebi ?pubchemCid ?pubchemSid ?article ?wikipedia
        ?polymerLabelMul ?polymerDescriptionMul ?classLabelMul ?monomerLabelMul
 WHERE {
   {
@@ -36,5 +36,11 @@ WHERE {
   OPTIONAL { ?polymer wdt:P683 ?chebi }
   OPTIONAL { ?polymer wdt:P662 ?pubchemCid }
   OPTIONAL { ?polymer wdt:P2153 ?pubchemSid }
-  OPTIONAL { ?article schema:about ?polymer ; schema:isPartOf <https://en.wikipedia.org/> }
+  OPTIONAL {
+    VALUES ?wikipedia {
+      <https://en.wikipedia.org/> <https://nl.wikipedia.org/> <https://de.wikipedia.org/>
+      <https://fr.wikipedia.org/> <https://it.wikipedia.org/>
+    }
+    ?article schema:about ?polymer ; schema:isPartOf ?wikipedia .
+  }
 }
