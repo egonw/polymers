@@ -58,7 +58,7 @@ class AppTest(unittest.TestCase):
         self.assertIn('href="/Q146206/"', page)
         self.assertIn('cdkdepict.toolforge.org', page)
         self.assertIn('No CXSMILES in Wikidata', page)
-        self.assertIn('hreflang="en" title="English Wikipedia">GB</a>', page)
+        self.assertIn('hreflang="en" title="English Wikipedia">EN</a>', page)
         self.assertIn('hreflang="nl" title="Dutch Wikipedia">NL</a>', page)
 
     def test_polymer_page(self):

@@ -12,9 +12,9 @@ DEPICT = ('https://cdkdepict.toolforge.org/depict/bow/svg?smi={smiles}'
 # Names of the Wikipedias that polymer pages link to.
 LANGUAGES = {'en': 'English', 'nl': 'Dutch', 'de': 'German', 'fr': 'French',
              'it': 'Italian'}
-# The ISO 3166 country code shown for each Wikipedia language on the front
-# page; English gets the United Kingdom.
-COUNTRIES = {'en': 'GB', 'nl': 'NL', 'de': 'DE', 'fr': 'FR', 'it': 'IT'}
+# The two-letter code shown for each Wikipedia language on the front page:
+# the ISO 3166 country code, but EN for English.
+COUNTRIES = {'en': 'EN', 'nl': 'NL', 'de': 'DE', 'fr': 'FR', 'it': 'IT'}
 
 
 @main.app_template_filter('depict')
