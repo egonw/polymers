@@ -1,0 +1,33 @@
+{#- A grid of polymer tiles, three next to each other: name, 2D depiction,
+    QID and Wikipedia buttons. Expects `tiles`, a list with qid, label,
+    cxsmiles and wikipedia. Tiles of polymers with a page here link to it;
+    the others link to Wikidata. Classes of polymers (with members) get the
+    number of members after their name. -#}
+    <ul class="grid">
+      {% for polymer in tiles %}
+      {% if polymer.qid in known %}
+        {% set href = url_for('app.polymer', qid=polymer.qid) %}
+      {% else %}
+        {% set href = 'https://www.wikidata.org/wiki/' ~ polymer.qid %}
+      {% endif %}
+      <li class="card tile">
+        <h2><a href="{{ href }}">{{ polymer.label }}</a>
+          {%- if polymer.members %}
+          <a class="badge count" href="{{ href }}#members" title="{{ polymer.members|length }} polymers in this class">{{ polymer.members|length }}</a>
+          {%- endif %}
+        </h2>
+        <a class="depiction" href="{{ href }}" tabindex="-1">
+          {% if polymer.cxsmiles %}
+          <img src="{{ polymer.cxsmiles[0]|depict }}" alt="2D structure of {{ polymer.label }}" loading="lazy">
+          {% else %}
+          <span class="muted">No CXSMILES in Wikidata</span>
+          {% endif %}
+        </a>
+        <p class="qid muted">{{ polymer.qid }}
+          {%- for language, url in polymer.wikipedia.items() %}
+          <a class="badge wiki" href="{{ url }}" hreflang="{{ language }}" title="{{ languages.get(language, language) }} Wikipedia">{{ countries.get(language, language|upper) }}</a>
+          {%- endfor %}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>

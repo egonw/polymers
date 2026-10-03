@@ -1,0 +1,36 @@
+# The members of the polymers that are a class of polymers: all items that
+# are a subclass (P279) of it, or an instance (P31) of it or of one of those
+# subclasses, recursively. Members do not have to be polymers on this website
+# themselves (many are brands or grades), so their label, CXSMILES and
+# Wikipedia articles are asked for here too.
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?class ?member ?memberLabel ?cxsmiles ?article ?wikipedia
+       ?memberLabelMul
+WHERE {
+  {
+    SELECT DISTINCT ?class ?member WHERE {
+      {
+        SELECT DISTINCT ?class WHERE {
+          { VALUES ?type { wd:Q81163 wd:Q119896085 } ?class wdt:P31 ?type }
+          UNION { ?class wdt:P31/wdt:P279* wd:Q81163 ; wdt:P10718 [] }
+        }
+      }
+      ?member wdt:P31?/wdt:P279* ?class .
+      FILTER (?member != ?class)
+    }
+  }
+  OPTIONAL { ?member rdfs:label ?memberLabel FILTER(LANG(?memberLabel) = "en") }
+  OPTIONAL { ?member rdfs:label ?memberLabelMul FILTER(LANG(?memberLabelMul) = "mul") }
+  OPTIONAL { ?member wdt:P10718 ?cxsmiles }
+  OPTIONAL {
+    VALUES ?wikipedia {
+      <https://en.wikipedia.org/> <https://nl.wikipedia.org/> <https://de.wikipedia.org/>
+      <https://fr.wikipedia.org/> <https://it.wikipedia.org/>
+    }
+    ?article schema:about ?member ; schema:isPartOf ?wikipedia .
+  }
+}

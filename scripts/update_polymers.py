@@ -119,6 +119,7 @@ def collect_polymers(rows):
                             'pubchem_sid': []},
             'wikipedia': {},
             'properties': [],
+            'members': [],
         })
         if 'cxsmiles' in row:
             add_unique(polymer['cxsmiles'], row['cxsmiles'])
@@ -130,13 +131,41 @@ def collect_polymers(rows):
             add_unique(polymer['monomers'],
                        {'qid': row['monomer'],
                         'label': row.get('monomerLabel', row['monomer'])})
-        if 'article' in row:
-            language = urlsplit(row['wikipedia']).netloc.split('.')[0]
-            polymer['wikipedia'][language] = row['article']
+        add_article(polymer, row)
         for key, column in IDENTIFIERS.items():
             if column in row:
                 add_unique(polymer['identifiers'][key], row[column])
     return polymers
+
+
+def add_article(item, row):
+    """Adds the Wikipedia article of a row, keyed by its language."""
+    if 'article' in row:
+        language = urlsplit(row['wikipedia']).netloc.split('.')[0]
+        item['wikipedia'][language] = row['article']
+
+
+def ordered_wikipedia(articles):
+    return {language: articles[language]
+            for language in WIKIPEDIAS if language in articles}
+
+
+def collect_members(rows):
+    """Gives the members of each class of polymers, keyed by class QID, with
+    what a tile on a page needs: label, CXSMILES and Wikipedia articles."""
+    members = {}
+    for row in rows:
+        qid = row['member']
+        member = members.setdefault(row['class'], {}).setdefault(qid, {
+            'qid': qid,
+            'label': row.get('memberLabel', qid),
+            'cxsmiles': [],
+            'wikipedia': {},
+        })
+        if 'cxsmiles' in row:
+            add_unique(member['cxsmiles'], row['cxsmiles'])
+        add_article(member, row)
+    return members
 
 
 def collect_properties(rows):
@@ -218,16 +247,23 @@ def build():
     add_references(statements, run_for_statements('references.rq', statements))
     print('Qualifiers ...', file=sys.stderr)
     add_qualifiers(statements, run_for_statements('qualifiers.rq', statements))
+    print('Members ...', file=sys.stderr)
+    members = collect_members(run_query(read_query('members.rq')))
 
     for statement in statements.values():
         polymer = polymers.get(statement.pop('polymer'))
         if polymer:
             polymer['properties'].append(statement)
+    for qid, items in members.items():
+        if qid in polymers:
+            polymers[qid]['members'] = sorted(
+                items.values(), key=lambda item: qid_number(item['qid']))
     for polymer in polymers.values():
         polymer['cxsmiles'].sort()
-        polymer['wikipedia'] = {
-            language: polymer['wikipedia'][language]
-            for language in WIKIPEDIAS if language in polymer['wikipedia']}
+        polymer['wikipedia'] = ordered_wikipedia(polymer['wikipedia'])
+        for member in polymer['members']:
+            member['cxsmiles'].sort()
+            member['wikipedia'] = ordered_wikipedia(member['wikipedia'])
         polymer['classes'].sort(key=lambda item: qid_number(item['qid']))
         polymer['monomers'].sort(key=lambda item: qid_number(item['qid']))
         for values in polymer['identifiers'].values():

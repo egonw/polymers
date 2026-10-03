@@ -20,6 +20,7 @@ POLYMERS = [
         'wikipedia': {
             'en': 'https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)',
             'nl': 'https://nl.wikipedia.org/wiki/Polyfenyleenoxide'},
+        'members': [],
         'properties': [{
             'property': 'P2054', 'label': 'density', 'value': '1.06',
             'lower': '1.05', 'upper': '1.07',
@@ -38,6 +39,13 @@ POLYMERS = [
         'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
                         'pubchem_sid': []},
         'wikipedia': {}, 'properties': [],
+        'members': [
+            {'qid': 'Q146206', 'label': 'poly(p-phenylene oxide)',
+             'cxsmiles': [], 'wikipedia': {}},
+            {'qid': 'Q110254858', 'label': 'poly(bisphenol A carbonate)',
+             'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
+             'wikipedia': {'de': 'https://de.wikipedia.org/wiki/PC'}},
+        ],
     },
 ]
 
@@ -60,6 +68,9 @@ class AppTest(unittest.TestCase):
         self.assertIn('No CXSMILES in Wikidata', page)
         self.assertIn('hreflang="en" title="English Wikipedia">EN</a>', page)
         self.assertIn('hreflang="nl" title="Dutch Wikipedia">NL</a>', page)
+        self.assertIn('href="/Q62246/#members" title="2 polymers in this class">2</a>', page)
+        # Only classes of polymers get a count.
+        self.assertEqual(page.count('polymers in this class'), 1)
 
     def test_polymer_page(self):
         response = self.client.get('/Q146206/')
@@ -78,6 +89,18 @@ class AppTest(unittest.TestCase):
     def test_polymer_without_properties(self):
         page = self.client.get('/Q62246/').get_data(as_text=True)
         self.assertIn('no physicochemical properties', page)
+
+    def test_class_lists_members(self):
+        page = self.client.get('/Q62246/').get_data(as_text=True)
+        self.assertIn('Polymers in this class', page)
+        # A member with a page here links to it, the others to Wikidata.
+        self.assertIn('href="/Q146206/"', page)
+        self.assertIn('href="https://www.wikidata.org/wiki/Q110254858"', page)
+        self.assertIn('title="German Wikipedia">DE</a>', page)
+
+    def test_polymer_without_members(self):
+        page = self.client.get('/Q146206/').get_data(as_text=True)
+        self.assertNotIn('Polymers in this class', page)
 
     def test_unknown_polymer(self):
         self.assertEqual(self.client.get('/Q1/').status_code, 404)

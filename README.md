@@ -28,6 +28,11 @@ Wikidata. Every polymer has its own page with its structure, identifiers (CAS, C
 polymer classes and monomers, links to the English, Dutch, German, French and Italian Wikipedia,
 and a table of its physicochemical properties: the value with its
 unit, the conditions (qualifiers such as the temperature) and the source with its DOI.
+Polymers that are a class of polymers, such as nylon ([wd:Q177941](http://www.wikidata.org/entity/Q177941)),
+also get a grid of the polymers in that class: every item that is a subclass (P279) or an instance
+(P31) of it, recursively. That grid is the same as the one on the front page, and is in
+[_includes/polymer_grid.html](_includes/polymer_grid.html). Members that have no page on this
+website (many are brands or grades) link to Wikidata.
 
 The polymers are the items that are an instance of polymer ([wd:Q81163](http://www.wikidata.org/entity/Q81163))
 or of type of polymer ([wd:Q119896085](http://www.wikidata.org/entity/Q119896085)), and the items
@@ -57,7 +62,8 @@ make update
 
 This runs [scripts/update_polymers.py](scripts/update_polymers.py), which asks the
 [QLever instance of Wikidata](https://qlever.dev/wikidata) the queries in [sparql/](sparql/): the
-polymers (`polymers.rq`), their quantity statements (`properties.rq`), and the references
+polymers (`polymers.rq`), the members of the classes of polymers (`members.rq`), their quantity
+statements (`properties.rq`), and the references
 (`references.rq`) and qualifiers (`qualifiers.rq`) of those statements. The last two get the
 statements in a `VALUES` clause, because asking for everything in one query makes QLever time
 out. English labels are used, and the `mul` label when there is no English one. Commit the

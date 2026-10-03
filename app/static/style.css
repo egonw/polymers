@@ -120,8 +120,13 @@ a { color: var(--accent); }
   overflow-wrap: anywhere;
 }
 
-.tile h2 a { color: var(--text); text-decoration: none; }
-.tile h2 a:hover { color: var(--accent); text-decoration: underline; }
+.tile h2 a:not(.badge) { color: var(--text); text-decoration: none; }
+.tile h2 a:not(.badge):hover { color: var(--accent); text-decoration: underline; }
+
+.tile h2 .count {
+  margin-left: 0.4rem;
+  vertical-align: 0.1em;
+}
 
 .tile .qid {
   display: flex;
@@ -132,8 +137,9 @@ a { color: var(--accent); }
   font-size: 0.8rem;
 }
 
-/* The Wikipedia buttons after the QID, one per language. */
-.wiki {
+/* Small buttons: the Wikipedia buttons after the QID, one per language,
+   and the number of members after the name of a class of polymers. */
+.badge {
   padding: 0 0.3rem;
   border: 1px solid var(--border);
   border-radius: 4px;
@@ -147,8 +153,8 @@ a { color: var(--accent); }
 
 .wiki:first-of-type { margin-left: 0.3rem; }
 
-.wiki:hover,
-.wiki:focus-visible {
+.badge:hover,
+.badge:focus-visible {
   color: var(--accent);
   border-color: var(--accent);
 }
@@ -274,3 +280,7 @@ th.num, td.num {
     font-size: 0.8rem;
   }
 }
+
+/* The polymers in a class, below the card of a polymer page. */
+.members { margin-top: 2rem; }
+.members .intro { margin-bottom: 1rem; }

@@ -61,12 +61,17 @@ def polymers_by_qid():
     return current_app.config['POLYMERS_BY_QID']
 
 
+@main.app_context_processor
+def globals_for_templates():
+    return {'known': polymers_by_qid(), 'languages': LANGUAGES,
+            'countries': COUNTRIES}
+
+
 @main.route('/')
 def index():
     with_structure = sum(1 for polymer in polymers() if polymer['cxsmiles'])
     return render_template('index.html', polymers=polymers(),
-                           with_structure=with_structure,
-                           languages=LANGUAGES, countries=COUNTRIES)
+                           with_structure=with_structure)
 
 
 @main.route('/<qid>/')
@@ -74,8 +79,7 @@ def polymer(qid):
     polymer = polymers_by_qid().get(qid)
     if polymer is None:
         abort(404)
-    return render_template('polymer.html', polymer=polymer,
-                           known=polymers_by_qid(), languages=LANGUAGES)
+    return render_template('polymer.html', polymer=polymer)
 
 
 @main.app_errorhandler(404)

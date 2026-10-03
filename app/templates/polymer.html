@@ -92,4 +92,13 @@
       <p class="muted">Wikidata has no physicochemical properties for this polymer yet.</p>
       {% endif %}
     </div>
+
+    {% if polymer.members %}
+    <section class="members" id="members">
+      <h2>Polymers in this class</h2>
+      <p class="intro">The {{ polymer.members|length }} subclasses and instances of {{ polymer.label }} in Wikidata, also those of its subclasses. Those without a page here link to Wikidata.</p>
+      {% set tiles = polymer.members %}
+      {% include '_includes/polymer_grid.html' %}
+    </section>
+    {% endif %}
 {% endblock %}
