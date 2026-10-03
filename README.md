@@ -75,6 +75,31 @@ statements in a `VALUES` clause, because asking for everything in one query make
 out. English labels are used, and the `mul` label when there is no English one. Commit the
 changed JSON to publish it.
 
+### Curation reports
+
+```shell
+make curate
+```
+
+writes two pages that help to improve the polymer data in Wikidata. Both are single HTML files,
+with the images included, that can be opened from disk:
+
+* [cxsmiles-comparison.html](cxsmiles-comparison.html) ([scripts/curate_cxsmiles.py](scripts/curate_cxsmiles.py)):
+  for every polymer with a chemical structure image (P117), that image next to the drawing of its
+  CXSMILES by CDK Depict, to check that they match, and to see which polymers still need a
+  CXSMILES. CXSMILES that are proposed but not yet in Wikidata can be put in `polymers.qs`, as
+  QuickStatements (`Qxxx<TAB>P10718<TAB>"cxsmiles"`), and are then shown too.
+* [wikipedia-photos.html](wikipedia-photos.html) ([scripts/curate_photos.py](scripts/curate_photos.py)):
+  the photos on Commons that are used on the English, Dutch, German, French or Italian Wikipedia
+  article of a polymer, but are not its image (P18) or chemical structure (P117) in Wikidata, with
+  links to the articles and, for each photo, QuickStatements that add it as image, with the
+  Wikipedia as reference. Rows can be collected into one batch.
+
+The reports use [_data/polymers.json](_data/polymers.json), so run `make update` first for the
+newest data. The images that the reports include are downloaded once into `cache/` (ignored by
+git); delete that folder to download them again. Wikimedia limits how fast its servers may be
+asked, so a run takes several minutes.
+
 ### Publishing
 
 The workflow [.github/workflows/pages.yml](.github/workflows/pages.yml) runs the tests, builds the

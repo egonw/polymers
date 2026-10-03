@@ -1,0 +1,12 @@
+# The images that Wikidata links for the polymers: image (P18) and chemical
+# structure (P117). The script puts the polymers of _data/polymers.json in the
+# VALUES clause.
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?polymer ?property ?file
+WHERE {
+  VALUES ?polymer { {{polymers}} }
+  VALUES (?property ?wdt) { ("P18" wdt:P18) ("P117" wdt:P117) }
+  ?polymer ?wdt ?file .
+}

@@ -28,6 +28,8 @@ IDENTIFIERS = {'cas': 'cas', 'chebi': 'chebi', 'pubchem_cid': 'pubchemCid',
 COMMONS_API = 'https://commons.wikimedia.org/w/api.php'
 # Files per Commons API call; the API takes at most 50.
 COMMONS_CHUNK = 50
+# Seconds between calls of the Commons API.
+COMMONS_PAUSE = 1
 # What a file on Commons can be an instance of (P31, in its structured data)
 # to count as a photo: a photograph, or a micrograph of the material.
 PHOTO_TYPES = {
@@ -181,6 +183,8 @@ def commons_get(params):
               f'trying again in {wait} s', file=sys.stderr)
         time.sleep(wait)
     response.raise_for_status()
+    # A pause between calls keeps the Commons API from answering 429.
+    time.sleep(COMMONS_PAUSE)
     return response.json()
 
 
