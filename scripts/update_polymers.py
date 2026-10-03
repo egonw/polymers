@@ -168,9 +168,18 @@ def add_image(item, row):
 
 
 def commons_get(params):
-    response = requests.get(
-        COMMONS_API, timeout=TIMEOUT, headers={'User-Agent': USER_AGENT},
-        params={'format': 'json', 'formatversion': 2, **params})
+    for wait in RETRY_WAITS + (None,):
+        response = requests.get(
+            COMMONS_API, timeout=TIMEOUT, headers={'User-Agent': USER_AGENT},
+            params={'format': 'json', 'formatversion': 2, **params})
+        if response.status_code not in (429, 503) or wait is None:
+            break
+        retry_after = response.headers.get('Retry-After', '')
+        if retry_after.isdigit():
+            wait = int(retry_after)
+        print(f'  Commons answered {response.status_code}, '
+              f'trying again in {wait} s', file=sys.stderr)
+        time.sleep(wait)
     response.raise_for_status()
     return response.json()
 
