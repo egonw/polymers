@@ -310,6 +310,7 @@
         "label": "tapioca",
         "cxsmiles": [],
         "photos": [
+          "A plate of Tapioca.jpg",
           "Tapioca-1.jpg"
         ],
         "wikipedia": {
@@ -382,7 +383,8 @@
         "cxsmiles": [],
         "photos": [
           "13-09-01-kochtreffen-wien-Bi-frie-017.jpg",
-          "Brown & Polson's.JPG"
+          "Brown & Polson's.JPG",
+          "Stärkemehl 800 fach Polfilter.jpg"
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Corn_starch",
@@ -2534,7 +2536,9 @@
         "qid": "Q2666962",
         "label": "cross-linked polyethylene",
         "cxsmiles": [],
-        "photos": [],
+        "photos": [
+          "PEX-Rohr.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
           "de": "https://de.wikipedia.org/wiki/Vernetztes_Polyethylen",
@@ -2627,7 +2631,9 @@
         "qid": "Q3906359",
         "label": "Plasticard",
         "cxsmiles": [],
-        "photos": [],
+        "photos": [
+          "Plasticard line.jpg"
+        ],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Plasticard"
         }
@@ -3213,7 +3219,9 @@
     "label": "nitrile rubber",
     "description": "family of polymer",
     "cxsmiles": [],
-    "photos": [],
+    "photos": [
+      "Disposable nitrile glove.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3670,7 +3678,8 @@
     ],
     "photos": [
       "Bales of PET bottles 3.jpg",
-      "Plastic bottle.jpg"
+      "Plastic bottle.jpg",
+      "Polyester Shirt, close-up.jpg"
     ],
     "classes": [
       {
@@ -5288,7 +5297,9 @@
     "cxsmiles": [
       "[*]CC(O)[*] |Sg:n:1,2,3::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Sample of Polyvinyl alcohol.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7257,7 +7268,9 @@
     "label": "methyl cellulose",
     "description": "chemical compound",
     "cxsmiles": [],
-    "photos": [],
+    "photos": [
+      "Tapetenkleister.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9178,7 +9191,9 @@
     "label": "cross-linked polyethylene",
     "description": "strong polymeric material",
     "cxsmiles": [],
-    "photos": [],
+    "photos": [
+      "PEX-Rohr.jpg"
+    ],
     "classes": [
       {
         "qid": "Q81163",
