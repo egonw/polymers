@@ -18,7 +18,10 @@ SPARQL_DIR = ROOT / 'sparql'
 OUTPUT = ROOT / '_data' / 'polymers.json'
 
 ENDPOINT = 'https://qlever.dev/api/wikidata'
-USER_AGENT = 'PolymersWebsite/1.0 (Wikidata polymer pages; python-requests)'
+# Identifies this script to QLever and Wikimedia, with a contact address as
+# the User-Agent policy of Wikimedia asks for.
+USER_AGENT = (f'PolymersWebsite/1.0 (https://github.com/egonw/polymers) '
+              f'python-requests/{requests.__version__}')
 TIMEOUT = 300
 
 # Identifiers in the JSON, with the column of polymers.rq they come from.
