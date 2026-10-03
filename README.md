@@ -24,7 +24,7 @@ Polymers have properties including:
 The website is a small [Flask](https://flask.palletsprojects.com/) application that is published as
 static HTML on GitHub Pages. The front page lists the polymers, three next to each other, with their
 name, a 2D depiction made by [CDK Depict](https://cdkdepict.toolforge.org/) and the CXSMILES from
-Wikidata. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem), the
+Wikidata. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID), the
 polymer classes and monomers, and a table of its physicochemical properties: the value with its
 unit, the conditions (qualifiers such as the temperature) and the source with its DOI.
 

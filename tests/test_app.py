@@ -14,7 +14,9 @@ POLYMERS = [
         'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
         'classes': [{'qid': 'Q81163', 'label': 'polymer'}],
         'monomers': [{'qid': 'Q1055852', 'label': '2,6-xylenol'}],
-        'identifiers': {'cas': ['25134-01-4'], 'chebi': [], 'pubchem': []},
+        'identifiers': {'cas': ['25134-01-4'], 'chebi': [],
+                        'pubchem_cid': ['6378'],
+                        'pubchem_sid': ['135283456']},
         'wikipedia': None,
         'properties': [{
             'property': 'P2054', 'label': 'density', 'value': '1.06',
@@ -31,7 +33,8 @@ POLYMERS = [
     {
         'qid': 'Q62246', 'label': 'polycarbonate', 'description': None,
         'cxsmiles': [], 'classes': [], 'monomers': [],
-        'identifiers': {'cas': [], 'chebi': [], 'pubchem': []},
+        'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
+                        'pubchem_sid': []},
         'wikipedia': None, 'properties': [],
     },
 ]
@@ -63,6 +66,9 @@ class AppTest(unittest.TestCase):
         self.assertIn('temperature:', page)
         self.assertIn('https://doi.org/10.1201/B17118', page)
         self.assertIn('2,6-xylenol', page)
+        self.assertIn('https://pubchem.ncbi.nlm.nih.gov/compound/6378', page)
+        self.assertIn('https://pubchem.ncbi.nlm.nih.gov/substance/135283456',
+                      page)
 
     def test_polymer_without_properties(self):
         page = self.client.get('/Q62246/').get_data(as_text=True)

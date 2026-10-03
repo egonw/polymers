@@ -19,6 +19,10 @@ ENDPOINT = 'https://qlever.dev/api/wikidata'
 USER_AGENT = 'PolymersWebsite/1.0 (Wikidata polymer pages; python-requests)'
 TIMEOUT = 300
 
+# Identifiers in the JSON, with the column of polymers.rq they come from.
+IDENTIFIERS = {'cas': 'cas', 'chebi': 'chebi', 'pubchem_cid': 'pubchemCid',
+               'pubchem_sid': 'pubchemSid'}
+
 ENTITY = 'http://www.wikidata.org/entity/'
 GENID = '/.well-known/genid/'
 SOMEVALUE = 'somevalue'
@@ -107,7 +111,8 @@ def collect_polymers(rows):
             'cxsmiles': [],
             'classes': [],
             'monomers': [],
-            'identifiers': {'cas': [], 'chebi': [], 'pubchem': []},
+            'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
+                            'pubchem_sid': []},
             'wikipedia': row.get('article'),
             'properties': [],
         })
@@ -121,9 +126,9 @@ def collect_polymers(rows):
             add_unique(polymer['monomers'],
                        {'qid': row['monomer'],
                         'label': row.get('monomerLabel', row['monomer'])})
-        for key in ('cas', 'chebi', 'pubchem'):
-            if key in row:
-                add_unique(polymer['identifiers'][key], row[key])
+        for key, column in IDENTIFIERS.items():
+            if column in row:
+                add_unique(polymer['identifiers'][key], row[column])
     return polymers
 
 

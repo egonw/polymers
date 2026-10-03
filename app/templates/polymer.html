@@ -43,8 +43,11 @@
           {% if polymer.identifiers.chebi %}
           <tr><th scope="row">ChEBI</th><td>{% for chebi in polymer.identifiers.chebi %}<a href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:{{ chebi }}">CHEBI:{{ chebi }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
           {% endif %}
-          {% if polymer.identifiers.pubchem %}
-          <tr><th scope="row">PubChem</th><td>{% for cid in polymer.identifiers.pubchem %}<a href="https://pubchem.ncbi.nlm.nih.gov/compound/{{ cid }}">{{ cid }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% if polymer.identifiers.pubchem_cid %}
+          <tr><th scope="row">PubChem CID</th><td>{% for cid in polymer.identifiers.pubchem_cid %}<a href="https://pubchem.ncbi.nlm.nih.gov/compound/{{ cid }}">{{ cid }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.pubchem_sid %}
+          <tr><th scope="row">PubChem SID</th><td>{% for sid in polymer.identifiers.pubchem_sid %}<a href="https://pubchem.ncbi.nlm.nih.gov/substance/{{ sid }}">{{ sid }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
           {% endif %}
           {% if polymer.wikipedia %}
           <tr><th scope="row">Wikipedia</th><td><a href="{{ polymer.wikipedia }}">English Wikipedia</a></td></tr>
