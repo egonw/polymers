@@ -1,0 +1,35 @@
+# The qualifiers of the property statements, such as the temperature (P2076)
+# at which a value was measured. Quantities come with their unit, items with
+# their label. The script puts the statement IRIs that properties.rq found in
+# the VALUES clauses. Each part starts from the statements, because QLever
+# times out when it starts from the qualifier properties or looks up the
+# label of a unit that may be unbound. Labels in "mul" (all languages) are
+# used when there is no English one.
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+SELECT ?statement ?qualifier ?qualifierLabel ?value ?valueLabel ?unit ?unitLabel
+       ?unitLabelMul ?valueLabelMul ?qualifierLabelMul
+WHERE {
+  {
+    SELECT ?statement ?qualifier ?value WHERE {
+      VALUES ?statement { {{statements}} }
+      ?statement ?pq ?value .
+      ?qualifier wikibase:qualifier ?pq .
+    }
+  }
+  OPTIONAL {
+    SELECT ?statement ?qualifier ?unit ?unitLabel ?unitLabelMul WHERE {
+      VALUES ?statement { {{statements}} }
+      ?statement ?pqv ?node .
+      ?qualifier wikibase:qualifierValue ?pqv .
+      ?node wikibase:quantityUnit ?unit .
+      OPTIONAL { ?unit rdfs:label ?unitLabel FILTER(LANG(?unitLabel) = "en") }
+      OPTIONAL { ?unit rdfs:label ?unitLabelMul FILTER(LANG(?unitLabelMul) = "mul") }
+    }
+  }
+  OPTIONAL { ?value rdfs:label ?valueLabel FILTER(LANG(?valueLabel) = "en") }
+  OPTIONAL { ?value rdfs:label ?valueLabelMul FILTER(LANG(?valueLabelMul) = "mul") }
+  OPTIONAL { ?qualifier rdfs:label ?qualifierLabel FILTER(LANG(?qualifierLabel) = "en") }
+  OPTIONAL { ?qualifier rdfs:label ?qualifierLabelMul FILTER(LANG(?qualifierLabelMul) = "mul") }
+}

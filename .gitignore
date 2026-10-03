@@ -1,0 +1,4 @@
+background/
+__pycache__/
+venv/
+build/

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Polymers{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <main class="{% block width %}{% endblock %}">
+    {% block content %}{% endblock %}
+    <footer class="note">
+      Data from <a href="https://www.wikidata.org/">Wikidata</a> (CC0), retrieved with
+      <a href="https://qlever.dev/wikidata">QLever</a>. Depictions by
+      <a href="https://cdkdepict.toolforge.org/">CDK Depict</a>.
+    </footer>
+  </main>
+</body>
+</html>

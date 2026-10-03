@@ -1,0 +1,21 @@
+# The references of the property statements: the work it is stated in (P248),
+# with its DOI (P356), and the reference URL (P854). The script puts the
+# statement IRIs that properties.rq found in the VALUES clause.
+PREFIX pr: <http://www.wikidata.org/prop/reference/>
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?statement ?source ?sourceLabel ?doi ?url
+       ?sourceLabelMul
+WHERE {
+  VALUES ?statement { {{statements}} }
+  ?statement prov:wasDerivedFrom ?reference .
+  OPTIONAL {
+    ?reference pr:P248 ?source .
+    OPTIONAL { ?source wdt:P356 ?doi }
+    OPTIONAL { ?source rdfs:label ?sourceLabel FILTER(LANG(?sourceLabel) = "en") }
+    OPTIONAL { ?source rdfs:label ?sourceLabelMul FILTER(LANG(?sourceLabelMul) = "mul") }
+  }
+  OPTIONAL { ?reference pr:P854 ?url }
+}

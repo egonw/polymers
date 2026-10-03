@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Not found – Polymers{% endblock %}
+{% block content %}
+    <header>
+      <p class="label">Error 404</p>
+      <h1>Not a polymer we know</h1>
+    </header>
+    <div class="card">
+      <p>There is no page for this address. The <a href="{{ url_for('app.index') }}">list of polymers</a> has all of them.</p>
+    </div>
+{% endblock %}

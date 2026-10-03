@@ -1,0 +1,92 @@
+{% extends 'base.html' %}
+{% macro entity(item) -%}
+  {%- if item.qid in known -%}
+    <a href="{{ url_for('app.polymer', qid=item.qid) }}">{{ item.label }}</a>
+  {%- else -%}
+    <a href="https://www.wikidata.org/wiki/{{ item.qid }}">{{ item.label }}</a>
+  {%- endif -%}
+{%- endmacro %}
+{% block title %}{{ polymer.label }} – Polymers{% endblock %}
+{% block content %}
+    <nav class="topnav"><a href="{{ url_for('app.index') }}">← All polymers</a></nav>
+
+    <header>
+      <p class="label">Polymer</p>
+      <h1>{{ polymer.label }}</h1>
+      {% if polymer.description %}<p class="muted description">{{ polymer.description }}</p>{% endif %}
+    </header>
+
+    <div class="card">
+      <h2>Structure</h2>
+      {% for cxsmiles in polymer.cxsmiles %}
+      <div class="depiction large">
+        <img src="{{ cxsmiles|depict(zoom=3) }}" alt="2D structure of {{ polymer.label }}">
+      </div>
+      <code class="smiles">{{ cxsmiles }}</code>
+      {% else %}
+      <p class="muted">Wikidata has no CXSMILES for this polymer.</p>
+      {% endfor %}
+
+      <h2>About</h2>
+      <table>
+        <tbody>
+          <tr><th scope="row">Wikidata</th><td><a href="https://www.wikidata.org/wiki/{{ polymer.qid }}">{{ polymer.qid }}</a></td></tr>
+          {% if polymer.classes %}
+          <tr><th scope="row">Instance of</th><td>{% for item in polymer.classes %}{{ entity(item) }}{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.monomers %}
+          <tr><th scope="row">Polymer of</th><td>{% for item in polymer.monomers %}{{ entity(item) }}{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.cas %}
+          <tr><th scope="row">CAS</th><td>{% for cas in polymer.identifiers.cas %}<a href="https://commonchemistry.cas.org/detail?cas_rn={{ cas }}">{{ cas }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.chebi %}
+          <tr><th scope="row">ChEBI</th><td>{% for chebi in polymer.identifiers.chebi %}<a href="https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:{{ chebi }}">CHEBI:{{ chebi }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.pubchem %}
+          <tr><th scope="row">PubChem</th><td>{% for cid in polymer.identifiers.pubchem %}<a href="https://pubchem.ncbi.nlm.nih.gov/compound/{{ cid }}">{{ cid }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.wikipedia %}
+          <tr><th scope="row">Wikipedia</th><td><a href="{{ polymer.wikipedia }}">English Wikipedia</a></td></tr>
+          {% endif %}
+          <tr><th scope="row">Scholia</th><td><a href="https://scholia.toolforge.org/chemical/{{ polymer.qid }}">Literature about this polymer</a></td></tr>
+        </tbody>
+      </table>
+
+      <h2>Properties</h2>
+      {% if polymer.properties %}
+      <table class="properties">
+        <thead>
+          <tr><th scope="col">Property</th><th scope="col" class="num">Value</th><th scope="col">Conditions</th><th scope="col">Source</th></tr>
+        </thead>
+        <tbody>
+          {% for statement in polymer.properties %}
+          <tr>
+            <td data-label="Property"><div class="cell"><a href="https://www.wikidata.org/wiki/Property:{{ statement.property }}">{{ statement.label }}</a></div></td>
+            <td class="num" data-label="Value"><div class="cell">{{ statement|quantity }}{% if statement.unit %} <a class="unit" href="https://www.wikidata.org/wiki/{{ statement.unit.qid }}">{{ statement.unit.label }}</a>{% endif %}</div></td>
+            <td data-label="Conditions"><div class="cell">
+              {% for qualifier in statement.qualifiers %}
+              <div>{{ qualifier.label }}:
+                {% if qualifier.unit %}{{ qualifier.value|amount }} {{ qualifier.unit.label }}
+                {% elif qualifier.valueLabel %}{{ qualifier.valueLabel }}
+                {% else %}{{ qualifier.value|amount }}{% endif %}</div>
+              {% else %}<span class="muted">–</span>{% endfor %}
+            </div></td>
+            <td data-label="Source"><div class="cell">
+              {% for reference in statement.references %}
+              <div>
+                {% if reference.source %}<a href="https://www.wikidata.org/wiki/{{ reference.source }}">{{ reference.label }}</a>{% endif %}
+                {% if reference.doi %}<a class="doi" href="https://doi.org/{{ reference.doi }}">doi:{{ reference.doi }}</a>{% endif %}
+                {% if reference.url and not reference.source %}<a href="{{ reference.url }}" title="{{ reference.url }}">{{ reference.url|domain }}</a>{% endif %}
+              </div>
+              {% else %}<span class="muted">No source</span>{% endfor %}
+            </div></td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p class="muted">Wikidata has no physicochemical properties for this polymer yet.</p>
+      {% endif %}
+    </div>
+{% endblock %}

@@ -1,0 +1,39 @@
+# The polymers: items that are an instance of polymer (Q81163) or of type of
+# polymer (Q119896085), and items that are an instance of a subclass of
+# polymer and have a CXSMILES (P10718). The broader "instance of a subclass of
+# polymer" alone would also give a million proteins and RNAs.
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX schema: <http://schema.org/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+
+SELECT ?polymer ?polymerLabel ?polymerDescription ?cxsmiles
+       ?class ?classLabel ?monomer ?monomerLabel ?cas ?chebi ?pubchem ?article
+       ?polymerLabelMul ?polymerDescriptionMul ?classLabelMul ?monomerLabelMul
+WHERE {
+  {
+    SELECT DISTINCT ?polymer WHERE {
+      { VALUES ?type { wd:Q81163 wd:Q119896085 } ?polymer wdt:P31 ?type }
+      UNION { ?polymer wdt:P31/wdt:P279* wd:Q81163 ; wdt:P10718 [] }
+    }
+  }
+  OPTIONAL { ?polymer rdfs:label ?polymerLabel FILTER(LANG(?polymerLabel) = "en") }
+  OPTIONAL { ?polymer rdfs:label ?polymerLabelMul FILTER(LANG(?polymerLabelMul) = "mul") }
+  OPTIONAL { ?polymer schema:description ?polymerDescription FILTER(LANG(?polymerDescription) = "en") }
+  OPTIONAL { ?polymer schema:description ?polymerDescriptionMul FILTER(LANG(?polymerDescriptionMul) = "mul") }
+  OPTIONAL { ?polymer wdt:P10718 ?cxsmiles }
+  OPTIONAL {
+    ?polymer wdt:P31 ?class .
+    OPTIONAL { ?class rdfs:label ?classLabel FILTER(LANG(?classLabel) = "en") }
+    OPTIONAL { ?class rdfs:label ?classLabelMul FILTER(LANG(?classLabelMul) = "mul") }
+  }
+  OPTIONAL {
+    ?polymer wdt:P4600 ?monomer .
+    OPTIONAL { ?monomer rdfs:label ?monomerLabel FILTER(LANG(?monomerLabel) = "en") }
+    OPTIONAL { ?monomer rdfs:label ?monomerLabelMul FILTER(LANG(?monomerLabelMul) = "mul") }
+  }
+  OPTIONAL { ?polymer wdt:P231 ?cas }
+  OPTIONAL { ?polymer wdt:P683 ?chebi }
+  OPTIONAL { ?polymer wdt:P662 ?pubchem }
+  OPTIONAL { ?article schema:about ?polymer ; schema:isPartOf <https://en.wikipedia.org/> }
+}

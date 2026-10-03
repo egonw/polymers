@@ -1,0 +1,31 @@
+# The quantity statements of the polymers (density, refractive index, thermal
+# conductivity, ...), only those of the best rank, with their units. The
+# references and qualifiers are asked for separately (references.rq and
+# qualifiers.rq), because doing it here makes QLever time out.
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wikibase: <http://wikiba.se/ontology#>
+
+SELECT ?polymer ?property ?propertyLabel ?statement ?amount ?lower ?upper ?unit ?unitLabel
+       ?propertyLabelMul ?unitLabelMul
+WHERE {
+  {
+    SELECT ?polymer ?property ?statement ?amount ?lower ?upper ?unit WHERE {
+      { VALUES ?type { wd:Q81163 wd:Q119896085 } ?polymer wdt:P31 ?type }
+      UNION { ?polymer wdt:P31/wdt:P279* wd:Q81163 ; wdt:P10718 [] }
+      ?property wikibase:propertyType wikibase:Quantity ;
+                wikibase:claim ?p ;
+                wikibase:statementValue ?psv .
+      ?polymer ?p ?statement .
+      ?statement a wikibase:BestRank ; ?psv ?node .
+      ?node wikibase:quantityAmount ?amount ; wikibase:quantityUnit ?unit .
+      OPTIONAL { ?node wikibase:quantityLowerBound ?lower }
+      OPTIONAL { ?node wikibase:quantityUpperBound ?upper }
+    }
+  }
+  OPTIONAL { ?property rdfs:label ?propertyLabel FILTER(LANG(?propertyLabel) = "en") }
+  OPTIONAL { ?property rdfs:label ?propertyLabelMul FILTER(LANG(?propertyLabelMul) = "mul") }
+  OPTIONAL { ?unit rdfs:label ?unitLabel FILTER(LANG(?unitLabel) = "en") }
+  OPTIONAL { ?unit rdfs:label ?unitLabelMul FILTER(LANG(?unitLabelMul) = "mul") }
+}

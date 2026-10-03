@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% block width %}wide{% endblock %}
+{% block content %}
+    <header>
+      <p class="label">Wikidata polymers</p>
+      <h1>Polymers</h1>
+    </header>
+
+    <p class="intro">The {{ polymers|length }} polymers and types of polymer in Wikidata, by QID.
+      {{ with_structure }} of them have a chemical structure as
+      <a href="https://www.wikidata.org/wiki/Property:P10718">CXSMILES</a>. Open a polymer to see its
+      physicochemical properties and where they come from.</p>
+
+    <ul class="grid">
+      {% for polymer in polymers %}
+      <li class="card tile">
+        <h2><a href="{{ url_for('app.polymer', qid=polymer.qid) }}">{{ polymer.label }}</a></h2>
+        <a class="depiction" href="{{ url_for('app.polymer', qid=polymer.qid) }}" tabindex="-1">
+          {% if polymer.cxsmiles %}
+          <img src="{{ polymer.cxsmiles[0]|depict }}" alt="2D structure of {{ polymer.label }}" loading="lazy">
+          {% else %}
+          <span class="muted">No CXSMILES in Wikidata</span>
+          {% endif %}
+        </a>
+        {% if polymer.cxsmiles %}
+        <code class="smiles">{{ polymer.cxsmiles[0] }}</code>
+        {% endif %}
+        <p class="qid muted">{{ polymer.qid }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+{% endblock %}
