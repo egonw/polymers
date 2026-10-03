@@ -25,8 +25,12 @@ The website is a small [Flask](https://flask.palletsprojects.com/) application t
 static HTML on GitHub Pages. The front page lists the polymers, three next to each other, with their
 name, a 2D depiction made by [CDK Depict](https://cdkdepict.toolforge.org/) of the CXSMILES from
 Wikidata and, when Wikidata has one, a photo (P18) as a 75 by 75 pixel cutout that links to its
-page on Wikimedia Commons. Only JPEG files count as photos; the PNG and SVG images are nearly all
-2D drawings of the structure. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID), the
+page on Wikimedia Commons. Many images in Wikidata are 2D drawings of the structure instead, so
+the update script asks Commons whether a file is a photo: its structured data says it is an
+instance of photograph ([wd:Q125191](http://www.wikidata.org/entity/Q125191)) or of scanning
+electron micrograph, its metadata names a camera, or its description or categories mention a
+photo. A photo that does not show up can be fixed on Commons by adding "instance of: photograph"
+to its structured data. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID), the
 polymer classes and monomers, links to the English, Dutch, German, French and Italian Wikipedia,
 and a table of its physicochemical properties: the value with its
 unit, the conditions (qualifiers such as the temperature) and the source with its DOI.

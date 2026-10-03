@@ -310,7 +310,6 @@
         "label": "tapioca",
         "cxsmiles": [],
         "photos": [
-          "A plate of Tapioca.jpg",
           "Tapioca-1.jpg"
         ],
         "wikipedia": {
@@ -383,8 +382,7 @@
         "cxsmiles": [],
         "photos": [
           "13-09-01-kochtreffen-wien-Bi-frie-017.jpg",
-          "Brown & Polson's.JPG",
-          "Stärkemehl 800 fach Polfilter.jpg"
+          "Brown & Polson's.JPG"
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Corn_starch",
@@ -2536,9 +2534,7 @@
         "qid": "Q2666962",
         "label": "cross-linked polyethylene",
         "cxsmiles": [],
-        "photos": [
-          "PEX-Rohr.jpg"
-        ],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
           "de": "https://de.wikipedia.org/wiki/Vernetztes_Polyethylen",
@@ -2631,9 +2627,7 @@
         "qid": "Q3906359",
         "label": "Plasticard",
         "cxsmiles": [],
-        "photos": [
-          "Plasticard line.jpg"
-        ],
+        "photos": [],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Plasticard"
         }
@@ -3219,9 +3213,7 @@
     "label": "nitrile rubber",
     "description": "family of polymer",
     "cxsmiles": [],
-    "photos": [
-      "Disposable nitrile glove.jpg"
-    ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3678,8 +3670,7 @@
     ],
     "photos": [
       "Bales of PET bottles 3.jpg",
-      "Plastic bottle.jpg",
-      "Polyester Shirt, close-up.jpg"
+      "Plastic bottle.jpg"
     ],
     "classes": [
       {
@@ -5297,9 +5288,7 @@
     "cxsmiles": [
       "[*]CC(O)[*] |Sg:n:1,2,3::ht|"
     ],
-    "photos": [
-      "Sample of Polyvinyl alcohol.jpg"
-    ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6519,6 +6508,17 @@
         "wikipedia": {}
       },
       {
+        "qid": "Q28456585",
+        "label": "Nylon 1,6",
+        "cxsmiles": [
+          "[*]C(=O)CCCCC(=O)NCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
+        ],
+        "photos": [],
+        "wikipedia": {
+          "en": "https://en.wikipedia.org/wiki/Nylon_1,6"
+        }
+      },
+      {
         "qid": "Q55844718",
         "label": "polyamid 66 - 30% glass fiber reinforced",
         "cxsmiles": [],
@@ -7257,9 +7257,7 @@
     "label": "methyl cellulose",
     "description": "chemical compound",
     "cxsmiles": [],
-    "photos": [
-      "Tapetenkleister.jpg"
-    ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9180,9 +9178,7 @@
     "label": "cross-linked polyethylene",
     "description": "strong polymeric material",
     "cxsmiles": [],
-    "photos": [
-      "PEX-Rohr.jpg"
-    ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11482,7 +11478,9 @@
     "qid": "Q28456585",
     "label": "Nylon 1,6",
     "description": "type of polyamide",
-    "cxsmiles": [],
+    "cxsmiles": [
+      "[*]C(=O)CCCCC(=O)NCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
+    ],
     "photos": [],
     "classes": [
       {

@@ -40,5 +40,39 @@ class UpdateTest(unittest.TestCase):
         self.assertEqual(statements['s1']['value'], '1.585')
 
 
+class FindPhotosTest(unittest.TestCase):
+
+    def test_signals(self):
+        pages = {'query': {'pages': [
+            # Structured data says it is a photograph.
+            {'pageid': 1, 'title': 'File:Bottle.jpg', 'imageinfo': [{}]},
+            # The metadata names a camera.
+            {'pageid': 2, 'title': 'File:Sheet.jpg', 'imageinfo': [
+                {'metadata': [{'name': 'Model', 'value': 'NIKON D70'}]}]},
+            # The description mentions a photo.
+            {'pageid': 3, 'title': 'File:Pieces.jpg', 'imageinfo': [
+                {'extmetadata': {'ImageDescription': {
+                    'value': 'Photo of pieces of rubber'}}}]},
+            # A drawing: none of these, and no structured data at all.
+            {'pageid': 4, 'title': 'File:Structure.svg',
+             'imageinfo': [{'extmetadata': []}],
+             'categories': [{'title': 'Category:Photoresists'}]},
+        ]}}
+        entities = {'entities': {
+            'M1': {'statements': {'P31': [
+                {'mainsnak': {'datavalue': {'value': {'id': 'Q125191'}}}}]}},
+            'M2': {'statements': []},
+            'M3': {'statements': []},
+            'M4': {'statements': []},
+        }}
+        answers = {'query': pages, 'wbgetentities': entities}
+        original = update.commons_get
+        update.commons_get = lambda params: answers[params['action']]
+        self.addCleanup(setattr, update, 'commons_get', original)
+        photos = update.find_photos(
+            {'Bottle.jpg', 'Sheet.jpg', 'Pieces.jpg', 'Structure.svg'})
+        self.assertEqual(photos, {'Bottle.jpg', 'Sheet.jpg', 'Pieces.jpg'})
+
+
 if __name__ == '__main__':
     unittest.main()

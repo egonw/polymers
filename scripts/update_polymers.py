@@ -5,6 +5,7 @@ writes one JSON record per polymer, sorted by QID. Run it with `make update`.
 """
 
 import json
+import re
 import sys
 import time
 from pathlib import Path
@@ -24,8 +25,17 @@ TIMEOUT = 300
 IDENTIFIERS = {'cas': 'cas', 'chebi': 'chebi', 'pubchem_cid': 'pubchemCid',
                'pubchem_sid': 'pubchemSid'}
 
-# Images (P18) with these extensions are photos, the others drawings.
-PHOTO_EXTENSIONS = ('.jpg', '.jpeg')
+COMMONS_API = 'https://commons.wikimedia.org/w/api.php'
+# Files per Commons API call; the API takes at most 50.
+COMMONS_CHUNK = 50
+# What a file on Commons can be an instance of (P31, in its structured data)
+# to count as a photo: a photograph, or a micrograph of the material.
+PHOTO_TYPES = {
+    'Q125191',     # photograph
+    'Q124816510',  # scanning electron micrograph
+}
+# Words in the description or categories of a file that make it a photo.
+PHOTO_WORDS = re.compile(r'\bphoto(graph)?s?\b', re.IGNORECASE)
 
 # The Wikipedias whose articles are linked, in the order of the page.
 WIKIPEDIAS = ('en', 'nl', 'de', 'fr', 'it')
@@ -151,13 +161,65 @@ def add_article(item, row):
 
 
 def add_image(item, row):
-    """Adds the Commons file name of the image (P18) of a row when it is a
-    photo. Photos are taken to be the JPEG files: the PNG and SVG files are
-    nearly all 2D drawings of the chemical structure."""
+    """Adds the Commons file name of the image (P18) of a row. Whether it is a
+    photo is decided later, by find_photos."""
     if 'image' in row:
-        name = unquote(row['image'].rsplit('/', 1)[1])
-        if name.lower().endswith(PHOTO_EXTENSIONS):
-            add_unique(item['photos'], name)
+        add_unique(item['photos'], unquote(row['image'].rsplit('/', 1)[1]))
+
+
+def commons_get(params):
+    response = requests.get(
+        COMMONS_API, timeout=TIMEOUT, headers={'User-Agent': USER_AGENT},
+        params={'format': 'json', 'formatversion': 2, **params})
+    response.raise_for_status()
+    return response.json()
+
+
+def as_dict(value):
+    """The Commons API gives an empty list instead of an empty object, for
+    example for a file without structured data."""
+    return value if isinstance(value, dict) else {}
+
+
+def find_photos(names):
+    """Gives the files on Wikimedia Commons that are photos rather than
+    drawings of a structure. A file is a photo when its structured data says
+    it is an instance of a photograph (PHOTO_TYPES), when its metadata names
+    the camera it was taken with, or when its description or categories
+    mention a photo."""
+    photos = set()
+    for chunk in chunks(sorted(names), COMMONS_CHUNK):
+        pages = commons_get({
+            'action': 'query', 'titles': '|'.join('File:' + n for n in chunk),
+            'prop': 'imageinfo|categories', 'cllimit': 'max',
+            'iiprop': 'extmetadata|metadata',
+            'iiextmetadatafilter': 'ImageDescription',
+        })['query']['pages']
+        media = {}
+        for page in pages:
+            if 'pageid' not in page:
+                continue
+            name = page['title'].split(':', 1)[1]
+            media[f"M{page['pageid']}"] = name
+            info = (page.get('imageinfo') or [{}])[0]
+            camera = any(item.get('name') in ('Make', 'Model') and item.get('value')
+                         for item in info.get('metadata') or [])
+            description = as_dict(as_dict(info.get('extmetadata')).get(
+                'ImageDescription')).get('value', '')
+            categories = ' '.join(c['title'] for c in page.get('categories', []))
+            if camera or PHOTO_WORDS.search(f'{description} {categories}'):
+                photos.add(name)
+        if not media:
+            continue
+        entities = commons_get({'action': 'wbgetentities', 'props': 'claims',
+                                'ids': '|'.join(media)}).get('entities', {})
+        for mid, entity in entities.items():
+            statements = as_dict(entity.get('statements'))
+            types = {s['mainsnak'].get('datavalue', {}).get('value', {}).get('id')
+                     for s in statements.get('P31', [])}
+            if types & PHOTO_TYPES:
+                photos.add(media[mid])
+    return photos
 
 
 def ordered_wikipedia(articles):
@@ -271,6 +333,13 @@ def build():
         polymer = polymers.get(statement.pop('polymer'))
         if polymer:
             polymer['properties'].append(statement)
+    print('Photos ...', file=sys.stderr)
+    items = list(polymers.values()) + [
+        member for group in members.values() for member in group.values()]
+    photos = find_photos({name for item in items for name in item['photos']})
+    for item in items:
+        item['photos'] = [name for name in item['photos'] if name in photos]
+
     for qid, items in members.items():
         if qid in polymers:
             polymers[qid]['members'] = sorted(
