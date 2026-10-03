@@ -7,7 +7,7 @@ PREFIX schema: <http://schema.org/>
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
 
-SELECT ?polymer ?polymerLabel ?polymerDescription ?cxsmiles
+SELECT ?polymer ?polymerLabel ?polymerDescription ?cxsmiles ?image
        ?class ?classLabel ?monomer ?monomerLabel ?cas ?chebi ?pubchemCid ?pubchemSid ?article ?wikipedia
        ?polymerLabelMul ?polymerDescriptionMul ?classLabelMul ?monomerLabelMul
 WHERE {
@@ -22,6 +22,7 @@ WHERE {
   OPTIONAL { ?polymer schema:description ?polymerDescription FILTER(LANG(?polymerDescription) = "en") }
   OPTIONAL { ?polymer schema:description ?polymerDescriptionMul FILTER(LANG(?polymerDescriptionMul) = "mul") }
   OPTIONAL { ?polymer wdt:P10718 ?cxsmiles }
+  OPTIONAL { ?polymer wdt:P18 ?image }
   OPTIONAL {
     ?polymer wdt:P31 ?class .
     OPTIONAL { ?class rdfs:label ?classLabel FILTER(LANG(?classLabel) = "en") }

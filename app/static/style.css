@@ -137,6 +137,25 @@ a { color: var(--accent); }
   font-size: 0.8rem;
 }
 
+/* The photo (P18) of a polymer: a 75 by 75 pixel cutout from the middle,
+   so the photo is cropped rather than squeezed. */
+.photo {
+  align-self: center;
+  width: 75px;
+  height: 75px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.photo img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 /* Small buttons: the Wikipedia buttons after the QID, one per language,
    and the number of members after the name of a class of polymers. */
 .badge {

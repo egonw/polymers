@@ -4,6 +4,11 @@
     "label": "starch",
     "description": "carbohydrate consisting of a large number of glucose units joined by glycosidic bond",
     "cxsmiles": [],
+    "photos": [
+      "Cornstarch mixed with water.jpg",
+      "Potato starch.jpg",
+      "Wheat starch granules.JPG"
+    ],
     "classes": [
       {
         "qid": "Q416796",
@@ -249,6 +254,9 @@
         "qid": "Q218778",
         "label": "sago",
         "cxsmiles": [],
+        "photos": [
+          "Metroxylon sagu, Sago Preparation.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Sago",
           "nl": "https://nl.wikipedia.org/wiki/Sago",
@@ -261,6 +269,9 @@
         "qid": "Q415766",
         "label": "modified starch",
         "cxsmiles": [],
+        "photos": [
+          "Modified food starch.JPG"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Modified_starch",
           "de": "https://de.wikipedia.org/wiki/Modifizierte_St%C3%A4rke",
@@ -271,6 +282,7 @@
         "qid": "Q415775",
         "label": "hydroxyethyl starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Hydroxyethyl_starch",
           "de": "https://de.wikipedia.org/wiki/Hydroxyethylst%C3%A4rke",
@@ -282,6 +294,9 @@
         "qid": "Q715160",
         "label": "potato starch",
         "cxsmiles": [],
+        "photos": [
+          "Potato Starch.JPG"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Potato_starch",
           "nl": "https://nl.wikipedia.org/wiki/Aardappelzetmeel",
@@ -294,6 +309,10 @@
         "qid": "Q873761",
         "label": "tapioca",
         "cxsmiles": [],
+        "photos": [
+          "A plate of Tapioca.jpg",
+          "Tapioca-1.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Tapioca",
           "nl": "https://nl.wikipedia.org/wiki/Tapioca",
@@ -306,6 +325,7 @@
         "qid": "Q994945",
         "label": "sauce binder",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Saucenbinder"
         }
@@ -314,6 +334,7 @@
         "qid": "Q1414074",
         "label": "starch ester",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkeester"
         }
@@ -322,6 +343,7 @@
         "qid": "Q1640437",
         "label": "hydroxypropyl starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Hydroxypropyl_starch",
           "de": "https://de.wikipedia.org/wiki/Hydroxypropylst%C3%A4rke",
@@ -332,6 +354,7 @@
         "qid": "Q1670403",
         "label": "thermoplastic starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Thermoplastische_St%C3%A4rke"
         }
@@ -340,6 +363,7 @@
         "qid": "Q1879801",
         "label": "Zulkowsky starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/L%C3%B6sliche_St%C3%A4rke_nach_Zulkowsky"
         }
@@ -348,6 +372,7 @@
         "qid": "Q2633813",
         "label": "acetylated oxidised starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Acetylierte_oxidierte_St%C3%A4rke"
         }
@@ -356,6 +381,11 @@
         "qid": "Q3393961",
         "label": "corn starch",
         "cxsmiles": [],
+        "photos": [
+          "13-09-01-kochtreffen-wien-Bi-frie-017.jpg",
+          "Brown & Polson's.JPG",
+          "Stärkemehl 800 fach Polfilter.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Corn_starch",
           "nl": "https://nl.wikipedia.org/wiki/Ma%C3%AFszetmeel",
@@ -367,6 +397,7 @@
         "qid": "Q3614284",
         "label": "waxy maize starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Amido_di_mais_ceroso"
         }
@@ -375,6 +406,9 @@
         "qid": "Q4069888",
         "label": "arrowroot",
         "cxsmiles": [],
+        "photos": [
+          "Arrowroot prep3.JPG"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Arrowroot",
           "it": "https://it.wikipedia.org/wiki/Arrowroot"
@@ -384,6 +418,7 @@
         "qid": "Q7187438",
         "label": "Phosphated distarch phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Phosphated_distarch_phosphate"
         }
@@ -392,6 +427,7 @@
         "qid": "Q7975739",
         "label": "waxy potato starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Waxy_potato_starch",
           "nl": "https://nl.wikipedia.org/wiki/Amylopectine-aardappelzetmeel"
@@ -401,6 +437,7 @@
         "qid": "Q9338177",
         "label": "acetylated starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Acetylated_starch",
           "de": "https://de.wikipedia.org/wiki/Acetylierte_St%C3%A4rke"
@@ -410,6 +447,7 @@
         "qid": "Q10474540",
         "label": "distarch phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Distarch_phosphate"
         }
@@ -418,6 +456,7 @@
         "qid": "Q10528966",
         "label": "hydroxypropyl distarch phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Hydroxypropyl_distarch_phosphate",
           "de": "https://de.wikipedia.org/wiki/Hydroxypropyldist%C3%A4rkephosphat"
@@ -427,12 +466,14 @@
         "qid": "Q11320900",
         "label": "starch sugar",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q11684206",
         "label": "acetylated distarch phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Acetylated_distarch_phosphate"
         }
@@ -441,24 +482,28 @@
         "qid": "Q12054311",
         "label": "Cyanobacterial starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q13026286",
         "label": "Q13026286",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q13178610",
         "label": "Mpusemate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q14283319",
         "label": "Q14283319",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "nl": "https://nl.wikipedia.org/wiki/Amyl_(scheikunde)"
         }
@@ -467,6 +512,7 @@
         "qid": "Q16608956",
         "label": "Starch sodium octenyl succinate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Starch_sodium_octenyl_succinate",
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkenatriumoctenylsuccinate"
@@ -476,36 +522,42 @@
         "qid": "Q18235005",
         "label": "wheat starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q18967214",
         "label": "distarch glycerol",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q18967222",
         "label": "Enzyme treated starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q18967250",
         "label": "acid-treated starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q18967287",
         "label": "starch aluminium octenyl succinate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q21011237",
         "label": "pentastarch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Pentastarch"
         }
@@ -514,6 +566,7 @@
         "qid": "Q24900734",
         "label": "Floridean starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Floridean_starch"
         }
@@ -522,12 +575,14 @@
         "qid": "Q30934934",
         "label": "bracken starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q42807559",
         "label": "Oxidised starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Oxidierte_St%C3%A4rke"
         }
@@ -536,6 +591,7 @@
         "qid": "Q59555990",
         "label": "monostarch phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Monostarch_phosphate"
         }
@@ -544,18 +600,21 @@
         "qid": "Q65241643",
         "label": "barley starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q67584231",
         "label": "dark sauce binder",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q94962746",
         "label": "starch sulfate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkesulfate"
         }
@@ -564,6 +623,7 @@
         "qid": "Q94962774",
         "label": "starch nitrate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkenitrate"
         }
@@ -572,6 +632,7 @@
         "qid": "Q94962789",
         "label": "starch xanthate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkexanthogenate"
         }
@@ -580,6 +641,7 @@
         "qid": "Q96898884",
         "label": "starch citrate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkecitrate"
         }
@@ -588,6 +650,7 @@
         "qid": "Q96898943",
         "label": "starch succinate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkesuccinate"
         }
@@ -596,6 +659,7 @@
         "qid": "Q96898947",
         "label": "starch phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkephosphate"
         }
@@ -604,6 +668,9 @@
         "qid": "Q104483024",
         "label": "cassava starch",
         "cxsmiles": [],
+        "photos": [
+          "Casabe-3.jpg"
+        ],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Polvilho"
         }
@@ -612,6 +679,7 @@
         "qid": "Q112669258",
         "label": "Q112669258",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Acetyliertes_Dist%C3%A4rkephosphat"
         }
@@ -620,6 +688,7 @@
         "qid": "Q112674922",
         "label": "Q112674922",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Phosphatiertes_Dist%C3%A4rkephosphat"
         }
@@ -628,18 +697,21 @@
         "qid": "Q125799818",
         "label": "storage glucan",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q133971121",
         "label": "bleached starch",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q133972560",
         "label": "starch acetate esterified with vinyl acetate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -649,6 +721,10 @@
     "label": "polycarbonate",
     "description": "family of polymers",
     "cxsmiles": [],
+    "photos": [
+      "Reverso de CD.JPG",
+      "Поликарбонат.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -1476,6 +1552,7 @@
         "cxsmiles": [
           "[*]CC(C)OC(=O)O[*] |Sg:n:1,2,3,4,5,6,7::ht|"
         ],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Polypropylene_carbonate",
           "nl": "https://nl.wikipedia.org/wiki/Polypropyleencarbonaat",
@@ -1486,12 +1563,14 @@
         "qid": "Q9355642",
         "label": "Tarflon",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q56224140",
         "label": "PurePolycarbonate® Abrasion Resistant Grades",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
@@ -1500,6 +1579,7 @@
         "cxsmiles": [
           "O=C(*)Oc1ccc(cc1)C(C)(C)c1ccc(O*)cc1 |Sg:n:0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20::ht|"
         ],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -1509,6 +1589,7 @@
     "label": "cellulose",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -1837,6 +1918,7 @@
         "qid": "Q1938096",
         "label": "bedding",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Bedding_(animals)",
           "nl": "https://nl.wikipedia.org/wiki/Houtvezel_(strooisel)",
@@ -1849,6 +1931,7 @@
         "qid": "Q3487500",
         "label": "BioSteel",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/BioSteel_(fiber)"
         }
@@ -1857,6 +1940,7 @@
         "qid": "Q4832774",
         "label": "azlon",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Azlon"
         }
@@ -1865,6 +1949,7 @@
         "qid": "Q4839982",
         "label": "bacterial cellulose",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Bacterial_cellulose"
         }
@@ -1873,6 +1958,7 @@
         "qid": "Q6839254",
         "label": "microbial cellulose",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Microbial_cellulose"
         }
@@ -1881,18 +1967,21 @@
         "qid": "Q9147457",
         "label": "alpha cellulose",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q10650399",
         "label": "Q10650399",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q25325289",
         "label": "regenerated cellulose",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Regenerated_cellulose",
           "de": "https://de.wikipedia.org/wiki/Regeneratfaser"
@@ -1902,12 +1991,14 @@
         "qid": "Q42807558",
         "label": "powdered cellulose",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q115959335",
         "label": "cat litter",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Cat_litter"
         }
@@ -1916,6 +2007,7 @@
         "qid": "Q132377982",
         "label": "cellulose phosphate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "fr": "https://fr.wikipedia.org/wiki/Phosphocellulose"
         }
@@ -1929,6 +2021,7 @@
     "cxsmiles": [
       "[*]CCCCCC(=O)N[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -1966,6 +2059,7 @@
     "cxsmiles": [
       "[*]CCCCCC(=O)O[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q188245",
@@ -2064,6 +2158,7 @@
     "cxsmiles": [
       "[*]C(CC(C)C)C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -2100,6 +2195,7 @@
     "cxsmiles": [
       "[*]C(F)(F)C(F)(F)[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2256,18 +2352,21 @@
         "qid": "Q18212326",
         "label": "Teflon 42",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q87150564",
         "label": "Teflon",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q123485665",
         "label": "expanded PTFE",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/EPTFE"
         }
@@ -2281,6 +2380,7 @@
     "cxsmiles": [
       "[*]CC[*] |Sg:n:1,2::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q424370",
@@ -2384,6 +2484,7 @@
         "qid": "Q575823",
         "label": "ultra-high-molecular-weight polyethylene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
           "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_de_masse_molaire_tr%C3%A8s_%C3%A9lev%C3%A9e",
@@ -2394,6 +2495,9 @@
         "qid": "Q1863987",
         "label": "linear low-density polyethylene",
         "cxsmiles": [],
+        "photos": [
+          "LLDPE.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Linear_low-density_polyethylene",
           "nl": "https://nl.wikipedia.org/wiki/LLDPE",
@@ -2405,6 +2509,9 @@
         "qid": "Q2033818",
         "label": "low-density polyethylene",
         "cxsmiles": [],
+        "photos": [
+          "LDPE bottle.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Low-density_polyethylene",
           "nl": "https://nl.wikipedia.org/wiki/Lagedichtheidpolyetheen",
@@ -2417,6 +2524,7 @@
         "qid": "Q2641430",
         "label": "high-density polyethylene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
           "nl": "https://nl.wikipedia.org/wiki/Hoge-dichtheidspolyetheen",
@@ -2428,6 +2536,9 @@
         "qid": "Q2666962",
         "label": "cross-linked polyethylene",
         "cxsmiles": [],
+        "photos": [
+          "PEX-Rohr.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
           "de": "https://de.wikipedia.org/wiki/Vernetztes_Polyethylen",
@@ -2438,6 +2549,7 @@
         "qid": "Q3753347",
         "label": "Q3753347",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Friselina"
         }
@@ -2446,6 +2558,7 @@
         "qid": "Q3907299",
         "label": "expanded polyethylene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Expanded_polyethylene",
           "it": "https://it.wikipedia.org/wiki/Polietilene_espanso"
@@ -2460,6 +2573,7 @@
     "cxsmiles": [
       "[*]CC(C#N)C\\C=C\\CCC(c1ccccc1)[*] |Sg:n:1,2,3,4:k:ht,Sg:n:5,6,7,8:l:ht,Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16:m:ht,Sg:n:9,10,11,12,13,14,15,16:n:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2517,6 +2631,9 @@
         "qid": "Q3906359",
         "label": "Plasticard",
         "cxsmiles": [],
+        "photos": [
+          "Plasticard line.jpg"
+        ],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Plasticard"
         }
@@ -2529,6 +2646,9 @@
     "description": "polymer",
     "cxsmiles": [
       "[*]C/C=C\\C[*] |Sg:n:1,2,3,4::ht|"
+    ],
+    "photos": [
+      "Polybutadiene rubber 02.jpg"
     ],
     "classes": [
       {
@@ -2604,6 +2724,7 @@
         "qid": "Q117803468",
         "label": "High cis polybutadiene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -2613,6 +2734,7 @@
     "label": "nitrocellulose",
     "description": "highly flammable compound formed by nitrating cellulose through exposure to nitric acid or to another nitrating agent",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2639,6 +2761,7 @@
         "qid": "Q1779465",
         "label": "cellulose dinitrate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Kollodiumwolle"
         }
@@ -2647,6 +2770,7 @@
         "qid": "Q4742505",
         "label": "cellulose trinitrate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat"
         }
@@ -2655,12 +2779,14 @@
         "qid": "Q26841184",
         "label": "pyroxylin",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q107156732",
         "label": "guncotton",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Guncotton",
           "de": "https://de.wikipedia.org/wiki/Schie%C3%9Fbaumwolle"
@@ -2673,6 +2799,7 @@
     "label": "cyclic olefin copolymer",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2702,6 +2829,7 @@
     "cxsmiles": [
       "[*]C\\C(Cl)=C\\C[*] |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2856,6 +2984,7 @@
     "cxsmiles": [
       "[*]CCC(F)(F)C(F)(F)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -2886,6 +3015,7 @@
     "label": "ethylene-vinyl acetate",
     "description": "copolymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2923,6 +3053,7 @@
         "qid": "Q3901746",
         "label": "phylon",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Phylon"
         }
@@ -2934,6 +3065,9 @@
     "label": "polyisoprene",
     "description": "elastomer; main constituent of natural rubber",
     "cxsmiles": [],
+    "photos": [
+      "Polyisoprene.jpg"
+    ],
     "classes": [
       {
         "qid": "Q15711994",
@@ -3085,6 +3219,9 @@
     "label": "nitrile rubber",
     "description": "family of polymer",
     "cxsmiles": [],
+    "photos": [
+      "Disposable nitrile glove.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3126,6 +3263,7 @@
     "cxsmiles": [
       "[*]CC(C#N)[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3237,6 +3375,7 @@
         "qid": "Q18193478",
         "label": "Q18193478",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Dralon"
         }
@@ -3250,6 +3389,7 @@
     "cxsmiles": [
       "[*]C(=O)c1ccc(cc1)C(=O)OCCCCO[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16:m:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3280,6 +3420,7 @@
     "label": "polycyclohexylenedimethylene terephthalate",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3309,6 +3450,7 @@
     "cxsmiles": [
       "[*]C(F)(F)C(F)(Cl)[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3461,6 +3603,7 @@
     "cxsmiles": [
       "[*]N1C(=O)c2c(C(=O)1)ccc(c2)Oc1ccc(cc1)C(C)(C)c1ccc(cc1)Oc1cc2C(=O)N(C(=O)c2cc1)c1cccc(c1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -3492,6 +3635,7 @@
     "cxsmiles": [
       "[*]c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -3531,6 +3675,11 @@
     "description": "type of polyester commonly used for bottles and clothing",
     "cxsmiles": [
       "[*]CCOC(=O)c1ccc(cc1)C(=O)O[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
+    ],
+    "photos": [
+      "Bales of PET bottles 3.jpg",
+      "Plastic bottle.jpg",
+      "Polyester Shirt, close-up.jpg"
     ],
     "classes": [
       {
@@ -3767,6 +3916,7 @@
         "qid": "Q441961",
         "label": "BoPET",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Biaxial_orientierte_Polyester-Folie"
         }
@@ -3775,6 +3925,7 @@
         "qid": "Q10334136",
         "label": "Mylar",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Mylar",
           "fr": "https://fr.wikipedia.org/wiki/Mylar"
@@ -3789,6 +3940,7 @@
     "cxsmiles": [
       "[*]C(C)(C)C[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -3828,6 +3980,7 @@
     "cxsmiles": [
       "[*]C(C)(C#N)CC(C)(C(=O)O)C[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -3854,6 +4007,7 @@
     "cxsmiles": [
       "[*]CC(C)(C(=O)OC)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -4182,6 +4336,7 @@
         "qid": "Q23007069",
         "label": "Plexiglas",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Plexiglas",
           "nl": "https://nl.wikipedia.org/wiki/Plexiglas",
@@ -4198,6 +4353,7 @@
     "cxsmiles": [
       "[*]CC(C)[*] |Sg:n:1,2,3::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -4740,18 +4896,21 @@
         "qid": "Q57272759",
         "label": "Purpolen®PP recycling",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q118594126",
         "label": "CELRe",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q140403649",
         "label": "Isotactic polypropylene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -4763,6 +4922,7 @@
     "cxsmiles": [
       "[*]c1cc(O)c(c(O)c1)O[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -4852,6 +5012,7 @@
     "cxsmiles": [
       "[*]c1ccc(cc1)S[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -4902,6 +5063,7 @@
     "cxsmiles": [
       "[*]c1Nc(cc1)c1Nc(cc1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -4930,6 +5092,9 @@
     "description": "thermoplastic polymer of styrene",
     "cxsmiles": [
       "[*]C(c1ccccc1)C[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
+    ],
+    "photos": [
+      "Polistirolo.JPG"
     ],
     "classes": [
       {
@@ -5111,12 +5276,14 @@
         "qid": "Q11308614",
         "label": "syndiotactic polystyrene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q25385241",
         "label": "Q25385241",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Airpop"
         }
@@ -5129,6 +5296,9 @@
     "description": "water-soluble synthetic polymer",
     "cxsmiles": [
       "[*]CC(O)[*] |Sg:n:1,2,3::ht|"
+    ],
+    "photos": [
+      "Sample of Polyvinyl alcohol.jpg"
     ],
     "classes": [
       {
@@ -5221,6 +5391,7 @@
     "cxsmiles": [
       "[*]CC(OC(=O)C)[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5359,6 +5530,7 @@
         "qid": "Q127888545",
         "label": "Q127888545",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -5370,6 +5542,7 @@
     "cxsmiles": [
       "[*]CC([Cl])[*] |Sg:n:1,2,3::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5712,6 +5885,7 @@
         "qid": "Q3888260",
         "label": "Q3888260",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/PVC-O"
         }
@@ -5720,12 +5894,14 @@
         "qid": "Q11189687",
         "label": "Q11189687",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q131574942",
         "label": "SORPLAS",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -5737,6 +5913,7 @@
     "cxsmiles": [
       "[*]CC(F)(F)[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5904,6 +6081,7 @@
     "cxsmiles": [
       "[*]CC(F)[*] |Sg:n:1,2,3::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5941,6 +6119,7 @@
     "label": "Styrene-acrylonitrile resin",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -5983,6 +6162,7 @@
     "label": "styrene-butadiene",
     "description": "synthetic elastomer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6021,6 +6201,7 @@
         "qid": "Q17591148",
         "label": "brominated styrene-butadiene copolymer",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Bromiertes_Styrol-Butadien-Copolymer"
         }
@@ -6033,6 +6214,9 @@
     "description": "thermoset polymer",
     "cxsmiles": [
       "[*]NC(=O)NC[*] |Sg:n:1,2,3,4,5::ht|"
+    ],
+    "photos": [
+      "A selection of urea formaldehyde objects at the science museum.JPG"
     ],
     "classes": [
       {
@@ -6076,6 +6260,7 @@
     "cxsmiles": [
       "[*]O[C@H]1[C@H](O)[C@@H](NC(=O)C)[C@@H](O[C@@H]1CO)O[C@@H]1[C@@H](CO)O[C@H]([C@H](NC(=O)C)[C@H]1O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6128,6 +6313,7 @@
     "label": "glycogen",
     "description": "polysaccharide",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6160,6 +6346,7 @@
         "qid": "Q67064403",
         "label": "liver glycogen",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -6171,6 +6358,7 @@
     "cxsmiles": [
       "[*]O[C@H]1[C@H](O)[C@@H](O)[C@@H]([*])O[C@@H]1CO |Sg:n:1,2,3,4,5,6,7,9,10,11,12::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6203,6 +6391,7 @@
         "qid": "Q20650182",
         "label": "Q20650182",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Trockenglucose"
         }
@@ -6211,6 +6400,7 @@
         "qid": "Q57271756",
         "label": "tapioca maltodextrin",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -6220,6 +6410,7 @@
     "label": "nylon",
     "description": "family of synthetic polymers originally developed as textile fibers",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q17339814",
@@ -6294,6 +6485,7 @@
         "cxsmiles": [
           "[*]CCCCCC(=O)N[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
         ],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Nylon_6",
           "de": "https://de.wikipedia.org/wiki/Polycaprolactam",
@@ -6306,6 +6498,7 @@
         "cxsmiles": [
           "[*]C(=O)CCCCC(=O)NCCCCCCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16::ht|"
         ],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Nylon_66",
           "de": "https://de.wikipedia.org/wiki/Nylon_66"
@@ -6315,42 +6508,49 @@
         "qid": "Q10854795",
         "label": "aramid fiber",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q18193629",
         "label": "Supplex",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q55844718",
         "label": "polyamid 66 - 30% glass fiber reinforced",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q57248741",
         "label": "Polyamid 1010 reinforced with 30% glass fiber",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q57249107",
         "label": "Polyamide 610",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q57270792",
         "label": "Heramid® A NER MP/1K",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q85758539",
         "label": "Econyl",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Econyl"
         }
@@ -6359,6 +6559,7 @@
         "qid": "Q110877304",
         "label": "soluble nylon",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -6370,6 +6571,7 @@
     "cxsmiles": [
       "[*]NC(C(=O)O)CCC(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6399,6 +6601,7 @@
     "label": "amylose",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6439,6 +6642,7 @@
     "cxsmiles": [
       "[*]C1Oc2c(N=1)cc1c(c2)OC(=N1)c1ccc(cc1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6472,6 +6676,7 @@
     "label": "amylopectin",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6527,6 +6732,7 @@
     "label": "hyaluronic acid",
     "description": "naturally occurring polysaccharide used in skincare for moisture retention and skin hydration",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6561,6 +6767,7 @@
     "label": "chondroitin sulfate",
     "description": "class of compounds; sulfated glycosaminoglycan",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q12140",
@@ -6604,6 +6811,7 @@
         "qid": "Q74514667",
         "label": "chondroitin 6'-sulfate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -6615,6 +6823,7 @@
     "cxsmiles": [
       "[*]NC(=N)NC(=N)NCCCCCC[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6650,6 +6859,7 @@
     "cxsmiles": [
       "[*]CC(C(=O)O)[*] |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6713,6 +6923,7 @@
     "cxsmiles": [
       "OCCO[H] |Sg:n:1,2,3::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6772,6 +6983,7 @@
         "qid": "Q7118931",
         "label": "PEG 400",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/PEG_400"
         }
@@ -6780,6 +6992,7 @@
         "qid": "Q69862921",
         "label": "poloxalene",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -6789,6 +7002,7 @@
     "label": "ficoll",
     "description": "sucrose polymer of high molecular weight",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6820,6 +7034,7 @@
     "label": "diethylaminoethyl cellulose",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6848,6 +7063,7 @@
     "cxsmiles": [
       "[*]OC(=O)c1ccc2cc(ccc2c1)C(=O)OCC[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6891,6 +7107,9 @@
     "cxsmiles": [
       "C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C |Sg:n:4,5,6,7::ht|"
     ],
+    "photos": [
+      "PDMS-cylindertje onder stereomicroscoop.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6925,6 +7144,7 @@
     "cxsmiles": [
       "[*]NC(CC(=O)NC(C(=O)O)CCCNC(=N)N)C(=O)NC(CC(=O)NC(C(=O)O)CCCNC(=N)N)C(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -6951,6 +7171,7 @@
     "label": "Nafion",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6982,6 +7203,7 @@
     "cxsmiles": [
       "[*]CC(N1CCCC(=O)1)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7035,6 +7257,9 @@
     "label": "methyl cellulose",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [
+      "Tapetenkleister.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7068,6 +7293,7 @@
     "label": "enoxaparin sodium",
     "description": "chemical compound: low molecular weight heparins",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7099,6 +7325,7 @@
     "cxsmiles": [
       "[*]CC(CC)[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7133,6 +7360,7 @@
     "cxsmiles": [
       "OCO[H] |Sg:n:1,2:8-100:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7166,6 +7394,7 @@
     "cxsmiles": [
       "[*]CCN[*] |Sg:n:1,2,3::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7197,6 +7426,7 @@
     "cxsmiles": [
       "[*]C=C[*] |Sg:n:1,2::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7230,6 +7460,7 @@
     "cxsmiles": [
       "[*]CCO |Sg:n:1::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7262,6 +7493,7 @@
     "label": "ethyl cellulose",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7294,6 +7526,7 @@
     "label": "PEDOT:PSS",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7321,6 +7554,7 @@
     "cxsmiles": [
       "[*]C/C(C)=C/C[*] |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7353,6 +7587,7 @@
     "cxsmiles": [
       "OC(=O)COH |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7391,6 +7626,7 @@
     "cxsmiles": [
       "[*]C(=O)C[C@@H](C)O[*] |Sg:n:1,2,3,4,5,6:n:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7427,6 +7663,7 @@
     "label": "heparan sulfate",
     "description": "linear polysaccharide in all animal tissues",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7466,6 +7703,7 @@
     "label": "callose",
     "description": "plant polysaccharide",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7497,6 +7735,7 @@
     "cxsmiles": [
       "[*]Cc1ccc(cc1)C[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7525,6 +7764,7 @@
     "label": "ultra-high-molecular-weight polyethylene",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7556,6 +7796,7 @@
     "label": "Synthetic ice",
     "description": "Solid polymer material",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7584,6 +7825,7 @@
     "cxsmiles": [
       "[*]C(c1ccc(O)cc1)C[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7609,6 +7851,7 @@
     "label": "lipoteichoic acid",
     "description": "group of chemical compounds",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7636,6 +7879,7 @@
     "label": "thermosetting polymer",
     "description": "polymer material that irreversibly cures to a solid",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7662,6 +7906,9 @@
         "qid": "Q60121",
         "label": "polymer clay",
         "cxsmiles": [],
+        "photos": [
+          "Polymer clay examples.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Polymer_clay",
           "it": "https://it.wikipedia.org/wiki/Argilla_polimerica"
@@ -7672,6 +7919,9 @@
         "label": "urea-formaldehyde",
         "cxsmiles": [
           "[*]NC(=O)NC[*] |Sg:n:1,2,3,4,5::ht|"
+        ],
+        "photos": [
+          "A selection of urea formaldehyde objects at the science museum.JPG"
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
@@ -7684,6 +7934,7 @@
         "qid": "Q1415840",
         "label": "Fimo",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Fimo",
           "nl": "https://nl.wikipedia.org/wiki/Fimo-klei",
@@ -7696,6 +7947,7 @@
         "qid": "Q6665766",
         "label": "aminoplastic",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Aminoplast",
           "fr": "https://fr.wikipedia.org/wiki/Aminoplaste"
@@ -7705,6 +7957,7 @@
         "qid": "Q7439436",
         "label": "Sculpey",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Sculpey"
         }
@@ -7713,6 +7966,7 @@
         "qid": "Q13414417",
         "label": "duroplast",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Duroplast",
           "nl": "https://nl.wikipedia.org/wiki/Duroplast",
@@ -7723,6 +7977,7 @@
         "qid": "Q20180653",
         "label": "melamine resin",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Melamine_resin",
           "de": "https://de.wikipedia.org/wiki/Melaminharz",
@@ -7734,12 +7989,14 @@
         "qid": "Q56224143",
         "label": "3M™ Scotchkote™ Abrasion Resistant Overcoat 6352HF",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q108837649",
         "label": "Cernit",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Cernit"
         }
@@ -7751,6 +8008,7 @@
     "label": "colesevelam",
     "description": "pharmaceutical drug",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7833,6 +8091,7 @@
     "label": "Hypalon",
     "description": "Synthetic rubber",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7864,6 +8123,7 @@
     "label": "HNBR",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7892,6 +8152,7 @@
     "cxsmiles": [
       "CC(C)(*)C*.*C(CC)C*.*C(C)C(*)C |Sg:n:0,1,2,4::ht,Sg:n:7,8,9,10::ht,Sg:n:13,14,15,17::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7919,6 +8180,7 @@
     "cxsmiles": [
       "[*]SN=S=N[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7955,6 +8217,7 @@
     "label": "Cardo polymer",
     "description": "Subgroup of polymers",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -7980,6 +8243,7 @@
     "label": "cellulose dinitrate",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8008,6 +8272,7 @@
     "cxsmiles": [
       "[*]C\\C(C)=C(C)\\C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8041,6 +8306,9 @@
     "label": "low-density polyethylene",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [
+      "LDPE bottle.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8342,6 +8610,7 @@
     "cxsmiles": [
       "[*]C1=C(CCCCCC)C=C(S1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8369,6 +8638,7 @@
     "label": "polymeric diphenylmethane diisocyanate",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8395,6 +8665,7 @@
     "cxsmiles": [
       "[*]C(=O)c1ccc(cc1)C(=O)OCCCO[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8422,6 +8693,7 @@
         "qid": "Q4968566",
         "label": "Sorona",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Sorona"
         }
@@ -8435,6 +8707,7 @@
     "cxsmiles": [
       "[*]Nc1cc(ccc1)NC(=O)c1ccc(cc1)C(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8479,6 +8752,7 @@
     "cxsmiles": [
       "CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@H]1O[*])CO)OS(=O)(=O)[O-])O[C@H]2[C@@H]([C@H]([C@@H]([C@@H](O2)C(=O)[O-])O)O)O[*] |Sg:n:0,1,2,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8514,6 +8788,7 @@
     "cxsmiles": [
       "*NCCCCCCCCCCCC(=O)* |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8541,6 +8816,7 @@
     "label": "polyoctenamer",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8571,6 +8847,7 @@
     "cxsmiles": [
       "[*]C1SC(=CC=1)[*] |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -8602,6 +8879,7 @@
     "label": "high-density polyethylene",
     "description": "class of polyethylenes",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8902,6 +9180,9 @@
     "label": "cross-linked polyethylene",
     "description": "strong polymeric material",
     "cxsmiles": [],
+    "photos": [
+      "PEX-Rohr.jpg"
+    ],
     "classes": [
       {
         "qid": "Q81163",
@@ -8939,6 +9220,7 @@
     "cxsmiles": [
       "[*]CC(C(=O)NC(C)C)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8972,6 +9254,7 @@
     "cxsmiles": [
       "[*]C(c1ccc(S(=O)(=O)[O-1])cc1)C[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9031,6 +9314,7 @@
         "cxsmiles": [
           "[*]CC(c1ccc(S(=O)(=O)[O-])cc1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12::ht|"
         ],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Tolevamer",
           "de": "https://de.wikipedia.org/wiki/Poly(styrolsulfons%C3%A4ure)"
@@ -9044,6 +9328,9 @@
     "description": "chemical compound",
     "cxsmiles": [
       "CCC(C)(C(=O)OCC)CC(C(=O)OC)C |Sg:n:1,2,3,4,5,6,7,8:m:ht,Sg:n:9,10,11,12,13,14:n:ht|"
+    ],
+    "photos": [
+      "Paraloid b72.jpg"
     ],
     "classes": [
       {
@@ -9071,6 +9358,7 @@
     "label": "cold enamel",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9095,6 +9383,7 @@
     "label": "formazine",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9120,6 +9409,7 @@
     "label": "Q3888260",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9144,6 +9434,7 @@
     "label": "carbomer",
     "description": "polymer; excipient",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9175,6 +9466,7 @@
     "label": "cellulose acetate butyrate",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9206,6 +9498,7 @@
     "cxsmiles": [
       "[*]Nc1ccc(cc1)NC(=O)c1ccc(cc1)C(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q161",
@@ -9259,6 +9552,7 @@
     "cxsmiles": [
       "HNC(=O)NCO |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9281,6 +9575,7 @@
     "label": "poly-cotton",
     "description": "polyester-cotton blend",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9303,6 +9598,9 @@
     "label": "Pural",
     "description": "polymer coating for galvanized steel",
     "cxsmiles": [],
+    "photos": [
+      "PuralCoils.jpg"
+    ],
     "classes": [
       {
         "qid": "Q81163",
@@ -9325,6 +9623,7 @@
     "label": "fluoroelastomer",
     "description": "class of chemical compounds",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9354,6 +9653,7 @@
     "label": "cellulose trinitrate",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9382,6 +9682,7 @@
     "cxsmiles": [
       "C*.*C(C)*.c1ccccc1C(C)c1c(O)c(cc([*])c1)* |m:2:7.8.9.10,m:0:18.19,$;R2;;;;;;;;;;;;;;;;;;;R1$,Sg:n:0,1,2,3,4,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21::ht| anoxomer"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9410,6 +9711,7 @@
     "label": "ardeparin sodium",
     "description": "pharmaceutical drug",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9438,6 +9740,7 @@
     "cxsmiles": [
       "[*]Cc1c(OC)c(cc(CCNC)c1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9463,6 +9766,7 @@
     "label": "elastolefin",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9491,6 +9795,7 @@
     "label": "Flubber",
     "description": "type of gelatin",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9515,6 +9820,7 @@
     "label": "graphitic carbon nitride",
     "description": "class of chemical compounds",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9542,6 +9848,7 @@
     "cxsmiles": [
       "[*]C(=O)CCCCC(=O)NCCCCCCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9616,12 +9923,14 @@
         "qid": "Q55844718",
         "label": "polyamid 66 - 30% glass fiber reinforced",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q57270792",
         "label": "Heramid® A NER MP/1K",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -9631,6 +9940,7 @@
     "label": "polybutadiene acrylonitrile",
     "description": "rocket propellant chemical used in solid rocket boosters",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9669,6 +9979,7 @@
     "label": "Pluronic P-123",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9695,6 +10006,7 @@
     "cxsmiles": [
       "[*]C(=O)CC(C)OC(=O)CC(CC)O[*] |Sg:n:1,2,3,4,5,6:m:ht,Sg:n:7,8,9,10,11,12,13:n:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9732,6 +10044,7 @@
     "cxsmiles": [
       "[*]N=P(Cl)(Cl)[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9773,6 +10086,7 @@
     "label": "Poly(hydridocarbyne)",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9803,6 +10117,7 @@
     "cxsmiles": [
       "[*]C(C(=O)OC)C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9839,6 +10154,7 @@
     "cxsmiles": [
       "[*]CC(C(=O)NC(C)(C)CS(=O)(=O)O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9869,6 +10185,7 @@
     "label": "polyaniline nanofibers",
     "description": "physical form of polyaniline polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9893,6 +10210,7 @@
     "label": "polyphenyl ether",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -9926,6 +10244,7 @@
         "cxsmiles": [
           "[*]c1cc(O)c(c(O)c1)O[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
         ],
+        "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)",
           "de": "https://de.wikipedia.org/wiki/Polyphenylenether",
@@ -9942,6 +10261,7 @@
     "cxsmiles": [
       "[*]CC(C)OC(=O)O[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q62246",
@@ -9985,6 +10305,7 @@
     "cxsmiles": [
       "*C*.*C*.O=C=Nc1ccccc1.O=C=Nc1ccccc1.O=C=Nc1ccccc1 |m:0:9.10.11.12.13.14,2:27.28.29.30.31.32,3:22.21.20.19.23.18,5:27.28.29.30.31.32,Sg:n:4,24,25,26,27,28,29,30,31,32::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10015,6 +10336,7 @@
     "cxsmiles": [
       "[*]C(S(=O)(=O)[O-].[Na+])C[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10041,6 +10363,7 @@
     "label": "Telechelic polymer",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10066,6 +10389,7 @@
     "label": "Thermoplastic olefin",
     "description": "plastic polymer/filler blend",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10090,6 +10414,7 @@
     "label": "Astralon",
     "description": "Hard PVC (brandname)",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10112,6 +10437,7 @@
     "label": "acetylated starch",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10139,6 +10465,7 @@
         "qid": "Q133972560",
         "label": "starch acetate esterified with vinyl acetate",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -10148,6 +10475,7 @@
     "label": "Tarflon",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q113145171",
@@ -10174,6 +10502,7 @@
     "label": "polycyanamide",
     "description": "type of polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10198,6 +10527,7 @@
     "cxsmiles": [
       "[*]/C=C(c1ccccc1)/[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10225,6 +10555,7 @@
     "label": "vinyl mix for stamping records",
     "description": "resinous copolymer of vinyl chloride and vinylacetate with further additives",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10253,6 +10584,7 @@
     "cxsmiles": [
       "[*]c1cc(N(C(CCCCCCCC)CCCCCCCC)c2ccc4cc23)c3cc1.c41ccc(S1)C1C2=NSN=C2C=(CC=1)C2=CC=C(S2)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10281,6 +10613,7 @@
     "cxsmiles": [
       "[*]C1=C2OCCOC2=C(S1)C1=C2OCCOC2=C(S1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10309,6 +10642,7 @@
     "cxsmiles": [
       "[*]OCCOC(=O)CCCCC(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10346,6 +10680,7 @@
     "cxsmiles": [
       "[*]C(=O)CC[C@H](C(=O)O)N[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10376,6 +10711,7 @@
     "cxsmiles": [
       "[*]CC(c1ccc(S(=O)(=O)[O-])cc1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10407,6 +10743,7 @@
     "cxsmiles": [
       "[*]CC(N1CCCCCC(=O)1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10440,6 +10777,7 @@
     "label": "Tritan",
     "description": "Brand of plastic products including drinking bottles",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10472,6 +10810,7 @@
     "cxsmiles": [
       "[*]C(=O)OCCCCCCO[*] |Sg:n:1,2,3,4,5,6,7,8,9,10::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10496,6 +10835,7 @@
     "label": "Thiokol",
     "description": "organic polysulfide polymers",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10520,6 +10860,7 @@
     "label": "Nylon 4",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10544,6 +10885,7 @@
     "label": "IPK acrylic-polyvinyl chloride",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10568,6 +10910,7 @@
     "label": "Star-shaped polymer",
     "description": "polymer structure with linear chains connected to a central core",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10593,6 +10936,7 @@
     "label": "Poly(amidoamine)",
     "description": "class of polymeric molecules",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -10621,6 +10965,7 @@
     "cxsmiles": [
       "[*]C1C(=O)N(C(=O)C1)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10646,6 +10991,7 @@
     "label": "Glycix",
     "description": "Polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10670,6 +11016,7 @@
     "label": "conjugated polymer",
     "description": "class of polymers",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10698,6 +11045,7 @@
     "label": "polyhexahydrotriazine",
     "description": "organic polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10722,6 +11070,7 @@
     "label": "Ethyl methyl cellulose",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10752,6 +11101,7 @@
     "cxsmiles": [
       "COCOC |Sg:n:2,3::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10777,6 +11127,7 @@
     "label": "sodium carboxy methyl cellulose",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10805,6 +11156,7 @@
     "cxsmiles": [
       "[*]C\\(I)=C/(I)C#C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10833,6 +11185,7 @@
     "cxsmiles": [
       "[*]C(=O)CCCCC(=O)NCCCCN[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10868,6 +11221,7 @@
     "label": "lipegfilgrastim",
     "description": "pharmaceutical drug",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q12140",
@@ -10934,6 +11288,7 @@
     "cxsmiles": [
       "[*]NC(=N)NCCCCCC[*] |Sg:n:1,2,3,4,5,6,7,8,9,10::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -10962,6 +11317,7 @@
     "cxsmiles": [
       "COC(=O)C1=CC=C(O1)c(=O)OCCO |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11038,6 +11394,7 @@
     "cxsmiles": [
       "[*]C(F)C(F)(F)[*] |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11067,6 +11424,7 @@
     "cxsmiles": [
       "[*]C(=O)[C@H](CCC(O)=O)N[*] |Sg:n:1,2,3,4,5,6,7,8,9::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11093,6 +11451,7 @@
     "label": "aloxiprin",
     "description": "polycondensate of aspirin and aluminum oxide",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11124,6 +11483,7 @@
     "label": "Nylon 1,6",
     "description": "type of polyamide",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11148,6 +11508,7 @@
     "label": "polyquaternium-7",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11175,6 +11536,7 @@
     "label": "calcium lignosulfonate",
     "description": "food additive",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11199,6 +11561,7 @@
     "label": "acetalated dextran",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11223,6 +11586,7 @@
     "label": "styrene-butadiene-styrene",
     "description": "Thermoplastic elastomer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11259,6 +11623,7 @@
     "label": "cellulose acetate propionate",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11285,6 +11650,7 @@
     "label": "10-formyltetrahydrofolyl polyglutamate",
     "description": "mixture of macromolecules of 10-formyltetrahydrofolic acid with an arbitrary number of glutamate residues attached as a polypeptide to the single existent one",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11309,6 +11675,7 @@
     "label": "promelacacinidin",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11340,6 +11707,7 @@
     "cxsmiles": [
       "[*]C(C(=O)[O-].[K+])C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11366,6 +11734,7 @@
     "label": "Q56313134",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11404,6 +11773,7 @@
     "cxsmiles": [
       "[*]CC(C)(C(=O)OCC)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11440,6 +11810,7 @@
     "cxsmiles": [
       "[*]CC([*])N2c1ccccc1c1ccccc12 |Sg:n:1,2,4,5,6,7,8,9,10,11,12,13,14,15,16::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q11474",
@@ -11478,6 +11849,7 @@
     "label": "p-tert-butylphenol-formaldehyde resin",
     "description": "type of polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11533,6 +11905,7 @@
     "label": "Polyethylene glycol, chloromethyloxirane polymer",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11557,6 +11930,7 @@
     "label": "poly(acrylic acid-co-hypophosphite) sodium salt",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11583,6 +11957,7 @@
     "cxsmiles": [
       "[*]OCC(O)C[*] |Sg:n:1,2,3,4,5::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11610,18 +11985,21 @@
         "qid": "Q82251638",
         "label": "Glycerol-2-13C",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q82317585",
         "label": "Glycerol-1,3-13C2",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q82475567",
         "label": "(¹³C₃)Propane-1,2,3-triol",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -11633,6 +12011,7 @@
     "cxsmiles": [
       "[*]O[Si](C)([*])c1ccccc1 |Sg:n:1,2,3,5,6,7,8,9,10::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11659,6 +12038,7 @@
     "cxsmiles": [
       "[*]OCCCOC(=O)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11690,6 +12070,7 @@
     "cxsmiles": [
       "[*]N(S(=O)(=O)c1ccccc1)C[*].*C |m:13:8.9,Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11727,6 +12108,7 @@
     "label": "Carbomer 940",
     "description": "type of polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11749,12 +12131,14 @@
         "qid": "Q82375108",
         "label": "(1-¹³C)Prop-2-enoic acid",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       },
       {
         "qid": "Q82475993",
         "label": "(¹³C₃)Prop-2-enoic acid",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -11764,6 +12148,7 @@
     "label": "polyethylene furandicarboxylate",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11786,6 +12171,7 @@
     "label": "polyoctamethylene oxide",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q113145171",
@@ -11819,6 +12205,7 @@
     "label": "ghost DNA",
     "description": "DNA of an ancient, humanlike population",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11841,6 +12228,7 @@
     "label": "Polymers of intrinsic microporosity",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11867,6 +12255,7 @@
     "cxsmiles": [
       "Cc1cn([C@H]2C[C@H](O[*])[C@@H](COP(=O)(O)[*])O2)c(=O)nc1O |Sg:n:0,1,2,3,4,5,6,7,9,10,11,12,13,14,16,17,18,19,20,21::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11893,6 +12282,7 @@
     "label": "poly(5′-guanylic acid)",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -11922,6 +12312,7 @@
     "label": "Pyrrole–imidazole polyamides",
     "description": "chemical compound",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -11948,6 +12339,7 @@
     "cxsmiles": [
       "[*]c1c(C(=O)N(CC(CCCCCCCC)CCCCCCCCCC)C(=O)3)c2c3cc(c(C(=O)N(CC(CCCCCCCC)CCCCCCCCCC)C(=O)3)c2c3c1)C1SC(=CC=1)C1=CC=C(S1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q11456",
@@ -11976,6 +12368,7 @@
     "label": "sodium polystyrene sulfonate",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q12370",
@@ -12006,6 +12399,7 @@
     "cxsmiles": [
       "[*]CC(C)(C(=O)OCCCC)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12034,6 +12428,7 @@
     "cxsmiles": [
       "HN1C=NC2N3C1=NC(=N)N=C3N=C(N=2)NN |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15:10:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12058,6 +12453,7 @@
     "label": "enoxaparin",
     "description": "chemical compound: low molecular weight heparins",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12082,6 +12478,7 @@
     "cxsmiles": [
       "[*]CC1[*].[*]CC2[*].C1OC(=O)OCCOCCOC(=O)OC2 |Sg:n:1,2::ht,Sg:n:5,6:m:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12117,6 +12514,7 @@
     "cxsmiles": [
       "[*][N+](.[Cl-])(C)(C)CCCCCC[N+](.[Cl-])(C)(C)CCC[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12141,6 +12539,7 @@
     "label": "PG5",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q61231",
@@ -12189,6 +12588,7 @@
     "cxsmiles": [
       "[*]CC(c1ccccc1)CCC(CC)CC(c1ccccc1)C[*] |Sg:n:1,2,3,4,5,6,7,8:W:ht,Sg:n:9,10:X:ht,Sg:n:11,12,13,14:Y:ht,Sg:n:15,16,17,18,19,20,21,22:Z:ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12217,6 +12617,7 @@
     "cxsmiles": [
       "O=C(*)Oc1ccc(cc1)C(C)(C)c1ccc(O*)cc1 |Sg:n:0,1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,19,20::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q113145171",
@@ -12252,6 +12653,7 @@
     "label": "polymer opals",
     "description": "Sparking plastic",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12274,6 +12676,7 @@
     "label": "epichlorohydrin-trimethylolpropane copolymer",
     "description": "copolymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q421281",
@@ -12311,6 +12714,9 @@
     "label": "cured melamine resin",
     "description": "hard, thermoset plastic derived from melamine and formaldehyde",
     "cxsmiles": [],
+    "photos": [
+      "Piatto in melammina.jpg"
+    ],
     "classes": [
       {
         "qid": "Q81163",
@@ -12335,6 +12741,7 @@
         "qid": "Q12036344",
         "label": "melamine fiber",
         "cxsmiles": [],
+        "photos": [],
         "wikipedia": {}
       }
     ]
@@ -12346,6 +12753,7 @@
     "cxsmiles": [
       "OC(C)COC(=O)\\C=C\\C(=O)OCC(C)O |Sg:n:1,2,3,4,5,6,7,8,9,10,11::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12370,6 +12778,7 @@
     "cxsmiles": [
       "[*]OCCC[*] |Sg:n:1,2,3,4::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12415,6 +12824,9 @@
     "label": "poly(cyanoacrylate ester)",
     "description": "group of polymers formed from cyanoacrylate resins",
     "cxsmiles": [],
+    "photos": [
+      "Cianocrilato.JPG"
+    ],
     "classes": [
       {
         "qid": "Q47154513",
@@ -12448,6 +12860,7 @@
     "cxsmiles": [
       "[*]CC(C(=O)OCC)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12481,6 +12894,7 @@
     "cxsmiles": [
       "OCC(CN=[N+]=[N-])O[H] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12530,6 +12944,7 @@
     "cxsmiles": [
       "[*]c1c(C(=O)N(CC(CCCCCCCC)CCCCCCCCCC)C(=O)3)c2c3cc(c(C(=O)N(CC(CCCCCCCC)CCCCCCCCCC)C(=O)3)c2c3c1)C1SC(=CN=1)C1=CN=C(S1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12552,6 +12967,7 @@
     "label": "Water-Soluble Synthetic Polymers",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -12576,6 +12992,7 @@
     "label": "cellulose propionate",
     "description": "cellulose derivative",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12602,6 +13019,7 @@
     "label": "poly(thiophenylenecarbonylphenylene)",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12628,6 +13046,7 @@
     "label": "poly(1-butene-1,4-diyl)",
     "description": "polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12658,6 +13077,7 @@
     "label": "dextran, 1-ethoxy-1-methylethyl 1-methylethylidene ether",
     "description": "type of polysaccharide",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12682,6 +13102,7 @@
     "label": "Poly(epichlorohydrin)",
     "description": null,
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12713,6 +13134,7 @@
     "cxsmiles": [
       "[*]c1oc(C[*])cc1 |Sg:n:1,2,3,4,6,7::ht|"
     ],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12735,6 +13157,7 @@
     "label": "poly(vinyl methyl ether)",
     "description": "type of polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12764,6 +13187,7 @@
     "label": "poly(propyl methacrylate)",
     "description": "type of polymer",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12793,6 +13217,7 @@
     "label": "chinlon",
     "description": "type of polyamide",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",
@@ -12815,6 +13240,7 @@
     "label": "Isotactic polypropylene",
     "description": "Form of polypropylene with methyl groups aligned on the same side of polymer backbone",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q81163",
@@ -13317,6 +13743,7 @@
     "label": "MQ silicone copolymer",
     "description": "silicone copolymer composed mainly of monofunctional M units (trimethylsiloxy, –O–Si(CH₃)₃) and tetrafunctional Q units (siloxy, SiO₄/₂)",
     "cxsmiles": [],
+    "photos": [],
     "classes": [
       {
         "qid": "Q119896085",

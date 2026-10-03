@@ -8,7 +8,7 @@ import json
 import sys
 import time
 from pathlib import Path
-from urllib.parse import urlsplit
+from urllib.parse import unquote, urlsplit
 
 import requests
 
@@ -23,6 +23,9 @@ TIMEOUT = 300
 # Identifiers in the JSON, with the column of polymers.rq they come from.
 IDENTIFIERS = {'cas': 'cas', 'chebi': 'chebi', 'pubchem_cid': 'pubchemCid',
                'pubchem_sid': 'pubchemSid'}
+
+# Images (P18) with these extensions are photos, the others drawings.
+PHOTO_EXTENSIONS = ('.jpg', '.jpeg')
 
 # The Wikipedias whose articles are linked, in the order of the page.
 WIKIPEDIAS = ('en', 'nl', 'de', 'fr', 'it')
@@ -113,6 +116,7 @@ def collect_polymers(rows):
             'label': row.get('polymerLabel', qid),
             'description': row.get('polymerDescription'),
             'cxsmiles': [],
+            'photos': [],
             'classes': [],
             'monomers': [],
             'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
@@ -123,6 +127,7 @@ def collect_polymers(rows):
         })
         if 'cxsmiles' in row:
             add_unique(polymer['cxsmiles'], row['cxsmiles'])
+        add_image(polymer, row)
         if 'class' in row:
             add_unique(polymer['classes'],
                        {'qid': row['class'],
@@ -145,6 +150,16 @@ def add_article(item, row):
         item['wikipedia'][language] = row['article']
 
 
+def add_image(item, row):
+    """Adds the Commons file name of the image (P18) of a row when it is a
+    photo. Photos are taken to be the JPEG files: the PNG and SVG files are
+    nearly all 2D drawings of the chemical structure."""
+    if 'image' in row:
+        name = unquote(row['image'].rsplit('/', 1)[1])
+        if name.lower().endswith(PHOTO_EXTENSIONS):
+            add_unique(item['photos'], name)
+
+
 def ordered_wikipedia(articles):
     return {language: articles[language]
             for language in WIKIPEDIAS if language in articles}
@@ -160,10 +175,12 @@ def collect_members(rows):
             'qid': qid,
             'label': row.get('memberLabel', qid),
             'cxsmiles': [],
+            'photos': [],
             'wikipedia': {},
         })
         if 'cxsmiles' in row:
             add_unique(member['cxsmiles'], row['cxsmiles'])
+        add_image(member, row)
         add_article(member, row)
     return members
 
@@ -260,9 +277,11 @@ def build():
                 items.values(), key=lambda item: qid_number(item['qid']))
     for polymer in polymers.values():
         polymer['cxsmiles'].sort()
+        polymer['photos'].sort()
         polymer['wikipedia'] = ordered_wikipedia(polymer['wikipedia'])
         for member in polymer['members']:
             member['cxsmiles'].sort()
+            member['photos'].sort()
             member['wikipedia'] = ordered_wikipedia(member['wikipedia'])
         polymer['classes'].sort(key=lambda item: qid_number(item['qid']))
         polymer['monomers'].sort(key=lambda item: qid_number(item['qid']))

@@ -12,6 +12,7 @@ POLYMERS = [
         'label': 'poly(p-phenylene oxide)',
         'description': 'polymer',
         'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
+        'photos': ['PPO sample (1).jpg'],
         'classes': [{'qid': 'Q81163', 'label': 'polymer'}],
         'monomers': [{'qid': 'Q1055852', 'label': '2,6-xylenol'}],
         'identifiers': {'cas': ['25134-01-4'], 'chebi': [],
@@ -35,15 +36,16 @@ POLYMERS = [
     },
     {
         'qid': 'Q62246', 'label': 'polycarbonate', 'description': None,
-        'cxsmiles': [], 'classes': [], 'monomers': [],
+        'cxsmiles': [], 'photos': [], 'classes': [], 'monomers': [],
         'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
                         'pubchem_sid': []},
         'wikipedia': {}, 'properties': [],
         'members': [
             {'qid': 'Q146206', 'label': 'poly(p-phenylene oxide)',
-             'cxsmiles': [], 'wikipedia': {}},
+             'cxsmiles': [], 'photos': [], 'wikipedia': {}},
             {'qid': 'Q110254858', 'label': 'poly(bisphenol A carbonate)',
              'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
+             'photos': ['Lexan sheet.jpg'],
              'wikipedia': {'de': 'https://de.wikipedia.org/wiki/PC'}},
         ],
     },
@@ -66,6 +68,8 @@ class AppTest(unittest.TestCase):
         self.assertIn('href="/Q146206/"', page)
         self.assertIn('cdkdepict.toolforge.org', page)
         self.assertIn('No CXSMILES in Wikidata', page)
+        self.assertIn('href="https://commons.wikimedia.org/wiki/File:PPO_sample_%281%29.jpg"', page)
+        self.assertIn('src="https://commons.wikimedia.org/wiki/Special:FilePath/PPO%20sample%20%281%29.jpg?width=150"', page)
         self.assertIn('hreflang="en" title="English Wikipedia">EN</a>', page)
         self.assertIn('hreflang="nl" title="Dutch Wikipedia">NL</a>', page)
         self.assertIn('href="/Q62246/#members" title="2 polymers in this class">2</a>', page)
@@ -97,6 +101,7 @@ class AppTest(unittest.TestCase):
         self.assertIn('href="/Q146206/"', page)
         self.assertIn('href="https://www.wikidata.org/wiki/Q110254858"', page)
         self.assertIn('title="German Wikipedia">DE</a>', page)
+        self.assertIn('href="https://commons.wikimedia.org/wiki/File:Lexan_sheet.jpg"', page)
 
     def test_polymer_without_members(self):
         page = self.client.get('/Q146206/').get_data(as_text=True)
