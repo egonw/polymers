@@ -722,6 +722,8 @@
     "description": "family of polymers",
     "cxsmiles": [],
     "photos": [
+      "Polycarbonate Greenhouse-00.jpg",
+      "Polycarbonate water bottle.JPG",
       "Reverso de CD.JPG",
       "Поликарбонат.jpg"
     ],
@@ -2158,7 +2160,9 @@
     "cxsmiles": [
       "[*]C(CC(C)C)C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "PMP beaker.jpg"
+    ],
     "classes": [
       {
         "qid": "Q81163",
@@ -2195,7 +2199,10 @@
     "cxsmiles": [
       "[*]C(F)(F)C(F)(F)[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "PTFE tape01.jpg",
+      "Teflon items.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2380,7 +2387,9 @@
     "cxsmiles": [
       "[*]CC[*] |Sg:n:1,2::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Polyethylene balls1.jpg"
+    ],
     "classes": [
       {
         "qid": "Q424370",
@@ -2510,7 +2519,8 @@
         "label": "low-density polyethylene",
         "cxsmiles": [],
         "photos": [
-          "LDPE bottle.jpg"
+          "LDPE bottle.jpg",
+          "Plastic (LDPE) bowl, by GEECO, Made in England, c1950.jpg"
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Low-density_polyethylene",
@@ -2524,7 +2534,9 @@
         "qid": "Q2641430",
         "label": "high-density polyethylene",
         "cxsmiles": [],
-        "photos": [],
+        "photos": [
+          "HDPE Construction safety net.jpg"
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
           "nl": "https://nl.wikipedia.org/wiki/Hoge-dichtheidspolyetheen",
@@ -2573,7 +2585,9 @@
     "cxsmiles": [
       "[*]CC(C#N)C\\C=C\\CCC(c1ccccc1)[*] |Sg:n:1,2,3,4:k:ht,Sg:n:5,6,7,8:l:ht,Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16:m:ht,Sg:n:9,10,11,12,13,14,15,16:n:ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Lego Color Bricks.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2648,6 +2662,7 @@
       "[*]C/C=C\\C[*] |Sg:n:1,2,3,4::ht|"
     ],
     "photos": [
+      "Large treaded tire.jpg",
       "Polybutadiene rubber 02.jpg"
     ],
     "classes": [
@@ -2829,7 +2844,9 @@
     "cxsmiles": [
       "[*]C\\C(Cl)=C\\C[*] |Sg:n:1,2,3,4,5::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Diving suit neoprene.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -2984,7 +3001,9 @@
     "cxsmiles": [
       "[*]CCC(F)(F)C(F)(F)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Détail de la structure.JPG"
+    ],
     "classes": [
       {
         "qid": "Q81163",
@@ -3015,7 +3034,9 @@
     "label": "ethylene-vinyl acetate",
     "description": "copolymer",
     "cxsmiles": [],
-    "photos": [],
+    "photos": [
+      "EVA granule.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -3678,6 +3699,7 @@
     ],
     "photos": [
       "Bales of PET bottles 3.jpg",
+      "PET-Verpackung-offen.jpg",
       "Plastic bottle.jpg",
       "Polyester Shirt, close-up.jpg"
     ],
@@ -4007,7 +4029,9 @@
     "cxsmiles": [
       "[*]CC(C)(C(=O)OC)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Bromine vial in acrylic cube.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -5094,7 +5118,9 @@
       "[*]C(c1ccccc1)C[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
     "photos": [
-      "Polistirolo.JPG"
+      "201904 Man carrying polystyrene boxes in Guiyang, China.jpg",
+      "Polistirolo.JPG",
+      "Polystyrene expanded in SEM.jpg"
     ],
     "classes": [
       {
@@ -5542,7 +5568,9 @@
     "cxsmiles": [
       "[*]CC([Cl])[*] |Sg:n:1,2,3::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Men's black PVC pants 01.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -6934,7 +6962,10 @@
     "cxsmiles": [
       "OCCO[H] |Sg:n:1,2,3::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "Polyethylene glycol 400.jpg",
+      "Polyethylene glycol 4000.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -8318,7 +8349,8 @@
     "description": "polymer",
     "cxsmiles": [],
     "photos": [
-      "LDPE bottle.jpg"
+      "LDPE bottle.jpg",
+      "Plastic (LDPE) bowl, by GEECO, Made in England, c1950.jpg"
     ],
     "classes": [
       {
@@ -8890,7 +8922,9 @@
     "label": "high-density polyethylene",
     "description": "class of polyethylenes",
     "cxsmiles": [],
-    "photos": [],
+    "photos": [
+      "HDPE Construction safety net.jpg"
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -9509,7 +9543,9 @@
     "cxsmiles": [
       "[*]Nc1ccc(cc1)NC(=O)c1ccc(cc1)C(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
-    "photos": [],
+    "photos": [
+      "TwaronSRM.jpg"
+    ],
     "classes": [
       {
         "qid": "Q161",
