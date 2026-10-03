@@ -137,10 +137,19 @@ a { color: var(--accent); }
   font-size: 0.8rem;
 }
 
-/* The photo (P18) of a polymer: a 75 by 75 pixel cutout from the middle,
-   so the photo is cropped rather than squeezed. */
+/* The photos (P18) of a polymer, at most four: on the front page they just
+   fit next to each other; in narrower tiles they wrap. */
+.photos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.3rem;
+}
+
+/* A photo is a 75 by 75 pixel cutout from the middle, so it is cropped
+   rather than squeezed. */
 .photo {
-  align-self: center;
+  flex: none;
   width: 75px;
   height: 75px;
   border: 1px solid var(--border);

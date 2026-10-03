@@ -12,7 +12,7 @@ POLYMERS = [
         'label': 'poly(p-phenylene oxide)',
         'description': 'polymer',
         'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
-        'photos': ['PPO sample (1).jpg'],
+        'photos': ['PPO sample (1).jpg', 'B.jpg', 'C.jpg', 'D.jpg', 'E.jpg'],
         'classes': [{'qid': 'Q81163', 'label': 'polymer'}],
         'monomers': [{'qid': 'Q1055852', 'label': '2,6-xylenol'}],
         'identifiers': {'cas': ['25134-01-4'], 'chebi': [],
@@ -72,6 +72,9 @@ class AppTest(unittest.TestCase):
         self.assertIn('href="https://github.com/egonw/polymers/blob/main/LICENSE.md">GPL-3.0</a>', page)
         self.assertIn('href="https://commons.wikimedia.org/wiki/File:PPO_sample_%281%29.jpg"', page)
         self.assertIn('src="https://commons.wikimedia.org/wiki/Special:FilePath/PPO%20sample%20%281%29.jpg?width=150"', page)
+        # At most four photos per polymer.
+        self.assertIn('File:D.jpg', page)
+        self.assertNotIn('File:E.jpg', page)
         self.assertIn('hreflang="en" title="English Wikipedia">EN</a>', page)
         self.assertIn('hreflang="nl" title="Dutch Wikipedia">NL</a>', page)
         self.assertIn('href="/Q62246/#members" title="2 polymers in this class">2</a>', page)
