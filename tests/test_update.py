@@ -48,7 +48,10 @@ class FindPhotosTest(unittest.TestCase):
             {'pageid': 1, 'title': 'File:Bottle.jpg', 'imageinfo': [{}]},
             # The metadata names a camera.
             {'pageid': 2, 'title': 'File:Sheet.jpg', 'imageinfo': [
-                {'metadata': [{'name': 'Model', 'value': 'NIKON D70'}]}]},
+                {'metadata': [{'name': 'Model', 'value': 'NIKON D70'}],
+                 'extmetadata': {
+                     'Artist': {'value': '<a href="//commons.wikimedia.org/wiki/User:Ann">Ann &amp; Bob</a>'},
+                     'LicenseShortName': {'value': 'CC BY-SA 4.0'}}}]},
             # The description mentions a photo.
             {'pageid': 3, 'title': 'File:Pieces.jpg', 'imageinfo': [
                 {'extmetadata': {'ImageDescription': {
@@ -71,7 +74,10 @@ class FindPhotosTest(unittest.TestCase):
         self.addCleanup(setattr, update, 'commons_get', original)
         photos = update.find_photos(
             {'Bottle.jpg', 'Sheet.jpg', 'Pieces.jpg', 'Structure.svg'})
-        self.assertEqual(photos, {'Bottle.jpg', 'Sheet.jpg', 'Pieces.jpg'})
+        self.assertEqual(set(photos), {'Bottle.jpg', 'Sheet.jpg', 'Pieces.jpg'})
+        self.assertEqual(photos['Sheet.jpg'],
+                         {'artist': 'Ann & Bob', 'license': 'CC BY-SA 4.0'})
+        self.assertEqual(photos['Bottle.jpg'], {'artist': None, 'license': None})
 
 
 if __name__ == '__main__':

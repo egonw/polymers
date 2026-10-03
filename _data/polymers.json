@@ -5,9 +5,21 @@
     "description": "carbohydrate consisting of a large number of glucose units joined by glycosidic bond",
     "cxsmiles": [],
     "photos": [
-      "Cornstarch mixed with water.jpg",
-      "Potato starch.jpg",
-      "Wheat starch granules.JPG"
+      {
+        "file": "Cornstarch mixed with water.jpg",
+        "artist": "Picasa author kalaya",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "file": "Potato starch.jpg",
+        "artist": "Philippa Uwins",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "file": "Wheat starch granules.JPG",
+        "artist": "Kiselov Yuri",
+        "license": "Public domain"
+      }
     ],
     "classes": [
       {
@@ -255,7 +267,11 @@
         "label": "sago",
         "cxsmiles": [],
         "photos": [
-          "Metroxylon sagu, Sago Preparation.jpg"
+          {
+            "file": "Metroxylon sagu, Sago Preparation.jpg",
+            "artist": "Dick Culbert",
+            "license": "CC BY 2.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Sago",
@@ -270,7 +286,11 @@
         "label": "modified starch",
         "cxsmiles": [],
         "photos": [
-          "Modified food starch.JPG"
+          {
+            "file": "Modified food starch.JPG",
+            "artist": "Geoff",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Modified_starch",
@@ -295,7 +315,11 @@
         "label": "potato starch",
         "cxsmiles": [],
         "photos": [
-          "Potato Starch.JPG"
+          {
+            "file": "Potato Starch.JPG",
+            "artist": "Onlymyself65536",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Potato_starch",
@@ -310,8 +334,16 @@
         "label": "tapioca",
         "cxsmiles": [],
         "photos": [
-          "A plate of Tapioca.jpg",
-          "Tapioca-1.jpg"
+          {
+            "file": "A plate of Tapioca.jpg",
+            "artist": "Linason Blessing",
+            "license": "CC BY-SA 4.0"
+          },
+          {
+            "file": "Tapioca-1.jpg",
+            "artist": "Una Smith",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Tapioca",
@@ -382,9 +414,21 @@
         "label": "corn starch",
         "cxsmiles": [],
         "photos": [
-          "13-09-01-kochtreffen-wien-Bi-frie-017.jpg",
-          "Brown & Polson's.JPG",
-          "Stärkemehl 800 fach Polfilter.jpg"
+          {
+            "file": "13-09-01-kochtreffen-wien-Bi-frie-017.jpg",
+            "artist": "Bi-frie ( talk )",
+            "license": "CC BY 3.0"
+          },
+          {
+            "file": "Brown & Polson's.JPG",
+            "artist": "Schnäggli",
+            "license": "CC BY-SA 3.0"
+          },
+          {
+            "file": "Stärkemehl 800 fach Polfilter.jpg",
+            "artist": "Jan Homann",
+            "license": "Public domain"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Corn_starch",
@@ -407,7 +451,11 @@
         "label": "arrowroot",
         "cxsmiles": [],
         "photos": [
-          "Arrowroot prep3.JPG"
+          {
+            "file": "Arrowroot prep3.JPG",
+            "artist": "Noblevmy at ml.wikipedia",
+            "license": "CC BY 2.5"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Arrowroot",
@@ -669,7 +717,11 @@
         "label": "cassava starch",
         "cxsmiles": [],
         "photos": [
-          "Casabe-3.jpg"
+          {
+            "file": "Casabe-3.jpg",
+            "artist": "Luisovalles",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Polvilho"
@@ -722,10 +774,26 @@
     "description": "family of polymers",
     "cxsmiles": [],
     "photos": [
-      "Polycarbonate Greenhouse-00.jpg",
-      "Polycarbonate water bottle.JPG",
-      "Reverso de CD.JPG",
-      "Поликарбонат.jpg"
+      {
+        "file": "Polycarbonate Greenhouse-00.jpg",
+        "artist": "Myself",
+        "license": "Public domain"
+      },
+      {
+        "file": "Polycarbonate water bottle.JPG",
+        "artist": "Donmike10 ( talk )",
+        "license": "Public domain"
+      },
+      {
+        "file": "Reverso de CD.JPG",
+        "artist": "Hispalois",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "file": "Поликарбонат.jpg",
+        "artist": "Miroslav Bendik",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -2161,7 +2229,11 @@
       "[*]C(CC(C)C)C[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
     "photos": [
-      "PMP beaker.jpg"
+      {
+        "file": "PMP beaker.jpg",
+        "artist": "Cjp24",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -2200,8 +2272,16 @@
       "[*]C(F)(F)C(F)(F)[*] |Sg:n:1,2,3,4,5,6::ht|"
     ],
     "photos": [
-      "PTFE tape01.jpg",
-      "Teflon items.jpg"
+      {
+        "file": "PTFE tape01.jpg",
+        "artist": "Miya.m",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "file": "Teflon items.jpg",
+        "artist": "Cjp24",
+        "license": "Public domain"
+      }
     ],
     "classes": [
       {
@@ -2388,7 +2468,11 @@
       "[*]CC[*] |Sg:n:1,2::ht|"
     ],
     "photos": [
-      "Polyethylene balls1.jpg"
+      {
+        "file": "Polyethylene balls1.jpg",
+        "artist": "Lluis tgn",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -2505,7 +2589,11 @@
         "label": "linear low-density polyethylene",
         "cxsmiles": [],
         "photos": [
-          "LLDPE.jpg"
+          {
+            "file": "LLDPE.jpg",
+            "artist": "Cjp24",
+            "license": "Public domain"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Linear_low-density_polyethylene",
@@ -2519,8 +2607,16 @@
         "label": "low-density polyethylene",
         "cxsmiles": [],
         "photos": [
-          "LDPE bottle.jpg",
-          "Plastic (LDPE) bowl, by GEECO, Made in England, c1950.jpg"
+          {
+            "file": "LDPE bottle.jpg",
+            "artist": "Cjp24",
+            "license": "Public domain"
+          },
+          {
+            "file": "Plastic (LDPE) bowl, by GEECO, Made in England, c1950.jpg",
+            "artist": "Rodolph",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Low-density_polyethylene",
@@ -2535,7 +2631,11 @@
         "label": "high-density polyethylene",
         "cxsmiles": [],
         "photos": [
-          "HDPE Construction safety net.jpg"
+          {
+            "file": "HDPE Construction safety net.jpg",
+            "artist": "Afzal H Sobhani",
+            "license": "CC BY-SA 4.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
@@ -2549,7 +2649,11 @@
         "label": "cross-linked polyethylene",
         "cxsmiles": [],
         "photos": [
-          "PEX-Rohr.jpg"
+          {
+            "file": "PEX-Rohr.jpg",
+            "artist": "Sönke Kraft aka Arnulf zu Linden",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
@@ -2586,7 +2690,11 @@
       "[*]CC(C#N)C\\C=C\\CCC(c1ccccc1)[*] |Sg:n:1,2,3,4:k:ht,Sg:n:5,6,7,8:l:ht,Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16:m:ht,Sg:n:9,10,11,12,13,14,15,16:n:ht|"
     ],
     "photos": [
-      "Lego Color Bricks.jpg"
+      {
+        "file": "Lego Color Bricks.jpg",
+        "artist": "Alan Chia",
+        "license": "CC BY-SA 2.0"
+      }
     ],
     "classes": [
       {
@@ -2646,7 +2754,11 @@
         "label": "Plasticard",
         "cxsmiles": [],
         "photos": [
-          "Plasticard line.jpg"
+          {
+            "file": "Plasticard line.jpg",
+            "artist": "Phil Parker",
+            "license": "CC BY 2.0"
+          }
         ],
         "wikipedia": {
           "it": "https://it.wikipedia.org/wiki/Plasticard"
@@ -2662,8 +2774,16 @@
       "[*]C/C=C\\C[*] |Sg:n:1,2,3,4::ht|"
     ],
     "photos": [
-      "Large treaded tire.jpg",
-      "Polybutadiene rubber 02.jpg"
+      {
+        "file": "Large treaded tire.jpg",
+        "artist": "Angie from Sawara, Chiba-ken, Japan",
+        "license": "CC BY 2.0"
+      },
+      {
+        "file": "Polybutadiene rubber 02.jpg",
+        "artist": "Vis M",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {
@@ -2845,7 +2965,11 @@
       "[*]C\\C(Cl)=C\\C[*] |Sg:n:1,2,3,4,5::ht|"
     ],
     "photos": [
-      "Diving suit neoprene.jpg"
+      {
+        "file": "Diving suit neoprene.jpg",
+        "artist": "Mark.murphy",
+        "license": "Public domain"
+      }
     ],
     "classes": [
       {
@@ -3002,7 +3126,11 @@
       "[*]CCC(F)(F)C(F)(F)[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
     "photos": [
-      "Détail de la structure.JPG"
+      {
+        "file": "Détail de la structure.JPG",
+        "artist": "Pascal3012",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -3035,7 +3163,11 @@
     "description": "copolymer",
     "cxsmiles": [],
     "photos": [
-      "EVA granule.jpg"
+      {
+        "file": "EVA granule.jpg",
+        "artist": "Cjp24",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -3087,7 +3219,11 @@
     "description": "elastomer; main constituent of natural rubber",
     "cxsmiles": [],
     "photos": [
-      "Polyisoprene.jpg"
+      {
+        "file": "Polyisoprene.jpg",
+        "artist": "Gradstudentscholar",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {
@@ -3241,7 +3377,11 @@
     "description": "family of polymer",
     "cxsmiles": [],
     "photos": [
-      "Disposable nitrile glove.jpg"
+      {
+        "file": "Disposable nitrile glove.jpg",
+        "artist": null,
+        "license": "Public domain"
+      }
     ],
     "classes": [
       {
@@ -3698,10 +3838,26 @@
       "[*]CCOC(=O)c1ccc(cc1)C(=O)O[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14::ht|"
     ],
     "photos": [
-      "Bales of PET bottles 3.jpg",
-      "PET-Verpackung-offen.jpg",
-      "Plastic bottle.jpg",
-      "Polyester Shirt, close-up.jpg"
+      {
+        "file": "Bales of PET bottles 3.jpg",
+        "artist": "Michal Maňas",
+        "license": "CC BY 3.0"
+      },
+      {
+        "file": "PET-Verpackung-offen.jpg",
+        "artist": "StromBer",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "file": "Plastic bottle.jpg",
+        "artist": "Nicole Gordine",
+        "license": "CC BY 3.0"
+      },
+      {
+        "file": "Polyester Shirt, close-up.jpg",
+        "artist": "Damieng at en.wikipedia",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -4030,7 +4186,11 @@
       "[*]CC(C)(C(=O)OC)[*] |Sg:n:1,2,3,4,5,6,7::ht|"
     ],
     "photos": [
-      "Bromine vial in acrylic cube.jpg"
+      {
+        "file": "Bromine vial in acrylic cube.jpg",
+        "artist": "Alchemist-hp ( pse-mendelejew.de )",
+        "license": "CC BY-SA 3.0 de"
+      }
     ],
     "classes": [
       {
@@ -5118,9 +5278,21 @@
       "[*]C(c1ccccc1)C[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
     "photos": [
-      "201904 Man carrying polystyrene boxes in Guiyang, China.jpg",
-      "Polistirolo.JPG",
-      "Polystyrene expanded in SEM.jpg"
+      {
+        "file": "201904 Man carrying polystyrene boxes in Guiyang, China.jpg",
+        "artist": "Jonashtand",
+        "license": "CC BY-SA 4.0"
+      },
+      {
+        "file": "Polistirolo.JPG",
+        "artist": "Phyrexian",
+        "license": "CC BY-SA 3.0"
+      },
+      {
+        "file": "Polystyrene expanded in SEM.jpg",
+        "artist": "HaefnerP",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {
@@ -5324,7 +5496,11 @@
       "[*]CC(O)[*] |Sg:n:1,2,3::ht|"
     ],
     "photos": [
-      "Sample of Polyvinyl alcohol.jpg"
+      {
+        "file": "Sample of Polyvinyl alcohol.jpg",
+        "artist": "LHcheM",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -5569,7 +5745,11 @@
       "[*]CC([Cl])[*] |Sg:n:1,2,3::ht|"
     ],
     "photos": [
-      "Men's black PVC pants 01.jpg"
+      {
+        "file": "Men's black PVC pants 01.jpg",
+        "artist": "Ralph Schulz",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -6244,7 +6424,11 @@
       "[*]NC(=O)NC[*] |Sg:n:1,2,3,4,5::ht|"
     ],
     "photos": [
-      "A selection of urea formaldehyde objects at the science museum.JPG"
+      {
+        "file": "A selection of urea formaldehyde objects at the science museum.JPG",
+        "artist": "Geni",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {
@@ -6963,8 +7147,16 @@
       "OCCO[H] |Sg:n:1,2,3::ht|"
     ],
     "photos": [
-      "Polyethylene glycol 400.jpg",
-      "Polyethylene glycol 4000.jpg"
+      {
+        "file": "Polyethylene glycol 400.jpg",
+        "artist": "Anypodetos",
+        "license": "CC0"
+      },
+      {
+        "file": "Polyethylene glycol 4000.jpg",
+        "artist": "Anypodetos",
+        "license": "CC0"
+      }
     ],
     "classes": [
       {
@@ -7150,7 +7342,11 @@
       "C[Si](C)(C)O[Si](C)(C)O[Si](C)(C)C |Sg:n:4,5,6,7::ht|"
     ],
     "photos": [
-      "PDMS-cylindertje onder stereomicroscoop.jpg"
+      {
+        "file": "PDMS-cylindertje onder stereomicroscoop.jpg",
+        "artist": null,
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -7300,7 +7496,11 @@
     "description": "chemical compound",
     "cxsmiles": [],
     "photos": [
-      "Tapetenkleister.jpg"
+      {
+        "file": "Tapetenkleister.jpg",
+        "artist": "Ralf Roletschek",
+        "license": "GFDL 1.2"
+      }
     ],
     "classes": [
       {
@@ -7949,7 +8149,11 @@
         "label": "polymer clay",
         "cxsmiles": [],
         "photos": [
-          "Polymer clay examples.jpg"
+          {
+            "file": "Polymer clay examples.jpg",
+            "artist": "Dan Bollinger",
+            "license": "CC BY-SA 3.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Polymer_clay",
@@ -7963,7 +8167,11 @@
           "[*]NC(=O)NC[*] |Sg:n:1,2,3,4,5::ht|"
         ],
         "photos": [
-          "A selection of urea formaldehyde objects at the science museum.JPG"
+          {
+            "file": "A selection of urea formaldehyde objects at the science museum.JPG",
+            "artist": "Geni",
+            "license": "CC BY-SA 4.0"
+          }
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
@@ -8349,8 +8557,16 @@
     "description": "polymer",
     "cxsmiles": [],
     "photos": [
-      "LDPE bottle.jpg",
-      "Plastic (LDPE) bowl, by GEECO, Made in England, c1950.jpg"
+      {
+        "file": "LDPE bottle.jpg",
+        "artist": "Cjp24",
+        "license": "Public domain"
+      },
+      {
+        "file": "Plastic (LDPE) bowl, by GEECO, Made in England, c1950.jpg",
+        "artist": "Rodolph",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -8923,7 +9139,11 @@
     "description": "class of polyethylenes",
     "cxsmiles": [],
     "photos": [
-      "HDPE Construction safety net.jpg"
+      {
+        "file": "HDPE Construction safety net.jpg",
+        "artist": "Afzal H Sobhani",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {
@@ -9226,7 +9446,11 @@
     "description": "strong polymeric material",
     "cxsmiles": [],
     "photos": [
-      "PEX-Rohr.jpg"
+      {
+        "file": "PEX-Rohr.jpg",
+        "artist": "Sönke Kraft aka Arnulf zu Linden",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -9375,7 +9599,11 @@
       "CCC(C)(C(=O)OCC)CC(C(=O)OC)C |Sg:n:1,2,3,4,5,6,7,8:m:ht,Sg:n:9,10,11,12,13,14:n:ht|"
     ],
     "photos": [
-      "Paraloid b72.jpg"
+      {
+        "file": "Paraloid b72.jpg",
+        "artist": "Gixie",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -9544,7 +9772,11 @@
       "[*]Nc1ccc(cc1)NC(=O)c1ccc(cc1)C(=O)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18::ht|"
     ],
     "photos": [
-      "TwaronSRM.jpg"
+      {
+        "file": "TwaronSRM.jpg",
+        "artist": "No-w-ay",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {
@@ -9646,7 +9878,11 @@
     "description": "polymer coating for galvanized steel",
     "cxsmiles": [],
     "photos": [
-      "PuralCoils.jpg"
+      {
+        "file": "PuralCoils.jpg",
+        "artist": "Jukka Male",
+        "license": "CC BY-SA 3.0"
+      }
     ],
     "classes": [
       {
@@ -12764,7 +13000,11 @@
     "description": "hard, thermoset plastic derived from melamine and formaldehyde",
     "cxsmiles": [],
     "photos": [
-      "Piatto in melammina.jpg"
+      {
+        "file": "Piatto in melammina.jpg",
+        "artist": "User:Luigi Chiesa",
+        "license": "CC BY 3.0"
+      }
     ],
     "classes": [
       {
@@ -12874,7 +13114,11 @@
     "description": "group of polymers formed from cyanoacrylate resins",
     "cxsmiles": [],
     "photos": [
-      "Cianocrilato.JPG"
+      {
+        "file": "Cianocrilato.JPG",
+        "artist": "Schumi4ever",
+        "license": "CC BY-SA 4.0"
+      }
     ],
     "classes": [
       {

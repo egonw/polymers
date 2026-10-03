@@ -26,8 +26,8 @@
         {% if polymer.photos %}
         <div class="photos">
           {% for photo in polymer.photos[:4] %}
-          <a class="photo" href="{{ photo|commons_page }}" title="{{ photo }} on Wikimedia Commons">
-            <img src="{{ photo|commons_thumb }}" alt="Photo of {{ polymer.label }}" width="75" height="75" loading="lazy">
+          <a class="photo" href="{{ photo.file|commons_page }}" title="{{ photo|attribution }}">
+            <img src="{{ photo.file|commons_thumb }}" alt="Photo of {{ polymer.label }}" width="75" height="75" loading="lazy">
           </a>
           {% endfor %}
         </div>

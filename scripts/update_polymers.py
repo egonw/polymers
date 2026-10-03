@@ -4,6 +4,7 @@ Runs the SPARQL queries in sparql/ against the QLever instance of Wikidata and
 writes one JSON record per polymer, sorted by QID. Run it with `make update`.
 """
 
+import html
 import json
 import re
 import sys
@@ -197,21 +198,33 @@ def as_dict(value):
     return value if isinstance(value, dict) else {}
 
 
+def metadata_text(metadata, field):
+    """A field of the extended metadata of a Commons file as plain text; the
+    author, for example, is often a link."""
+    value = as_dict(metadata.get(field)).get('value')
+    if not value:
+        return None
+    text = ' '.join(html.unescape(re.sub(r'<[^>]+>', ' ', value)).split())
+    return text or None
+
+
 def find_photos(names):
     """Gives the files on Wikimedia Commons that are photos rather than
-    drawings of a structure. A file is a photo when its structured data says
-    it is an instance of a photograph (PHOTO_TYPES), when its metadata names
-    the camera it was taken with, or when its description or categories
-    mention a photo."""
-    photos = set()
+    drawings of a structure, with their attribution: {name: {'artist': ...,
+    'license': ...}}. A file is a photo when its structured data says it is an
+    instance of a photograph (PHOTO_TYPES), when its metadata names the camera
+    it was taken with, or when its description or categories mention a
+    photo."""
+    photos = {}
     for chunk in chunks(sorted(names), COMMONS_CHUNK):
         pages = commons_get({
             'action': 'query', 'titles': '|'.join('File:' + n for n in chunk),
             'prop': 'imageinfo|categories', 'cllimit': 'max',
             'iiprop': 'extmetadata|metadata',
-            'iiextmetadatafilter': 'ImageDescription',
+            'iiextmetadatafilter': 'ImageDescription|Artist|LicenseShortName',
         })['query']['pages']
         media = {}
+        attributions = {}
         for page in pages:
             if 'pageid' not in page:
                 continue
@@ -220,11 +233,15 @@ def find_photos(names):
             info = (page.get('imageinfo') or [{}])[0]
             camera = any(item.get('name') in ('Make', 'Model') and item.get('value')
                          for item in info.get('metadata') or [])
-            description = as_dict(as_dict(info.get('extmetadata')).get(
-                'ImageDescription')).get('value', '')
+            metadata = as_dict(info.get('extmetadata'))
+            description = metadata_text(metadata, 'ImageDescription') or ''
+            attributions[name] = {
+                'artist': metadata_text(metadata, 'Artist'),
+                'license': metadata_text(metadata, 'LicenseShortName'),
+            }
             categories = ' '.join(c['title'] for c in page.get('categories', []))
             if camera or PHOTO_WORDS.search(f'{description} {categories}'):
-                photos.add(name)
+                photos[name] = attributions[name]
         if not media:
             continue
         entities = commons_get({'action': 'wbgetentities', 'props': 'claims',
@@ -234,7 +251,7 @@ def find_photos(names):
             types = {s['mainsnak'].get('datavalue', {}).get('value', {}).get('id')
                      for s in statements.get('P31', [])}
             if types & PHOTO_TYPES:
-                photos.add(media[mid])
+                photos[media[mid]] = attributions[media[mid]]
     return photos
 
 
@@ -354,7 +371,8 @@ def build():
         member for group in members.values() for member in group.values()]
     photos = find_photos({name for item in items for name in item['photos']})
     for item in items:
-        item['photos'] = [name for name in item['photos'] if name in photos]
+        item['photos'] = [{'file': name, **photos[name]}
+                          for name in item['photos'] if name in photos]
 
     for qid, items in members.items():
         if qid in polymers:
@@ -362,11 +380,11 @@ def build():
                 items.values(), key=lambda item: qid_number(item['qid']))
     for polymer in polymers.values():
         polymer['cxsmiles'].sort()
-        polymer['photos'].sort()
+        polymer['photos'].sort(key=lambda photo: photo['file'])
         polymer['wikipedia'] = ordered_wikipedia(polymer['wikipedia'])
         for member in polymer['members']:
             member['cxsmiles'].sort()
-            member['photos'].sort()
+            member['photos'].sort(key=lambda photo: photo['file'])
             member['wikipedia'] = ordered_wikipedia(member['wikipedia'])
         polymer['classes'].sort(key=lambda item: qid_number(item['qid']))
         polymer['monomers'].sort(key=lambda item: qid_number(item['qid']))

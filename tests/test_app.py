@@ -12,7 +12,13 @@ POLYMERS = [
         'label': 'poly(p-phenylene oxide)',
         'description': 'polymer',
         'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
-        'photos': ['PPO sample (1).jpg', 'B.jpg', 'C.jpg', 'D.jpg', 'E.jpg'],
+        'photos': [
+            {'file': 'PPO sample (1).jpg', 'artist': 'Ann & Bob',
+             'license': 'CC BY-SA 4.0'},
+            {'file': 'B.jpg', 'artist': None, 'license': 'CC0'},
+            {'file': 'C.jpg', 'artist': None, 'license': None},
+            {'file': 'D.jpg', 'artist': None, 'license': None},
+            {'file': 'E.jpg', 'artist': None, 'license': None}],
         'classes': [{'qid': 'Q81163', 'label': 'polymer'}],
         'monomers': [{'qid': 'Q1055852', 'label': '2,6-xylenol'}],
         'identifiers': {'cas': ['25134-01-4'], 'chebi': [],
@@ -45,7 +51,8 @@ POLYMERS = [
              'cxsmiles': [], 'photos': [], 'wikipedia': {}},
             {'qid': 'Q110254858', 'label': 'poly(bisphenol A carbonate)',
              'cxsmiles': ['[*]CC[*] |Sg:n:1,2::ht|'],
-             'photos': ['Lexan sheet.jpg'],
+             'photos': [{'file': 'Lexan sheet.jpg', 'artist': 'Carl',
+                         'license': 'Public domain'}],
              'wikipedia': {'de': 'https://de.wikipedia.org/wiki/PC'}},
         ],
     },
@@ -72,6 +79,10 @@ class AppTest(unittest.TestCase):
         self.assertIn('href="https://github.com/egonw/polymers/blob/main/LICENSE.md">GPL-3.0</a>', page)
         self.assertIn('href="https://commons.wikimedia.org/wiki/File:PPO_sample_%281%29.jpg"', page)
         self.assertIn('src="https://commons.wikimedia.org/wiki/Special:FilePath/PPO%20sample%20%281%29.jpg?width=150"', page)
+        self.assertIn('title="PPO sample (1).jpg: Ann &amp; Bob, CC BY-SA 4.0, via Wikimedia Commons"', page)
+        self.assertIn('title="B.jpg, CC0, via Wikimedia Commons"', page)
+        self.assertIn('title="C.jpg, via Wikimedia Commons"', page)
+        self.assertIn('Photos from <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>', page)
         # At most four photos per polymer.
         self.assertIn('File:D.jpg', page)
         self.assertNotIn('File:E.jpg', page)

@@ -39,6 +39,19 @@ def commons_thumb(name, width=150):
     return f'{COMMONS_FILE}{quote(name)}?width={width}'
 
 
+@main.app_template_filter('attribution')
+def attribution(photo):
+    """The attribution of a photo, as Commons asks for it: the file, its
+    author and its license, for example "Bottle.jpg: Ann, CC BY-SA 4.0, via
+    Wikimedia Commons"."""
+    text = photo['file']
+    if photo.get('artist'):
+        text += f": {photo['artist']}"
+    if photo.get('license'):
+        text += f", {photo['license']}"
+    return text + ', via Wikimedia Commons'
+
+
 @main.app_template_filter('amount')
 def amount(value):
     """A Wikidata amount without the ".0" that integers get."""
