@@ -49,10 +49,25 @@
           {% if polymer.identifiers.pubchem_sid %}
           <tr><th scope="row">PubChem SID</th><td>{% for sid in polymer.identifiers.pubchem_sid %}<a href="https://pubchem.ncbi.nlm.nih.gov/substance/{{ sid }}">{{ sid }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
           {% endif %}
+          {% if polymer.identifiers.ec %}
+          <tr><th scope="row">EC number</th><td>{% for ec in polymer.identifiers.ec %}<a href="https://www.echa.europa.eu/information-on-chemicals/ec-inventory/-/dislist/details/{{ ec }}">{{ ec }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.echa %}
+          <tr><th scope="row">ECHA InfoCard</th><td>{% for echa in polymer.identifiers.echa %}<a href="https://www.echa.europa.eu/substance-information/-/substanceinfo/{{ echa }}">{{ echa }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.dsstox %}
+          <tr><th scope="row">DSSTox</th><td>{% for dsstox in polymer.identifiers.dsstox %}<a href="https://comptox.epa.gov/dashboard/chemical/details/{{ dsstox }}">{{ dsstox }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
+          {% if polymer.identifiers.mesh %}
+          <tr><th scope="row">MeSH</th><td>{% for mesh in polymer.identifiers.mesh %}<a href="https://meshb.nlm.nih.gov/record/ui?ui={{ mesh }}">{{ mesh }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
           {% if polymer.wikipedia %}
           <tr><th scope="row">Wikipedia</th><td>{% for language, url in polymer.wikipedia.items() %}<a href="{{ url }}" hreflang="{{ language }}">{{ languages.get(language, language) }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
           {% endif %}
           <tr><th scope="row">Scholia</th><td><a href="https://qlever.scholia.wiki/topic/{{ polymer.qid }}">Literature about this polymer</a></td></tr>
+          {% if polymer.identifiers.openalex %}
+          <tr><th scope="row">OpenAlex</th><td>{% for openalex in polymer.identifiers.openalex %}<a href="https://openalex.org/{{ openalex }}">Literature about this polymer</a>{% if not loop.last %}, {% endif %}{% endfor %}</td></tr>
+          {% endif %}
         </tbody>
       </table>
 

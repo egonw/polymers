@@ -27,7 +27,8 @@ TIMEOUT = 300
 
 # Identifiers in the JSON, with the column of polymers.rq they come from.
 IDENTIFIERS = {'cas': 'cas', 'chebi': 'chebi', 'pubchem_cid': 'pubchemCid',
-               'pubchem_sid': 'pubchemSid'}
+               'pubchem_sid': 'pubchemSid', 'ec': 'ec', 'echa': 'echa',
+               'dsstox': 'dsstox', 'mesh': 'mesh', 'openalex': 'openalex'}
 
 COMMONS_API = 'https://commons.wikimedia.org/w/api.php'
 # Files per Commons API call; the API takes at most 50.
@@ -135,8 +136,7 @@ def collect_polymers(rows):
             'photos': [],
             'classes': [],
             'monomers': [],
-            'identifiers': {'cas': [], 'chebi': [], 'pubchem_cid': [],
-                            'pubchem_sid': []},
+            'identifiers': {key: [] for key in IDENTIFIERS},
             'wikipedia': {},
             'properties': [],
             'members': [],

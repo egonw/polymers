@@ -52,7 +52,23 @@
         "28017"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-679-6"
+      ],
+      "echa": [
+        "100.029.696"
+      ],
+      "dsstox": [
+        "DTXSID0049789"
+      ],
+      "mesh": [
+        "D013213"
+      ],
+      "openalex": [
+        "C3018424690",
+        "C529335014"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Starch",
@@ -810,7 +826,18 @@
         "53201"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID6027840"
+      ],
+      "mesh": [
+        "D000098827"
+      ],
+      "openalex": [
+        "C2776540798"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polycarbonate",
@@ -1675,7 +1702,22 @@
         "18246"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-674-9"
+      ],
+      "echa": [
+        "100.029.692"
+      ],
+      "dsstox": [
+        "DTXSID3050492"
+      ],
+      "mesh": [
+        "D002482"
+      ],
+      "openalex": [
+        "C2779251873"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cellulose",
@@ -2112,7 +2154,20 @@
         "82519"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-506-6"
+      ],
+      "echa": [
+        "100.124.824"
+      ],
+      "dsstox": [
+        "DTXSID6049694"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2781215361"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_6",
@@ -2164,7 +2219,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2779868350"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polycaprolactone",
@@ -2253,7 +2315,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID001010991"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polymethylpentene",
@@ -2303,7 +2372,22 @@
         "53251"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-337-2"
+      ],
+      "echa": [
+        "100.120.367"
+      ],
+      "dsstox": [
+        "DTXSID7047724"
+      ],
+      "mesh": [
+        "D011138"
+      ],
+      "openalex": [
+        "C2780557906"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polytetrafluoroethylene",
@@ -2510,7 +2594,23 @@
         "53227"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-339-3"
+      ],
+      "echa": [
+        "100.121.698"
+      ],
+      "dsstox": [
+        "DTXSID8031946"
+      ],
+      "mesh": [
+        "D020959"
+      ],
+      "openalex": [
+        "C2779751980",
+        "C2992561413"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyethylene",
@@ -2724,7 +2824,20 @@
       "pubchem_cid": [
         "24756"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-371-8"
+      ],
+      "echa": [
+        "100.127.708"
+      ],
+      "dsstox": [
+        "DTXSID70858757"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2781431410"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Acrylonitrile_butadiene_styrene",
@@ -2805,7 +2918,20 @@
         "53320"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-356-6"
+      ],
+      "echa": [
+        "100.107.504"
+      ],
+      "dsstox": [
+        "DTXSID801010945"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2780901341"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polybutadiene",
@@ -2881,7 +3007,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2778954975"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nitrocellulose",
@@ -2948,7 +3081,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID901011077"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cyclic_olefin_copolymer",
@@ -2991,7 +3131,22 @@
         "53724"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-463-8"
+      ],
+      "echa": [
+        "100.127.980"
+      ],
+      "dsstox": [
+        "DTXSID10904984"
+      ],
+      "mesh": [
+        "D009387"
+      ],
+      "openalex": [
+        "C27618995"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Neoprene",
@@ -3145,7 +3300,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID10880370"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2776221354"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/ETFE",
@@ -3191,7 +3355,22 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "429-840-1",
+        "607-457-0"
+      ],
+      "echa": [
+        "100.102.818",
+        "100.133.085"
+      ],
+      "dsstox": [
+        "DTXSID0049814"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2780762185"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ethylene-vinyl_acetate",
@@ -3245,7 +3424,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyisoprene",
@@ -3405,7 +3589,20 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-357-1"
+      ],
+      "echa": [
+        "100.107.385"
+      ],
+      "dsstox": [
+        "DTXSID30895082"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2781161111"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nitrile_rubber",
@@ -3445,7 +3642,16 @@
         "53571"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID301010964"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2776056205"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyacrylonitrile",
@@ -3564,7 +3770,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2781445185"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polybutylene_terephthalate",
@@ -3595,7 +3808,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID30947999"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polycyclohexylenedimethylene_terephthalate",
@@ -3630,7 +3850,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-336-7"
+      ],
+      "echa": [
+        "100.120.473"
+      ],
+      "dsstox": [
+        "DTXSID80880201"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polychlorotrifluoroethylene",
@@ -3778,7 +4009,20 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "612-092-5"
+      ],
+      "echa": [
+        "100.126.800"
+      ],
+      "dsstox": [
+        "DTXSID90976644"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2778258611"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyetherimide",
@@ -3822,7 +4066,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Polyethersulfon"
@@ -3883,7 +4132,22 @@
         "61452"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-507-1"
+      ],
+      "echa": [
+        "100.121.858"
+      ],
+      "dsstox": [
+        "DTXSID10872790"
+      ],
+      "mesh": [
+        "D011093"
+      ],
+      "openalex": [
+        "C2780017307"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyethylene_terephthalate",
@@ -4139,7 +4403,18 @@
         "53725"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-360-8"
+      ],
+      "echa": [
+        "100.108.750"
+      ],
+      "dsstox": [
+        "DTXSID2036451"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyisobutene",
@@ -4170,7 +4445,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Polymethacrylimid"
@@ -4214,7 +4494,23 @@
       "pubchem_cid": [
         "3032549"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-466-4"
+      ],
+      "echa": [
+        "100.112.313"
+      ],
+      "dsstox": [
+        "DTXSID1042152"
+      ],
+      "mesh": [
+        "D019904"
+      ],
+      "openalex": [
+        "C2780718992",
+        "C2989464291"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(methyl_methacrylate)",
@@ -4558,7 +4854,22 @@
         "53550"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-352-4"
+      ],
+      "echa": [
+        "100.117.813"
+      ],
+      "dsstox": [
+        "DTXSID00872805"
+      ],
+      "mesh": [
+        "D011126"
+      ],
+      "openalex": [
+        "C2777973245"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polypropylene",
@@ -5129,7 +5440,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-561-6"
+      ],
+      "echa": [
+        "100.110.020"
+      ],
+      "dsstox": [
+        "DTXSID2049711"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)",
@@ -5214,7 +5536,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-869-0"
+      ],
+      "echa": [
+        "100.116.245"
+      ],
+      "dsstox": [
+        "DTXSID5094232"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyphenylene_sulfide",
@@ -5259,7 +5592,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2777232022"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polypyrrole",
@@ -5314,7 +5654,23 @@
         "53276"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "500-008-9"
+      ],
+      "echa": [
+        "100.105.519"
+      ],
+      "dsstox": [
+        "DTXSID5031925"
+      ],
+      "mesh": [
+        "D011137"
+      ],
+      "openalex": [
+        "C2777922577",
+        "C3019388083"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polystyrene",
@@ -5522,7 +5878,22 @@
         "17246"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-340-9"
+      ],
+      "echa": [
+        "100.121.648"
+      ],
+      "dsstox": [
+        "DTXSID4031930"
+      ],
+      "mesh": [
+        "D011142"
+      ],
+      "openalex": [
+        "C2778551929"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinyl_alcohol",
@@ -5614,7 +5985,20 @@
         "32028"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-358-7"
+      ],
+      "echa": [
+        "100.108.147"
+      ],
+      "dsstox": [
+        "DTXSID3051258"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2780754355"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinyl_acetate",
@@ -5771,7 +6155,22 @@
         "53243"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-338-8"
+      ],
+      "echa": [
+        "100.120.191"
+      ],
+      "dsstox": [
+        "DTXSID5025940"
+      ],
+      "mesh": [
+        "D011143"
+      ],
+      "openalex": [
+        "C2776866176"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinyl_chloride",
@@ -6142,7 +6541,20 @@
         "53250"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-458-6"
+      ],
+      "echa": [
+        "100.133.181"
+      ],
+      "dsstox": [
+        "DTXSID80895097"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2776254723"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinylidene_fluoride",
@@ -6310,7 +6722,14 @@
         "53244"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID601009764"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinyl_fluoride",
@@ -6354,7 +6773,18 @@
       "pubchem_cid": [
         "62696"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-369-7"
+      ],
+      "echa": [
+        "100.127.519"
+      ],
+      "dsstox": [
+        "DTXSID50895140"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Styrene-acrylonitrile_resin",
@@ -6395,7 +6825,20 @@
         "82570"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-370-2"
+      ],
+      "echa": [
+        "100.127.439"
+      ],
+      "dsstox": [
+        "DTXSID0049654"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2777264938"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Styrene-butadiene",
@@ -6454,7 +6897,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2777619258"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
@@ -6494,7 +6944,22 @@
       "pubchem_cid": [
         "6857375"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "215-744-3"
+      ],
+      "echa": [
+        "100.014.313"
+      ],
+      "dsstox": [
+        "DTXSID6037641"
+      ],
+      "mesh": [
+        "D002686"
+      ],
+      "openalex": [
+        "C2781088250"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Chitin",
@@ -6543,7 +7008,22 @@
       "pubchem_cid": [
         "439177"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-683-8"
+      ],
+      "echa": [
+        "100.029.700"
+      ],
+      "dsstox": [
+        "DTXSID3093812"
+      ],
+      "mesh": [
+        "D006003"
+      ],
+      "openalex": [
+        "C2777499176"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Glycogen",
@@ -6588,7 +7068,20 @@
       "pubchem_cid": [
         "62698"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-940-4"
+      ],
+      "echa": [
+        "100.029.934"
+      ],
+      "dsstox": [
+        "DTXSID5027720"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2777846834"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Maltodextrin",
@@ -6640,7 +7133,14 @@
         "25614"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D009757"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon",
@@ -6810,7 +7310,16 @@
         "53376"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D011099"
+      ],
+      "openalex": [
+        "C2776207055"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyglutamic_acid",
@@ -6846,7 +7355,22 @@
       "pubchem_cid": [
         "53477771"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-685-9"
+      ],
+      "echa": [
+        "100.029.702"
+      ],
+      "dsstox": [
+        "DTXSID8093813"
+      ],
+      "mesh": [
+        "D000688"
+      ],
+      "openalex": [
+        "C2776804113"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Amylose",
@@ -6883,7 +7407,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID60107887"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Zylon",
@@ -6917,7 +7448,20 @@
       "pubchem_cid": [
         "439207"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-911-6"
+      ],
+      "echa": [],
+      "dsstox": [
+        "DTXSID1093880"
+      ],
+      "mesh": [
+        "D000687"
+      ],
+      "openalex": [
+        "C2776414723"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Amylopectin",
@@ -6973,7 +7517,24 @@
       "pubchem_cid": [
         "24759"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-678-0"
+      ],
+      "echa": [
+        "100.029.695"
+      ],
+      "dsstox": [
+        "DTXSID7046750",
+        "DTXSID90925319"
+      ],
+      "mesh": [
+        "D006820"
+      ],
+      "openalex": [
+        "C2777529286",
+        "C2909830753"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Hyaluronic_acid",
@@ -7019,7 +7580,25 @@
         "18250"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-696-9",
+        "246-551-2"
+      ],
+      "echa": [
+        "100.029.712",
+        "100.042.304"
+      ],
+      "dsstox": [
+        "DTXSID8031021"
+      ],
+      "mesh": [
+        "D002809"
+      ],
+      "openalex": [
+        "C2779553658",
+        "C2910335277"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Chondroitin_sulfate",
@@ -7064,7 +7643,18 @@
       ],
       "pubchem_sid": [
         "134222025"
-      ]
+      ],
+      "ec": [
+        "608-723-9"
+      ],
+      "echa": [],
+      "dsstox": [
+        "DTXSID7041099"
+      ],
+      "mesh": [
+        "C031233"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyhexanide",
@@ -7103,7 +7693,20 @@
         "51133"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-347-7"
+      ],
+      "echa": [
+        "100.115.375"
+      ],
+      "dsstox": [
+        "DTXSID50873988"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2780312654"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyacrylic_acid",
@@ -7173,7 +7776,23 @@
         "46793"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "500-038-2"
+      ],
+      "echa": [
+        "100.105.546"
+      ],
+      "dsstox": [
+        "DTXSID4027862"
+      ],
+      "mesh": [
+        "D011092"
+      ],
+      "openalex": [
+        "C2776964284",
+        "C2985075013"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyethylene_glycol",
@@ -7252,7 +7871,16 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D005362"
+      ],
+      "openalex": [
+        "C5362183"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ficoll",
@@ -7280,7 +7908,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D003636"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Diethylaminoethyl_cellulose",
@@ -7322,7 +7957,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2777503765"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyethylene_naphthalate",
@@ -7363,7 +8005,22 @@
         "61466"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "613-156-5"
+      ],
+      "echa": [
+        "100.126.442"
+      ],
+      "dsstox": [
+        "DTXSID0049573"
+      ],
+      "mesh": [
+        "D004129"
+      ],
+      "openalex": [
+        "C2779849746"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polydimethylsiloxane",
@@ -7394,7 +8051,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cyanophycin",
@@ -7423,7 +8085,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID30882013"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2778665636"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nafion",
@@ -7478,7 +8149,22 @@
         "53248"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-363-4"
+      ],
+      "echa": [
+        "100.111.937"
+      ],
+      "dsstox": [
+        "DTXSID0025941"
+      ],
+      "mesh": [
+        "D011205"
+      ],
+      "openalex": [
+        "C2780077769"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinylpyrrolidone",
@@ -7519,7 +8205,22 @@
       "pubchem_cid": [
         "51063134"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-391-7"
+      ],
+      "echa": [
+        "100.115.188"
+      ],
+      "dsstox": [
+        "DTXSID1036919"
+      ],
+      "mesh": [
+        "D008747"
+      ],
+      "openalex": [
+        "C2776174307"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Methyl_cellulose",
@@ -7549,7 +8250,22 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "696-630-4"
+      ],
+      "echa": [
+        "100.029.698"
+      ],
+      "dsstox": [
+        "DTXSID0045969"
+      ],
+      "mesh": [
+        "D017984"
+      ],
+      "openalex": [
+        "C2778825682"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Enoxaparin_sodium",
@@ -7583,7 +8299,18 @@
         "53358"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-361-3"
+      ],
+      "echa": [
+        "100.111.056"
+      ],
+      "dsstox": [
+        "DTXSID00904731"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polybutylene",
@@ -7618,7 +8345,22 @@
         "31962"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "608-494-5"
+      ],
+      "echa": [
+        "100.108.270"
+      ],
+      "dsstox": [
+        "DTXSID8034798"
+      ],
+      "mesh": [
+        "C003043"
+      ],
+      "openalex": [
+        "C2778723968"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Paraformaldehyde",
@@ -7650,7 +8392,22 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-346-1"
+      ],
+      "echa": [
+        "100.123.818"
+      ],
+      "dsstox": [
+        "DTXSID1051272"
+      ],
+      "mesh": [
+        "D011094"
+      ],
+      "openalex": [
+        "C2775925850"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyethylenimine",
@@ -7684,7 +8441,16 @@
         "60552"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D000078789"
+      ],
+      "openalex": [
+        "C2775988048"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyacetylene",
@@ -7720,7 +8486,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID5021172"
+      ],
+      "mesh": [
+        "C080710"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Policosanol",
@@ -7753,7 +8528,22 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-384-9"
+      ],
+      "echa": [
+        "100.126.240"
+      ],
+      "dsstox": [
+        "DTXSID0049608"
+      ],
+      "mesh": [
+        "C013517"
+      ],
+      "openalex": [
+        "C2776035855"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ethyl_cellulose",
@@ -7780,7 +8570,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C170029824"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/PEDOT:PSS",
@@ -7810,7 +8607,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D006171"
+      ],
+      "openalex": [
+        "C2779245719"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Gutta-percha",
@@ -7850,7 +8656,20 @@
         "53492"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "815-723-4"
+      ],
+      "echa": [
+        "100.249.865"
+      ],
+      "dsstox": [
+        "DTXSID001011020"
+      ],
+      "mesh": [
+        "D011100"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyglycolide",
@@ -7889,7 +8708,17 @@
         "53388"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D000094122"
+      ],
+      "openalex": [
+        "C2780849362",
+        "C2910521807"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyhydroxybutyrate",
@@ -7929,7 +8758,18 @@
         "28815"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "232-939-9"
+      ],
+      "echa": [
+        "100.029.933"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2778041096"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Heparan_sulfate",
@@ -7959,7 +8799,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2781246400"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Callose",
@@ -7991,7 +8838,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2777385008"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Parylene",
@@ -8023,7 +8877,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2781263970"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
@@ -8050,7 +8911,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Synthetic_ice",
@@ -8079,7 +8945,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(4-vinylphenol)",
@@ -8107,7 +8978,14 @@
         "28640"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C6977687"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Lipoteichoic_acid",
@@ -8133,7 +9011,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C171359207"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Thermosetting_polymer",
@@ -8277,7 +9162,14 @@
         "160051",
         "60208760"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [
+        "D000069472"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Colesevelam",
@@ -8357,7 +9249,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Hypalon",
@@ -8385,7 +9282,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/HNBR",
@@ -8414,7 +9316,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2779103668"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polybutene",
@@ -8452,7 +9361,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polythiazyl",
@@ -8479,7 +9393,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cardo_polymer",
@@ -8507,7 +9426,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID8094914"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Kollodiumwolle"
@@ -8543,7 +9469,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Methylkautschuk"
@@ -8584,7 +9515,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C108458091"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Low-density_polyethylene",
@@ -8883,7 +9821,12 @@
         "60619"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Poly(3-hexylthiophen-2,5-diyl)",
@@ -8909,7 +9852,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Polymeres_Diphenylmethandiisocyanat"
@@ -8938,7 +9886,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID9094296"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polytrimethylene_terephthalate",
@@ -8993,7 +9948,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nomex",
@@ -9031,7 +9991,22 @@
         "18376"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "246-552-8"
+      ],
+      "echa": [
+        "100.042.305"
+      ],
+      "dsstox": [
+        "DTXSID40179683"
+      ],
+      "mesh": [
+        "D003871"
+      ],
+      "openalex": [
+        "C2778066728"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Dermatan_sulfate",
@@ -9061,7 +10036,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-456-5"
+      ],
+      "echa": [
+        "100.126.906"
+      ],
+      "dsstox": [
+        "DTXSID3040803"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_12",
@@ -9091,7 +10077,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "nl": "https://nl.wikipedia.org/wiki/Polyoctenameer"
@@ -9122,7 +10113,14 @@
         "53229"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2779262620"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polythiophene",
@@ -9163,7 +10161,20 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-339-3"
+      ],
+      "echa": [
+        "100.121.698"
+      ],
+      "dsstox": [
+        "DTXSID8031946"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C181748761"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
@@ -9472,7 +10483,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2777586470"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
@@ -9505,7 +10523,16 @@
         "53234"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID101011085"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2776892847"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
@@ -9540,7 +10567,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2778674009"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polystyrene_sulfonate",
@@ -9616,7 +10650,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Paraloid_B-72",
@@ -9643,7 +10682,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "fr": "https://fr.wikipedia.org/wiki/%C3%89mail_%C3%A0_froid"
@@ -9668,7 +10712,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Formazine",
@@ -9694,7 +10743,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "it": "https://it.wikipedia.org/wiki/PVC-O"
@@ -9725,7 +10779,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-435-5"
+      ],
+      "echa": [
+        "100.113.198"
+      ],
+      "dsstox": [
+        "DTXSID20904551"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "fr": "https://fr.wikipedia.org/wiki/Carbom%C3%A8re",
@@ -9755,7 +10820,18 @@
       "pubchem_cid": [],
       "pubchem_sid": [
         "135020626"
-      ]
+      ],
+      "ec": [
+        "618-381-2"
+      ],
+      "echa": [
+        "100.130.734"
+      ],
+      "dsstox": [
+        "DTXSID60894649"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cellulose_acetate_butyrate",
@@ -9814,7 +10890,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Twaron",
@@ -9843,7 +10924,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -9866,7 +10952,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -9900,7 +10991,22 @@
         "60759"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "682-209-2"
+      ],
+      "echa": [
+        "100.207.383"
+      ],
+      "dsstox": [
+        "DTXSID50873908"
+      ],
+      "mesh": [
+        "D011109"
+      ],
+      "openalex": [
+        "C2776181106"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(methacrylic_acid)"
@@ -9931,7 +11037,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -9958,7 +11069,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Fluoroelastomer",
@@ -9986,7 +11102,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat"
@@ -10015,7 +11136,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID4044248"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Anoxomer",
@@ -10044,7 +11172,20 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-546-9"
+      ],
+      "echa": [
+        "100.110.590"
+      ],
+      "dsstox": [
+        "DTXSID301010914"
+      ],
+      "mesh": [
+        "C093450"
+      ],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ardeparin"
@@ -10071,7 +11212,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Compound_48/80",
@@ -10101,7 +11247,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Elastolefin"
@@ -10126,7 +11277,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Flubber_(material)"
@@ -10151,7 +11307,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2778835725"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Graphitic_carbon_nitride",
@@ -10190,7 +11353,20 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "608-706-6"
+      ],
+      "echa": [
+        "100.130.739"
+      ],
+      "dsstox": [
+        "DTXSID6027973"
+      ],
+      "mesh": [],
+      "openalex": [
+        "C2777079338"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_66",
@@ -10284,7 +11460,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polybutadiene_acrylonitrile",
@@ -10310,7 +11491,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/P123"
@@ -10348,7 +11534,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "616-996-0"
+      ],
+      "echa": [
+        "100.125.321"
+      ],
+      "dsstox": [
+        "DTXSID301001078"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/PHBV"
@@ -10391,7 +11588,16 @@
         "53265"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "623-637-1"
+      ],
+      "echa": [
+        "100.152.298"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(dichlorophosphazene)",
@@ -10421,7 +11627,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(hydridocarbyne)"
@@ -10457,7 +11668,14 @@
         "60755"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID601011066"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(methyl_acrylate)",
@@ -10490,7 +11708,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/PolyAMPS",
@@ -10516,7 +11739,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C32785018"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyaniline_nanofibers"
@@ -10549,7 +11779,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyphenyl_ether",
@@ -10607,7 +11842,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polypropylene_carbonate",
@@ -10640,7 +11880,18 @@
         "82567"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-498-9"
+      ],
+      "echa": [
+        "100.112.554"
+      ],
+      "dsstox": [
+        "DTXSID3047473"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polymethylene_polyphenylene_isocyanate"
@@ -10669,7 +11920,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Sodium_apolate"
@@ -10694,7 +11950,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2777039657"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Telechelic_polymer",
@@ -10720,7 +11983,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Thermoplastic_olefin"
@@ -10745,7 +12013,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -10772,7 +12045,18 @@
         "168003"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-556-3"
+      ],
+      "echa": [
+        "100.110.420"
+      ],
+      "dsstox": [
+        "DTXSID40920379"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Acetylated_starch",
@@ -10810,7 +12094,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -10833,7 +12122,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -10863,7 +12157,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -10890,7 +12189,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -10917,7 +12221,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "fr": "https://fr.wikipedia.org/wiki/PCDTBT"
@@ -10944,7 +12253,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2778516210"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(3,4-ethylenedioxythiophene)",
@@ -10984,7 +12300,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(ethylene_adipate)"
@@ -11015,7 +12336,12 @@
         "8296"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly-%CE%B3-glutamate"
@@ -11046,7 +12372,18 @@
         "53278"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "639-922-9"
+      ],
+      "echa": [
+        "100.167.553"
+      ],
+      "dsstox": [
+        "DTXSID301011079"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Tolevamer",
@@ -11083,7 +12420,16 @@
       "pubchem_cid": [
         "75227"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "680-599-9"
+      ],
+      "echa": [
+        "100.205.706"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylcaprolactam"
@@ -11112,7 +12458,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Tritan_copolyester",
@@ -11141,7 +12492,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(hexamethylene_carbonate)"
@@ -11166,7 +12522,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Thiokol_(polymer)"
@@ -11191,7 +12552,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_4"
@@ -11216,7 +12582,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/IPK_Acrylic-polyvinyl_chloride"
@@ -11241,7 +12612,14 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2994355463"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Star-shaped_polymer",
@@ -11269,7 +12647,14 @@
         "53199"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2778667255"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(amidoamine)"
@@ -11296,7 +12681,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polysuccinimide",
@@ -11322,7 +12712,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "nl": "https://nl.wikipedia.org/wiki/Glycix"
@@ -11351,7 +12746,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Konjugierte_Polymere"
@@ -11376,7 +12776,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyhexahydrotriazine"
@@ -11403,7 +12808,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ethyl_methyl_cellulose",
@@ -11432,7 +12842,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyoxymethylene_dimethyl_ethers",
@@ -11460,7 +12875,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "nl": "https://nl.wikipedia.org/wiki/Natriumcarboxylmethylcellulose"
@@ -11489,7 +12909,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/PIDA_(polymer)"
@@ -11527,7 +12952,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "610-524-7"
+      ],
+      "echa": [
+        "100.127.285"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_46"
@@ -11562,7 +12996,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Lipegfilgrastim",
@@ -11621,7 +13060,12 @@
       "pubchem_cid": [],
       "pubchem_sid": [
         "196409678"
-      ]
+      ],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyhexamethylene_guanidine"
@@ -11654,7 +13098,12 @@
       "pubchem_cid": [],
       "pubchem_sid": [
         "404336438"
-      ]
+      ],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyethylene_furan-2,5-dicarboxylate",
@@ -11730,7 +13179,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -11759,7 +13213,12 @@
         "53374"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -11786,7 +13245,14 @@
       "pubchem_cid": [
         "71586929"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID60238044"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Aloxiprin",
@@ -11816,7 +13282,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_1,6"
@@ -11843,7 +13314,12 @@
       "pubchem_cid": [
         "168563"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyquaternium-7",
@@ -11869,7 +13345,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "fr": "https://fr.wikipedia.org/wiki/Lignosulfonate_de_calcium"
@@ -11894,7 +13375,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Acetalated_dextran"
@@ -11930,7 +13416,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Styrol-Butadien-Styrol-Copolymer",
@@ -11958,7 +13449,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-383-3"
+      ],
+      "echa": [
+        "100.130.992"
+      ],
+      "dsstox": [
+        "DTXSID901009763"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Celluloseacetatpropionat"
@@ -11985,7 +13487,12 @@
         "63570"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12012,7 +13519,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Promelacacinidin",
@@ -12042,7 +13554,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-755-0"
+      ],
+      "echa": [
+        "100.118.160"
+      ],
+      "dsstox": [
+        "DTXSID801011074"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Potassium_polyacrylate"
@@ -12067,7 +13590,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [
@@ -12115,7 +13643,18 @@
         "53221"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "618-365-5"
+      ],
+      "echa": [
+        "100.131.117"
+      ],
+      "dsstox": [
+        "DTXSID701009717"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(ethyl_methacrylate)",
@@ -12156,7 +13695,14 @@
         "53427"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID701009743"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinylcarbazole",
@@ -12186,7 +13732,14 @@
       "pubchem_cid": [
         "104912"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID7047805"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Para_tertiary_butylphenol_formaldehyde_resin"
@@ -12240,7 +13793,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "609-683-5"
+      ],
+      "echa": [
+        "100.131.935"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12265,7 +13827,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "615-245-4"
+      ],
+      "echa": [
+        "100.122.138"
+      ],
+      "dsstox": [
+        "DTXSID9050434"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12297,7 +13870,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-759-2"
+      ],
+      "echa": [
+        "100.133.668"
+      ],
+      "dsstox": [
+        "DTXSID1051226"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12346,7 +13930,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12378,7 +13967,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "608-674-3"
+      ],
+      "echa": [
+        "100.120.403"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12416,7 +14014,18 @@
       "pubchem_cid": [
         "159985"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-493-7"
+      ],
+      "echa": [
+        "100.132.132"
+      ],
+      "dsstox": [
+        "DTXSID80933988"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Tosylamide/formaldehyde_resin"
@@ -12443,7 +14052,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "616-286-0"
+      ],
+      "echa": [
+        "100.125.723"
+      ],
+      "dsstox": [
+        "DTXSID60904550"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12481,7 +14101,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12515,7 +14140,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID40198894"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12538,7 +14170,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12561,7 +14198,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polymers_of_intrinsic_microporosity"
@@ -12592,7 +14234,12 @@
         "73300"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12622,7 +14269,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12645,7 +14297,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Pyrrole%E2%80%93imidazole_polyamides"
@@ -12676,7 +14333,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "it": "https://it.wikipedia.org/wiki/Polimero_P(NDI2OD-T2)"
@@ -12707,7 +14369,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "635-475-9"
+      ],
+      "echa": [
+        "100.163.361"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12736,7 +14407,12 @@
         "53321"
       ],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12761,7 +14437,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Melon_(chemistry)"
@@ -12786,7 +14467,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12818,7 +14504,14 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": [
+        "C2780745476"
+      ]
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/CR-39",
@@ -12849,7 +14542,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12880,7 +14578,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/PG5"
@@ -12923,7 +14626,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Styrol-Ethylen-Butylen-Styrol-Copolymer"
@@ -12963,7 +14671,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -12986,7 +14699,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13024,7 +14742,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "608-489-8"
+      ],
+      "echa": [
+        "100.111.042"
+      ],
+      "dsstox": [
+        "DTXSID3050444"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13057,7 +14786,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13090,7 +14824,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13122,7 +14861,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyoxetane"
@@ -13176,7 +14920,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13208,7 +14957,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(ethyl_acrylate)"
@@ -13237,7 +14991,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Glycidylazid-Polymer"
@@ -13285,7 +15044,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13308,7 +15072,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Wasserl%C3%B6sliche_Polymere"
@@ -13337,7 +15106,12 @@
       "pubchem_cid": [
         "11506004"
       ],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13364,7 +15138,14 @@
       "pubchem_cid": [],
       "pubchem_sid": [
         "472263940"
-      ]
+      ],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID301097613"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13395,7 +15176,18 @@
         "479931594",
         "480606025",
         "482566661"
-      ]
+      ],
+      "ec": [
+        "640-383-7"
+      ],
+      "echa": [
+        "100.168.064"
+      ],
+      "dsstox": [
+        "DTXSID901097847"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13420,7 +15212,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13450,7 +15247,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "607-468-0"
+      ],
+      "echa": [
+        "100.125.203"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13475,7 +15281,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13505,7 +15316,16 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "640-391-0"
+      ],
+      "echa": [
+        "100.168.110"
+      ],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13535,7 +15355,12 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13558,7 +15383,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [],
@@ -13589,7 +15419,12 @@
       "cas": [],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {},
     "properties": [
@@ -14086,7 +15921,18 @@
       ],
       "chebi": [],
       "pubchem_cid": [],
-      "pubchem_sid": []
+      "pubchem_sid": [],
+      "ec": [
+        "641-015-8"
+      ],
+      "echa": [
+        "100.168.794"
+      ],
+      "dsstox": [
+        "DTXSID9044958"
+      ],
+      "mesh": [],
+      "openalex": []
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/MQ-Siliconcopolymere"

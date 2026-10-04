@@ -30,7 +30,8 @@ the update script asks Commons whether a file is a photo: its structured data sa
 instance of photograph ([wd:Q125191](http://www.wikidata.org/entity/Q125191)) or of scanning
 electron micrograph, its metadata names a camera, or its description or categories mention a
 photo. A photo that does not show up can be fixed on Commons by adding "instance of: photograph"
-to its structured data. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID), the
+to its structured data. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID, EC number, ECHA InfoCard, DSSTox, MeSH,
+OpenAlex), the
 polymer classes and monomers, links to the English, Dutch, German, French and Italian Wikipedia,
 and a table of its physicochemical properties: the value with its
 unit, the conditions (qualifiers such as the temperature) and the source with its DOI.

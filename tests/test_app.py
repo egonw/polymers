@@ -23,7 +23,9 @@ POLYMERS = [
         'monomers': [{'qid': 'Q1055852', 'label': '2,6-xylenol'}],
         'identifiers': {'cas': ['25134-01-4'], 'chebi': [],
                         'pubchem_cid': ['6378'],
-                        'pubchem_sid': ['135283456']},
+                        'pubchem_sid': ['135283456'],
+                        'dsstox': ['DTXSID0000000'],
+                        'openalex': ['C0000000']},
         'wikipedia': {
             'en': 'https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)',
             'nl': 'https://nl.wikipedia.org/wiki/Polyfenyleenoxide'},
@@ -105,6 +107,10 @@ class AppTest(unittest.TestCase):
         self.assertIn('https://pubchem.ncbi.nlm.nih.gov/compound/6378', page)
         self.assertIn('https://pubchem.ncbi.nlm.nih.gov/substance/135283456',
                       page)
+        self.assertIn('https://comptox.epa.gov/dashboard/chemical/details/'
+                      'DTXSID0000000', page)
+        self.assertLess(page.index('qlever.scholia.wiki'),
+                        page.index('https://openalex.org/C0000000'))
 
     def test_polymer_without_properties(self):
         page = self.client.get('/Q62246/').get_data(as_text=True)
