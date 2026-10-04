@@ -1677,6 +1677,17 @@
         ],
         "photos": [],
         "wikipedia": {}
+      },
+      {
+        "qid": "Q113023665",
+        "label": "Poly(trimethylene carbonate)",
+        "cxsmiles": [
+          "[*]OCCCOC([*])=O |Sg:n:1,2,3,4,5,6,8::ht|"
+        ],
+        "photos": [],
+        "wikipedia": {
+          "en": "https://en.wikipedia.org/wiki/Poly(trimethylene_carbonate)"
+        }
       }
     ]
   },
@@ -5410,6 +5421,40 @@
     ]
   },
   {
+    "qid": "Q146194",
+    "label": "Polyphthalamide",
+    "description": "semi-crystalline high-temperature plastic in the Nylon family",
+    "cxsmiles": [
+      "[*]N[*]NC(=O)c1ccc(cc1)C([*])=O |$;;R;;;;;;;;;;;;$,Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,14::ht|"
+    ],
+    "photos": [],
+    "classes": [
+      {
+        "qid": "Q119896085",
+        "label": "type of polymer"
+      }
+    ],
+    "monomers": [],
+    "identifiers": {
+      "cas": [],
+      "chebi": [],
+      "pubchem_cid": [],
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
+    },
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyphthalamide",
+      "de": "https://de.wikipedia.org/wiki/Polyphthalamide",
+      "fr": "https://fr.wikipedia.org/wiki/Polyphtalamide"
+    },
+    "properties": [],
+    "members": []
+  },
+  {
     "qid": "Q146206",
     "label": "poly(p-phenylene oxide)",
     "description": "polymer",
@@ -7531,8 +7576,7 @@
         "D006820"
       ],
       "openalex": [
-        "C2777529286",
-        "C2909830753"
+        "C2777529286"
       ]
     },
     "wikipedia": {
@@ -11996,6 +12040,38 @@
     "members": []
   },
   {
+    "qid": "Q7865493",
+    "label": "UPILEX",
+    "description": "heat-resistant polyimide film",
+    "cxsmiles": [
+      "[*]N1C(=O)c2ccc(cc2C1=O)-c1ccc2C(=O)N(C(=O)c2c1)c1ccc(cc1)Oc1ccc(cc1)[*] |Sg:n:1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35::ht|"
+    ],
+    "photos": [],
+    "classes": [
+      {
+        "qid": "Q119896085",
+        "label": "type of polymer"
+      }
+    ],
+    "monomers": [],
+    "identifiers": {
+      "cas": [],
+      "chebi": [],
+      "pubchem_cid": [],
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
+    },
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/UPILEX"
+    },
+    "properties": [],
+    "members": []
+  },
+  {
     "qid": "Q9161362",
     "label": "Astralon",
     "description": "Hard PVC (brandname)",
@@ -14755,6 +14831,70 @@
       "openalex": []
     },
     "wikipedia": {},
+    "properties": [],
+    "members": []
+  },
+  {
+    "qid": "Q113023665",
+    "label": "Poly(trimethylene carbonate)",
+    "description": null,
+    "cxsmiles": [
+      "[*]OCCCOC([*])=O |Sg:n:1,2,3,4,5,6,8::ht|"
+    ],
+    "photos": [],
+    "classes": [
+      {
+        "qid": "Q119896085",
+        "label": "type of polymer"
+      }
+    ],
+    "monomers": [],
+    "identifiers": {
+      "cas": [],
+      "chebi": [],
+      "pubchem_cid": [],
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
+    },
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(trimethylene_carbonate)"
+    },
+    "properties": [],
+    "members": []
+  },
+  {
+    "qid": "Q113039523",
+    "label": "Poly(pentafluorophenyl acrylate)",
+    "description": "chemical compound",
+    "cxsmiles": [
+      "[*]CC([*])C(=O)Oc1c(F)c(F)c(F)c(F)c1F |Sg:n:1,2,4,5,6,7,8,9,10,11,12,13,14,15,16,17::ht|"
+    ],
+    "photos": [],
+    "classes": [
+      {
+        "qid": "Q119896085",
+        "label": "type of polymer"
+      }
+    ],
+    "monomers": [],
+    "identifiers": {
+      "cas": [],
+      "chebi": [],
+      "pubchem_cid": [],
+      "pubchem_sid": [],
+      "ec": [],
+      "echa": [],
+      "dsstox": [],
+      "mesh": [],
+      "openalex": []
+    },
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(pentafluorophenyl_acrylate)"
+    },
     "properties": [],
     "members": []
   },
