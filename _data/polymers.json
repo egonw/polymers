@@ -9873,6 +9873,42 @@
     "members": []
   },
   {
+    "qid": "Q4369981",
+    "label": "poly(methacrylic acid)",
+    "description": "chemical compound",
+    "cxsmiles": [
+      "CCC(C(=O)O)(C)C |Sg:n:1,2,3,4,5,6::ht|"
+    ],
+    "photos": [],
+    "classes": [
+      {
+        "qid": "Q119896085",
+        "label": "type of polymer"
+      }
+    ],
+    "monomers": [
+      {
+        "qid": "Q165949",
+        "label": "methacrylic acid"
+      }
+    ],
+    "identifiers": {
+      "cas": [
+        "25087-26-7"
+      ],
+      "chebi": [
+        "60759"
+      ],
+      "pubchem_cid": [],
+      "pubchem_sid": []
+    },
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Poly(methacrylic_acid)"
+    },
+    "properties": [],
+    "members": []
+  },
+  {
     "qid": "Q4383827",
     "label": "Pural",
     "description": "polymer coating for galvanized steel",
