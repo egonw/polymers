@@ -14,10 +14,12 @@ COMMONS_FILE = 'https://commons.wikimedia.org/wiki/Special:FilePath/'
 
 # Names of the Wikipedias that polymer pages link to.
 LANGUAGES = {'en': 'English', 'nl': 'Dutch', 'de': 'German', 'fr': 'French',
-             'it': 'Italian'}
+             'it': 'Italian', 'es': 'Spanish', 'fa': 'Persian', 'ru': 'Russian',
+             'ja': 'Japanese', 'zh': 'Chinese'}
 # The two-letter code shown for each Wikipedia language on the front page:
 # the ISO 3166 country code, but EN for English.
-COUNTRIES = {'en': 'EN', 'nl': 'NL', 'de': 'DE', 'fr': 'FR', 'it': 'IT'}
+COUNTRIES = {'en': 'EN', 'nl': 'NL', 'de': 'DE', 'fr': 'FR', 'it': 'IT',
+             'es': 'ES', 'fa': 'IR', 'ru': 'RU', 'ja': 'JP', 'zh': 'CN'}
 
 
 @main.app_template_filter('depict')

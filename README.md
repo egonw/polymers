@@ -32,7 +32,7 @@ electron micrograph, its metadata names a camera, or its description or categori
 photo. A photo that does not show up can be fixed on Commons by adding "instance of: photograph"
 to its structured data. Every polymer has its own page with its structure, identifiers (CAS, ChEBI, PubChem CID and SID, EC number, ECHA InfoCard, DSSTox, MeSH,
 OpenAlex), the
-polymer classes and monomers, links to the English, Dutch, German, French and Italian Wikipedia,
+polymer classes and monomers, links to the English, Dutch, German, French, Italian, Spanish, Persian, Russian, Japanese and Chinese Wikipedia,
 and a table of its physicochemical properties: the value with its
 unit, the conditions (qualifiers such as the temperature) and the source with its DOI.
 Polymers that are a class of polymers, such as nylon ([wd:Q177941](http://www.wikidata.org/entity/Q177941)),
@@ -91,7 +91,7 @@ with the images included, that can be opened from disk:
   CXSMILES. CXSMILES that are proposed but not yet in Wikidata can be put in `polymers.qs`, as
   QuickStatements (`Qxxx<TAB>P10718<TAB>"cxsmiles"`), and are then shown too.
 * [wikipedia-photos.html](wikipedia-photos.html) ([scripts/curate_photos.py](scripts/curate_photos.py)):
-  the photos on Commons that are used on the English, Dutch, German, French or Italian Wikipedia
+  the photos on Commons that are used on the English, Dutch, German, French, Italian, Spanish, Persian, Russian, Japanese or Chinese Wikipedia
   article of a polymer, but are not its image (P18) or chemical structure (P117) in Wikidata, with
   links to the articles and, for each photo, QuickStatements that add it as image, with the
   Wikipedia as reference. Rows can be collected into one batch.

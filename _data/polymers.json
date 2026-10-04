@@ -74,7 +74,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Zetmeel",
       "de": "https://de.wikipedia.org/wiki/St%C3%A4rke",
       "fr": "https://fr.wikipedia.org/wiki/Amidon",
-      "it": "https://it.wikipedia.org/wiki/Amido"
+      "it": "https://it.wikipedia.org/wiki/Amido",
+      "es": "https://es.wikipedia.org/wiki/Almid%C3%B3n",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%86%D8%B4%D8%A7%D8%B3%D8%AA%D9%87",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BB",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%97%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E6%B7%80%E7%B2%89"
     },
     "properties": [
       {
@@ -293,7 +298,11 @@
           "nl": "https://nl.wikipedia.org/wiki/Sago",
           "de": "https://de.wikipedia.org/wiki/Sago",
           "fr": "https://fr.wikipedia.org/wiki/Sagou",
-          "it": "https://it.wikipedia.org/wiki/Sago_(amido)"
+          "it": "https://it.wikipedia.org/wiki/Sago_(amido)",
+          "es": "https://es.wikipedia.org/wiki/Sag%C3%BA_(f%C3%A9cula)",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%DA%AF%D9%88",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B3%D0%BE",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%A5%BF%E7%B1%B3"
         }
       },
       {
@@ -310,7 +319,11 @@
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Modified_starch",
           "de": "https://de.wikipedia.org/wiki/Modifizierte_St%C3%A4rke",
-          "it": "https://it.wikipedia.org/wiki/Amido_modificato"
+          "it": "https://it.wikipedia.org/wiki/Amido_modificato",
+          "es": "https://es.wikipedia.org/wiki/Derivados_del_almid%C3%B3n",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%86%D8%B4%D8%A7%D8%B3%D8%AA%D9%87_%D8%A7%D8%B5%D9%84%D8%A7%D8%AD%E2%80%8C%D8%B4%D8%AF%D9%87",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%B7%A5%E3%83%87%E3%83%B3%E3%83%97%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%8C%96%E8%A3%BD%E6%BE%B1%E7%B2%89"
         }
       },
       {
@@ -322,7 +335,10 @@
           "en": "https://en.wikipedia.org/wiki/Hydroxyethyl_starch",
           "de": "https://de.wikipedia.org/wiki/Hydroxyethylst%C3%A4rke",
           "fr": "https://fr.wikipedia.org/wiki/Hydroxy%C3%A9thylamidon",
-          "it": "https://it.wikipedia.org/wiki/Amido_idrossietilico"
+          "it": "https://it.wikipedia.org/wiki/Amido_idrossietilico",
+          "es": "https://es.wikipedia.org/wiki/Hidroxietil-almid%C3%B3n",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%BA%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BB",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%89%E3%83%AD%E3%82%AD%E3%82%B7%E3%82%A8%E3%83%81%E3%83%AB%E3%83%87%E3%83%B3%E3%83%97%E3%83%B3"
         }
       },
       {
@@ -341,7 +357,12 @@
           "nl": "https://nl.wikipedia.org/wiki/Aardappelzetmeel",
           "de": "https://de.wikipedia.org/wiki/Kartoffelst%C3%A4rke",
           "fr": "https://fr.wikipedia.org/wiki/F%C3%A9cule_de_pomme_de_terre",
-          "it": "https://it.wikipedia.org/wiki/Fecola_di_patate"
+          "it": "https://it.wikipedia.org/wiki/Fecola_di_patate",
+          "es": "https://es.wikipedia.org/wiki/Almid%C3%B3n_de_papa",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%86%D8%B4%D8%A7%D8%B3%D8%AA%D9%87_%D8%B3%DB%8C%D8%A8%E2%80%8C%D8%B2%D9%85%DB%8C%D9%86%DB%8C",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D1%84%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BB",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%89%87%E6%A0%97%E7%B2%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E9%A6%AC%E9%88%B4%E8%96%AF%E6%BE%B1%E7%B2%89"
         }
       },
       {
@@ -365,7 +386,11 @@
           "nl": "https://nl.wikipedia.org/wiki/Tapioca",
           "de": "https://de.wikipedia.org/wiki/Tapioka",
           "fr": "https://fr.wikipedia.org/wiki/Tapioca",
-          "it": "https://it.wikipedia.org/wiki/Tapioca"
+          "it": "https://it.wikipedia.org/wiki/Tapioca",
+          "es": "https://es.wikipedia.org/wiki/Tapioca",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D9%BE%DB%8C%D9%88%DA%A9%D8%A7",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BF%D0%B8%D0%BE%D0%BA%D0%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%94%E3%82%AA%E3%82%AB"
         }
       },
       {
@@ -449,7 +474,12 @@
           "en": "https://en.wikipedia.org/wiki/Corn_starch",
           "nl": "https://nl.wikipedia.org/wiki/Ma%C3%AFszetmeel",
           "fr": "https://fr.wikipedia.org/wiki/F%C3%A9cule_de_ma%C3%AFs",
-          "it": "https://it.wikipedia.org/wiki/Amido_di_mais"
+          "it": "https://it.wikipedia.org/wiki/Amido_di_mais",
+          "es": "https://es.wikipedia.org/wiki/Maicena",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%86%D8%B4%D8%A7%D8%B3%D8%AA%D9%87_%D8%B0%D8%B1%D8%AA",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D1%83%D0%BA%D1%83%D1%80%D1%83%D0%B7%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BB",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%81",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8E%89%E7%B1%B3%E6%BE%B1%E7%B2%89"
         }
       },
       {
@@ -474,7 +504,9 @@
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Arrowroot",
-          "it": "https://it.wikipedia.org/wiki/Arrowroot"
+          "it": "https://it.wikipedia.org/wiki/Arrowroot",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%80%D1%80%D0%BE%D1%80%D1%83%D1%82",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%AB%B9%E8%8A%8B%E7%B2%89"
         }
       },
       {
@@ -512,7 +544,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "en": "https://en.wikipedia.org/wiki/Distarch_phosphate"
+          "en": "https://en.wikipedia.org/wiki/Distarch_phosphate",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BA%D1%80%D0%B0%D1%85%D0%BC%D0%B0%D0%BB%D1%84%D0%BE%D1%81%D1%84%D0%B0%D1%82"
         }
       },
       {
@@ -530,7 +563,9 @@
         "label": "starch sugar",
         "cxsmiles": [],
         "photos": [],
-        "wikipedia": {}
+        "wikipedia": {
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%B3%E3%83%97%E3%83%B3%E7%B3%96"
+        }
       },
       {
         "qid": "Q11684206",
@@ -586,7 +621,9 @@
         "label": "wheat starch",
         "cxsmiles": [],
         "photos": [],
-        "wikipedia": {}
+        "wikipedia": {
+          "zh": "https://zh.wikipedia.org/wiki/%E7%84%A1%E7%AD%8B%E9%BA%B5%E7%B2%89"
+        }
       },
       {
         "qid": "Q18967214",
@@ -622,7 +659,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "en": "https://en.wikipedia.org/wiki/Pentastarch"
+          "en": "https://en.wikipedia.org/wiki/Pentastarch",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%B3%E3%82%BF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%81"
         }
       },
       {
@@ -639,7 +677,10 @@
         "label": "bracken starch",
         "cxsmiles": [],
         "photos": [],
-        "wikipedia": {}
+        "wikipedia": {
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%8F%E3%82%89%E3%81%B3%E7%B2%89",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%95%A8%E7%B2%89"
+        }
       },
       {
         "qid": "Q42807559",
@@ -843,7 +884,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polycarbonaat",
       "de": "https://de.wikipedia.org/wiki/Polycarbonate",
       "fr": "https://fr.wikipedia.org/wiki/Polycarbonate",
-      "it": "https://it.wikipedia.org/wiki/Policarbonato"
+      "it": "https://it.wikipedia.org/wiki/Policarbonato",
+      "es": "https://es.wikipedia.org/wiki/Policarbonato",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%DA%A9%D8%B1%D8%A8%D9%86%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%D1%80%D0%B1%D0%BE%D0%BD%D0%B0%D1%82%D1%8B",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%AB%E3%83%BC%E3%83%9C%E3%83%8D%E3%83%BC%E3%83%88",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E7%A2%B3%E9%85%B8%E9%85%AF"
     },
     "properties": [
       {
@@ -1734,7 +1780,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Cellulose",
       "de": "https://de.wikipedia.org/wiki/Cellulose",
       "fr": "https://fr.wikipedia.org/wiki/Cellulose",
-      "it": "https://it.wikipedia.org/wiki/Cellulosa"
+      "it": "https://it.wikipedia.org/wiki/Cellulosa",
+      "es": "https://es.wikipedia.org/wiki/Celulosa",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D9%88%D9%84%D8%B2",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%BA%A4%E7%BB%B4%E7%B4%A0"
     },
     "properties": [
       {
@@ -2046,7 +2097,8 @@
           "nl": "https://nl.wikipedia.org/wiki/Houtvezel_(strooisel)",
           "de": "https://de.wikipedia.org/wiki/Tiereinstreu",
           "fr": "https://fr.wikipedia.org/wiki/Liti%C3%A8re",
-          "it": "https://it.wikipedia.org/wiki/Lettiera_(zootecnia)"
+          "it": "https://it.wikipedia.org/wiki/Lettiera_(zootecnia)",
+          "es": "https://es.wikipedia.org/wiki/Ropa_de_cama_(animales)"
         }
       },
       {
@@ -2073,7 +2125,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "en": "https://en.wikipedia.org/wiki/Bacterial_cellulose"
+          "en": "https://en.wikipedia.org/wiki/Bacterial_cellulose",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%B4%B0%E8%8F%8C%E7%BA%96%E7%B6%AD%E7%B4%A0"
         }
       },
       {
@@ -2122,7 +2175,9 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "en": "https://en.wikipedia.org/wiki/Cat_litter"
+          "en": "https://en.wikipedia.org/wiki/Cat_litter",
+          "ja": "https://ja.wikipedia.org/wiki/%E7%8C%AB%E7%A0%82",
+          "zh": "https://zh.wikipedia.org/wiki/%E7%8C%AB%E7%A0%82"
         }
       },
       {
@@ -2182,7 +2237,10 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_6",
       "de": "https://de.wikipedia.org/wiki/Polycaprolactam",
-      "fr": "https://fr.wikipedia.org/wiki/Nylon_6"
+      "fr": "https://fr.wikipedia.org/wiki/Nylon_6",
+      "es": "https://es.wikipedia.org/wiki/Nailon_6",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%BE%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B36"
     },
     "properties": [],
     "members": []
@@ -2243,7 +2301,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Polycaprolacton",
       "de": "https://de.wikipedia.org/wiki/Polycaprolacton",
       "fr": "https://fr.wikipedia.org/wiki/Polycaprolactone",
-      "it": "https://it.wikipedia.org/wiki/Policaprolattone"
+      "it": "https://it.wikipedia.org/wiki/Policaprolattone",
+      "es": "https://es.wikipedia.org/wiki/Policaprolactona",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%DA%A9%D9%BE%D8%B1%D9%88%D9%84%D8%A7%DA%A9%D8%AA%D9%88%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BA%D0%B0%D0%BF%D1%80%D0%BE%D0%BB%D0%B0%D0%BA%D1%82%D0%BE%D0%BD",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%B7%B1%E5%86%85%E9%85%AF"
     },
     "properties": [
       {
@@ -2338,7 +2400,9 @@
       "en": "https://en.wikipedia.org/wiki/Polymethylpentene",
       "nl": "https://nl.wikipedia.org/wiki/Polymethylpenteen",
       "de": "https://de.wikipedia.org/wiki/Polymethylpenten",
-      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A9thylpent%C3%A8ne"
+      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A9thylpent%C3%A8ne",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_(%DB%B4-%D9%85%D8%AA%DB%8C%D9%84-%DB%B1-%D9%BE%D9%86%D8%AA%D9%86)",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%A1%E3%83%81%E3%83%AB%E3%83%9A%E3%83%B3%E3%83%86%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -2404,7 +2468,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Teflon",
       "de": "https://de.wikipedia.org/wiki/Polytetrafluorethylen",
       "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9trafluoro%C3%A9thyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Politetrafluoroetilene"
+      "it": "https://it.wikipedia.org/wiki/Politetrafluoroetilene",
+      "es": "https://es.wikipedia.org/wiki/Politetrafluoroetileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D8%AA%D8%AA%D8%B1%D8%A7%D9%81%D9%84%D9%88%D8%A6%D9%88%D8%B1%D9%88%D8%A7%D8%AA%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B5%D1%82%D1%80%D0%B0%D1%84%D1%82%D0%BE%D1%80%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%86%E3%83%88%E3%83%A9%E3%83%95%E3%83%AB%E3%82%AA%E3%83%AD%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%9B%9B%E6%B0%9F%E4%B9%99%E7%83%AF"
     },
     "properties": [
       {
@@ -2534,7 +2603,9 @@
         "label": "Teflon 42",
         "cxsmiles": [],
         "photos": [],
-        "wikipedia": {}
+        "wikipedia": {
+          "ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%82%D0%BE%D1%80%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82-42"
+        }
       },
       {
         "qid": "Q87150564",
@@ -2627,7 +2698,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyetheen",
       "de": "https://de.wikipedia.org/wiki/Polyethylen",
       "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polietilene"
+      "it": "https://it.wikipedia.org/wiki/Polietilene",
+      "es": "https://es.wikipedia.org/wiki/Polietileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E7%83%AF"
     },
     "properties": [
       {
@@ -2691,7 +2767,11 @@
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
           "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_de_masse_molaire_tr%C3%A8s_%C3%A9lev%C3%A9e",
-          "it": "https://it.wikipedia.org/wiki/Polietilene_ad_altissimo_peso_molecolare"
+          "it": "https://it.wikipedia.org/wiki/Polietilene_ad_altissimo_peso_molecolare",
+          "es": "https://es.wikipedia.org/wiki/Polietileno_de_ultra_alto_peso_molecular",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%D8%A8%D8%A7_%D9%88%D8%B2%D9%86_%D9%85%D9%88%D9%84%DA%A9%D9%88%D9%84%DB%8C_%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1_%D8%A8%D8%A7%D9%84%D8%A7",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD_%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+          "ja": "https://ja.wikipedia.org/wiki/%E8%B6%85%E9%AB%98%E5%88%86%E5%AD%90%E9%87%8F%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
         }
       },
       {
@@ -2709,7 +2789,9 @@
           "en": "https://en.wikipedia.org/wiki/Linear_low-density_polyethylene",
           "nl": "https://nl.wikipedia.org/wiki/LLDPE",
           "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_basse_densit%C3%A9_lin%C3%A9aire",
-          "it": "https://it.wikipedia.org/wiki/Polietilene_lineare_a_bassa_densit%C3%A0"
+          "it": "https://it.wikipedia.org/wiki/Polietilene_lineare_a_bassa_densit%C3%A0",
+          "es": "https://es.wikipedia.org/wiki/Polietileno_lineal_de_baja_densidad",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
         }
       },
       {
@@ -2733,7 +2815,10 @@
           "nl": "https://nl.wikipedia.org/wiki/Lagedichtheidpolyetheen",
           "de": "https://de.wikipedia.org/wiki/Polyethylen_niedriger_Dichte",
           "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_basse_densit%C3%A9",
-          "it": "https://it.wikipedia.org/wiki/Polietilene_a_bassa_densit%C3%A0"
+          "it": "https://it.wikipedia.org/wiki/Polietilene_a_bassa_densit%C3%A0",
+          "es": "https://es.wikipedia.org/wiki/Polietileno_de_baja_densidad",
+          "ja": "https://ja.wikipedia.org/wiki/%E4%BD%8E%E5%AF%86%E5%BA%A6%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%BD%8E%E5%AF%86%E5%BA%A6%E8%81%9A%E4%B9%99%E7%83%AF"
         }
       },
       {
@@ -2751,7 +2836,10 @@
           "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
           "nl": "https://nl.wikipedia.org/wiki/Hoge-dichtheidspolyetheen",
           "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_haute_densit%C3%A9",
-          "it": "https://it.wikipedia.org/wiki/Polietilene_ad_alta_densit%C3%A0"
+          "it": "https://it.wikipedia.org/wiki/Polietilene_ad_alta_densit%C3%A0",
+          "es": "https://es.wikipedia.org/wiki/Polietileno_de_alta_densidad",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%DA%86%DA%AF%D8%A7%D9%84%DB%8C_%D8%A8%D8%A7%D9%84%D8%A7",
+          "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
         }
       },
       {
@@ -2768,7 +2856,11 @@
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
           "de": "https://de.wikipedia.org/wiki/Vernetztes_Polyethylen",
-          "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_r%C3%A9ticul%C3%A9"
+          "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_r%C3%A9ticul%C3%A9",
+          "es": "https://es.wikipedia.org/wiki/Polietileno_reticulado",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%D9%85%D8%B4%D8%A8%DA%A9",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%88%D0%B8%D1%82%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+          "ja": "https://ja.wikipedia.org/wiki/%E6%9E%B6%E6%A9%8B%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
         }
       },
       {
@@ -2787,7 +2879,9 @@
         "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Expanded_polyethylene",
-          "it": "https://it.wikipedia.org/wiki/Polietilene_espanso"
+          "it": "https://it.wikipedia.org/wiki/Polietilene_espanso",
+          "es": "https://es.wikipedia.org/wiki/Polietileno_expandido",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%BF%D0%B5%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD"
         }
       }
     ]
@@ -2854,7 +2948,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Acrylonitril-butadieen-styreen",
       "de": "https://de.wikipedia.org/wiki/Acrylnitril-Butadien-Styrol-Copolymer",
       "fr": "https://fr.wikipedia.org/wiki/Acrylonitrile_butadi%C3%A8ne_styr%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Acrilonitrile_butadiene_stirene"
+      "it": "https://it.wikipedia.org/wiki/Acrilonitrile_butadiene_stirene",
+      "es": "https://es.wikipedia.org/wiki/Acrilonitrilo_butadieno_estireno",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A2%DA%A9%D8%B1%DB%8C%D9%84%D9%88%D9%86%DB%8C%D8%AA%D8%B1%DB%8C%D9%84_%D8%A8%D9%88%D8%AA%D8%A7%D8%AF%DB%8C%D9%86_%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D8%B1%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%91%D0%A1-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA",
+      "ja": "https://ja.wikipedia.org/wiki/ABS%E6%A8%B9%E8%84%82",
+      "zh": "https://zh.wikipedia.org/wiki/ABS%E6%A0%91%E8%84%82"
     },
     "properties": [
       {
@@ -2948,7 +3047,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Polybutadieen",
       "de": "https://de.wikipedia.org/wiki/Polybutadien",
       "fr": "https://fr.wikipedia.org/wiki/Polybutadi%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polibutadiene"
+      "it": "https://it.wikipedia.org/wiki/Polibutadiene",
+      "es": "https://es.wikipedia.org/wiki/Polibutadieno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D8%A8%D9%88%D8%AA%D8%A7%D8%AF%DB%8C%E2%80%8C%D8%A7%D9%86",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%96%E3%82%BF%E3%82%B8%E3%82%A8%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E9%A1%BA%E4%B8%81%E6%A9%A1%E8%83%B6"
     },
     "properties": [
       {
@@ -3031,7 +3134,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Cellulosenitraat",
       "de": "https://de.wikipedia.org/wiki/Cellulosenitrat",
       "fr": "https://fr.wikipedia.org/wiki/Nitrocellulose",
-      "it": "https://it.wikipedia.org/wiki/Nitrocellulosa"
+      "it": "https://it.wikipedia.org/wiki/Nitrocellulosa",
+      "es": "https://es.wikipedia.org/wiki/Nitrato_de_celulosa",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D8%AA%D8%B1%D9%88%D8%B3%D9%84%D9%88%D9%84%D8%B2",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D1%82%D1%80%D0%BE%D1%86%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%88%E3%83%AD%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%A1%9D%E9%85%B8%E7%BA%A4%E7%BB%B4%E7%B4%A0"
     },
     "properties": [],
     "members": [
@@ -3041,7 +3149,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "de": "https://de.wikipedia.org/wiki/Kollodiumwolle"
+          "de": "https://de.wikipedia.org/wiki/Kollodiumwolle",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%B8%D1%82%D1%80%D0%BE%D1%86%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0"
         }
       },
       {
@@ -3050,7 +3159,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat"
+          "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BB%D0%B8%D0%BD"
         }
       },
       {
@@ -3163,7 +3273,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Neopreen",
       "de": "https://de.wikipedia.org/wiki/Chloropren-Kautschuk",
       "fr": "https://fr.wikipedia.org/wiki/N%C3%A9opr%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Neoprene"
+      "it": "https://it.wikipedia.org/wiki/Neoprene",
+      "es": "https://es.wikipedia.org/wiki/Neopreno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%86%D8%A6%D9%88%D9%BE%D8%B1%DB%8C%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BB%D0%BE%D1%80%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D1%83%D1%87%D1%83%D0%BA",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%AD%E3%83%97%E3%83%AC%E3%83%B3%E3%82%B4%E3%83%A0",
+      "zh": "https://zh.wikipedia.org/wiki/%E6%B0%AF%E4%B8%81%E6%A9%A1%E8%83%B6"
     },
     "properties": [
       {
@@ -3326,7 +3441,11 @@
       "nl": "https://nl.wikipedia.org/wiki/ETFE",
       "de": "https://de.wikipedia.org/wiki/Ethylen-Tetrafluorethylen-Copolymer",
       "fr": "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne_t%C3%A9trafluoro%C3%A9thyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Etilene_tetrafluoroetilene"
+      "it": "https://it.wikipedia.org/wiki/Etilene_tetrafluoroetilene",
+      "es": "https://es.wikipedia.org/wiki/ETFE",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%E2%80%8C%D8%AA%DB%8C%E2%80%8C%D8%A7%D9%81%E2%80%8C%D8%A7%DB%8C",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%82%D0%BE%D1%80%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82-40",
+      "zh": "https://zh.wikipedia.org/wiki/%E6%B0%9F%E5%A1%91%E8%86%9C"
     },
     "properties": [],
     "members": []
@@ -3387,7 +3506,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Ethyleenvinylacetaat",
       "de": "https://de.wikipedia.org/wiki/Ethylen-Vinylacetat-Copolymer",
       "fr": "https://fr.wikipedia.org/wiki/%C3%89thyl%C3%A8ne-ac%C3%A9tate_de_vinyle",
-      "it": "https://it.wikipedia.org/wiki/Etilene_vinil_acetato"
+      "it": "https://it.wikipedia.org/wiki/Etilene_vinil_acetato",
+      "es": "https://es.wikipedia.org/wiki/Etilvinilacetato",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%DB%8C%D9%84%D9%86-%D9%88%DB%8C%D9%86%DB%8C%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%B0%D1%86%D0%B5%D1%82%D0%B0%D1%82",
+      "zh": "https://zh.wikipedia.org/wiki/%E4%B9%99%E7%83%AF/%E9%86%8B%E9%85%B8%E4%B9%99%E7%83%AF%E9%85%AF%E5%85%B1%E8%81%9A%E7%89%A9"
     },
     "properties": [],
     "members": [
@@ -3445,7 +3568,11 @@
       "en": "https://en.wikipedia.org/wiki/Polyisoprene",
       "de": "https://de.wikipedia.org/wiki/Polyisopren",
       "fr": "https://fr.wikipedia.org/wiki/Polyisopr%C3%A8ne_synth%C3%A9tique",
-      "it": "https://it.wikipedia.org/wiki/Poliisoprene"
+      "it": "https://it.wikipedia.org/wiki/Poliisoprene",
+      "es": "https://es.wikipedia.org/wiki/Poliisopreno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%DB%8C%D8%B2%D9%88%D9%BE%D8%B1%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D1%82%D0%B5%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%B8%D0%B7%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B0%D1%83%D1%87%D1%83%D0%BA%D0%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%BC%82%E6%88%8A%E4%BA%8C%E7%83%AF"
     },
     "properties": [
       {
@@ -3619,7 +3746,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Nitrilbutadieenrubber",
       "de": "https://de.wikipedia.org/wiki/Acrylnitril-Butadien-Kautschuk",
       "fr": "https://fr.wikipedia.org/wiki/Butadi%C3%A8ne-acrylonitrile",
-      "it": "https://it.wikipedia.org/wiki/Gomma_nitrilica"
+      "it": "https://it.wikipedia.org/wiki/Gomma_nitrilica",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9_%D9%86%DB%8C%D8%AA%D8%B1%DB%8C%D9%84",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD-%D0%BD%D0%B8%D1%82%D1%80%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%B0%D1%83%D1%87%D1%83%D0%BA",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%88%E3%83%AA%E3%83%AB%E3%82%B4%E3%83%A0",
+      "zh": "https://zh.wikipedia.org/wiki/%E4%B8%81%E8%85%88%E6%A9%A1%E8%83%B6"
     },
     "properties": [],
     "members": []
@@ -3667,7 +3798,12 @@
       "en": "https://en.wikipedia.org/wiki/Polyacrylonitrile",
       "de": "https://de.wikipedia.org/wiki/Polyacrylnitril",
       "fr": "https://fr.wikipedia.org/wiki/Polyacrylonitrile",
-      "it": "https://it.wikipedia.org/wiki/Poliacrilonitrile"
+      "it": "https://it.wikipedia.org/wiki/Poliacrilonitrile",
+      "es": "https://es.wikipedia.org/wiki/Poliacrilonitrilo",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D8%A7%DA%A9%D8%B1%DB%8C%D9%84%D9%88%D9%86%DB%8C%D8%AA%D8%B1%DB%8C%D9%84",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B0%D0%BA%D1%80%D0%B8%D0%BB%D0%BE%D0%BD%D0%B8%D1%82%D1%80%D0%B8%D0%BB",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AD%E3%83%8B%E3%83%88%E3%83%AA%E3%83%AB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B8%99%E7%83%AF%E8%85%88"
     },
     "properties": [
       {
@@ -3794,7 +3930,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Polybutyleentereftalaat",
       "de": "https://de.wikipedia.org/wiki/Polybutylenterephthalat",
       "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_de_butyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polibutilentereftalato"
+      "it": "https://it.wikipedia.org/wiki/Polibutilentereftalato",
+      "es": "https://es.wikipedia.org/wiki/Tereftalato_de_polibutileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A8%D9%88%D8%AA%DB%8C%D9%84%D9%86_%D8%AA%D8%B1%D9%81%D8%AA%D8%A7%D9%84%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%84%D1%82%D0%B0%D0%BB%D0%B0%D1%82",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%B0%8D%E8%8B%AF%E4%BA%8C%E7%94%B2%E9%85%B8%E4%B8%81%E4%BA%8C%E9%85%AF"
     },
     "properties": [],
     "members": []
@@ -3829,7 +3969,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polycyclohexylenedimethylene_terephthalate",
-      "de": "https://de.wikipedia.org/wiki/Polycyclohexylendimethylenterephthalat"
+      "de": "https://de.wikipedia.org/wiki/Polycyclohexylendimethylenterephthalat",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%AF%B9%E8%8B%AF%E4%BA%8C%E7%94%B2%E9%85%B8%E7%8E%AF%E5%B7%B1%E7%83%B7%E4%BA%8C%E7%94%B2%E9%85%AF"
     },
     "properties": [],
     "members": []
@@ -3878,7 +4019,9 @@
       "nl": "https://nl.wikipedia.org/wiki/Polychloortrifluorethyleen",
       "de": "https://de.wikipedia.org/wiki/Polychlortrifluorethylen",
       "fr": "https://fr.wikipedia.org/wiki/Polychlorotrifluoro%C3%A9thyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Policlorotrifluoroetilene"
+      "it": "https://it.wikipedia.org/wiki/Policlorotrifluoroetilene",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%DA%A9%D9%84%D8%B1%D9%88%D8%AA%D8%B1%DB%8C%E2%80%8C%D9%81%D9%84%D9%88%D8%B1%D9%88%D8%A7%D8%AA%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D1%80%D0%B8%D1%84%D1%82%D0%BE%D1%80%D1%85%D0%BB%D0%BE%D1%80%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD"
     },
     "properties": [
       {
@@ -4038,7 +4181,10 @@
       "en": "https://en.wikipedia.org/wiki/Polyetherimide",
       "de": "https://de.wikipedia.org/wiki/Polyetherimide",
       "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9therimide",
-      "it": "https://it.wikipedia.org/wiki/Polietereimmide"
+      "it": "https://it.wikipedia.org/wiki/Polietereimmide",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%D8%B1%D8%A7%DB%8C%D9%85%DB%8C%D8%AF",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%BC%E3%83%86%E3%83%AB%E3%82%A4%E3%83%9F%E3%83%89",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E9%86%9A%E9%86%AF%E4%BA%9E%E8%83%BA"
     },
     "properties": [],
     "members": []
@@ -4164,7 +4310,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyethyleentereftalaat",
       "de": "https://de.wikipedia.org/wiki/Polyethylenterephthalat",
       "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_d%27%C3%A9thyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polietilene_tereftalato"
+      "it": "https://it.wikipedia.org/wiki/Polietilene_tereftalato",
+      "es": "https://es.wikipedia.org/wiki/Tereftalato_de_polietileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%D8%AA%D8%B1%D9%81%D8%AA%D8%A7%D9%84%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%84%D1%82%D0%B0%D0%BB%D0%B0%D1%82",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3%E3%83%86%E3%83%AC%E3%83%95%E3%82%BF%E3%83%A9%E3%83%BC%E3%83%88",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%AF%B9%E8%8B%AF%E4%BA%8C%E7%94%B2%E9%85%B8%E4%B9%99%E4%BA%8C%E9%85%AF"
     },
     "properties": [
       {
@@ -4370,7 +4521,9 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "de": "https://de.wikipedia.org/wiki/Biaxial_orientierte_Polyester-Folie"
+          "de": "https://de.wikipedia.org/wiki/Biaxial_orientierte_Polyester-Folie",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D9%BE%D8%AA",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B9%D0%BB%D0%B0%D1%80"
         }
       },
       {
@@ -4431,7 +4584,10 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyisobuteen",
       "de": "https://de.wikipedia.org/wiki/Polyisobutylen",
       "fr": "https://fr.wikipedia.org/wiki/Polyisobutyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Poliisobutilene"
+      "it": "https://it.wikipedia.org/wiki/Poliisobutilene",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%DB%8C%D8%B2%D9%88%D8%A8%D9%88%D8%AA%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B8%D0%B7%D0%BE%D0%B1%D1%83%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A4%E3%82%BD%E3%83%96%E3%83%81%E3%83%AC%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -4527,7 +4683,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Polymethylmethacrylaat",
       "de": "https://de.wikipedia.org/wiki/Polymethylmethacrylat",
       "fr": "https://fr.wikipedia.org/wiki/Poly(m%C3%A9thacrylate_de_m%C3%A9thyle)",
-      "it": "https://it.wikipedia.org/wiki/Polimetilmetacrilato"
+      "it": "https://it.wikipedia.org/wiki/Polimetilmetacrilato",
+      "es": "https://es.wikipedia.org/wiki/Polimetilmetacrilato",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C(%D9%85%D8%AA%DB%8C%D9%84_%D9%85%D8%AA%D8%A7%DA%A9%D8%B1%DB%8C%D9%84%D8%A7%D8%AA)",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9E%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%81%D1%82%D0%B5%D0%BA%D0%BB%D0%BE",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E7%94%B2%E5%9F%BA%E4%B8%99%E7%83%AF%E9%85%B8%E7%94%B2%E9%85%AF"
     },
     "properties": [
       {
@@ -4886,7 +5046,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polypropeen",
       "de": "https://de.wikipedia.org/wiki/Polypropylen",
       "fr": "https://fr.wikipedia.org/wiki/Polypropyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polipropilene"
+      "it": "https://it.wikipedia.org/wiki/Polipropilene",
+      "es": "https://es.wikipedia.org/wiki/Polipropileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%BE%D8%B1%D9%88%D9%BE%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D0%BB%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%97%E3%83%AD%E3%83%94%E3%83%AC%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B8%99%E7%83%AF"
     },
     "properties": [
       {
@@ -5449,7 +5614,9 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyphthalamide",
       "de": "https://de.wikipedia.org/wiki/Polyphthalamide",
-      "fr": "https://fr.wikipedia.org/wiki/Polyphtalamide"
+      "fr": "https://fr.wikipedia.org/wiki/Polyphtalamide",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D9%81%D8%AA%D8%A7%D9%84_%D8%A2%D9%85%DB%8C%D8%AF",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E8%8B%AF%E4%BA%8C%E7%94%B2%E9%85%B0%E8%83%BA"
     },
     "properties": [],
     "members": []
@@ -5501,7 +5668,11 @@
       "en": "https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)",
       "de": "https://de.wikipedia.org/wiki/Polyphenylenether",
       "fr": "https://fr.wikipedia.org/wiki/Poly(oxyde_de_ph%C3%A9nyl%C3%A8ne)",
-      "it": "https://it.wikipedia.org/wiki/Polifenilenossido"
+      "it": "https://it.wikipedia.org/wiki/Polifenilenossido",
+      "es": "https://es.wikipedia.org/wiki/%C3%93xido_de_polifenileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C(%D9%BE%DB%8C-%D9%81%D9%86%DB%8C%D9%84%D9%86_%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF)",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%84%D0%B5%D0%BD%D0%B8%D0%BB%D0%B5%D0%BD%D0%BE%D0%BA%D1%81%D0%B8%D0%B4",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E6%B0%A7%E4%BA%8C%E7%94%B2%E8%8B%AF"
     },
     "properties": [
       {
@@ -5598,7 +5769,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyfenyleensulfide",
       "de": "https://de.wikipedia.org/wiki/Polyphenylensulfid",
       "fr": "https://fr.wikipedia.org/wiki/Polysulfure_de_ph%C3%A9nyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Poliparafenilensolfuro"
+      "it": "https://it.wikipedia.org/wiki/Poliparafenilensolfuro",
+      "es": "https://es.wikipedia.org/wiki/Sulfuro_de_polifenileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D9%81%D9%86%DB%8C%D9%84%D9%86_%D8%B3%D9%88%D9%84%D9%81%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%84%D0%B5%D0%BD%D0%B8%D0%BB%D0%B5%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%84%D0%B8%D0%B4",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%95%E3%82%A7%E3%83%8B%E3%83%AC%E3%83%B3%E3%82%B9%E3%83%AB%E3%83%95%E3%82%A3%E3%83%89",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E8%8B%AF%E7%A1%AB%E9%86%9A"
     },
     "properties": [
       {
@@ -5649,7 +5825,12 @@
       "en": "https://en.wikipedia.org/wiki/Polypyrrole",
       "de": "https://de.wikipedia.org/wiki/Polypyrrol",
       "fr": "https://fr.wikipedia.org/wiki/Polypyrrole",
-      "it": "https://it.wikipedia.org/wiki/Polipirrolo"
+      "it": "https://it.wikipedia.org/wiki/Polipirrolo",
+      "es": "https://es.wikipedia.org/wiki/Polipirrol",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D9%BE%DB%8C%D8%B1%D9%88%D9%84",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BF%D0%B8%D1%80%D1%80%D0%BE%D0%BB",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%94%E3%83%AD%E3%83%BC%E3%83%AB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%90%A1%E5%92%AF"
     },
     "properties": [],
     "members": []
@@ -5721,7 +5902,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polystyreen",
       "de": "https://de.wikipedia.org/wiki/Polystyrol",
       "fr": "https://fr.wikipedia.org/wiki/Polystyr%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polistirene"
+      "it": "https://it.wikipedia.org/wiki/Polistirene",
+      "es": "https://es.wikipedia.org/wiki/Poliestireno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D8%B1%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%BB",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%81%E3%83%AC%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E8%8B%AF%E4%B9%99%E7%83%AF"
     },
     "properties": [
       {
@@ -5875,7 +6061,9 @@
         "label": "syndiotactic polystyrene",
         "cxsmiles": [],
         "photos": [],
-        "wikipedia": {}
+        "wikipedia": {
+          "ja": "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%82%B8%E3%82%AA%E3%82%BF%E3%82%AF%E3%83%81%E3%83%83%E3%82%AF%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%81%E3%83%AC%E3%83%B3"
+        }
       },
       {
         "qid": "Q25385241",
@@ -5944,7 +6132,10 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylalcohol",
       "de": "https://de.wikipedia.org/wiki/Polyvinylalkohol",
       "fr": "https://fr.wikipedia.org/wiki/Alcool_polyvinylique",
-      "it": "https://it.wikipedia.org/wiki/Alcol_polivinilico"
+      "it": "https://it.wikipedia.org/wiki/Alcol_polivinilico",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%BF%D0%B8%D1%80%D1%82",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%93%E3%83%8B%E3%83%AB%E3%82%A2%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%AB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E7%83%AF%E9%86%87"
     },
     "properties": [
       {
@@ -6049,7 +6240,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylacetaat",
       "de": "https://de.wikipedia.org/wiki/Polyvinylacetat",
       "fr": "https://fr.wikipedia.org/wiki/Polyac%C3%A9tate_de_vinyle",
-      "it": "https://it.wikipedia.org/wiki/Polivinilacetato"
+      "it": "https://it.wikipedia.org/wiki/Polivinilacetato",
+      "es": "https://es.wikipedia.org/wiki/Acetato_de_polivinilo",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%88%DB%8C%D9%86%DB%8C%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%B0%D1%86%D0%B5%D1%82%D0%B0%D1%82",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E9%85%A2%E9%85%B8%E3%83%93%E3%83%8B%E3%83%AB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E9%86%8B%E9%85%B8%E4%B9%99%E7%83%AF%E9%85%AF"
     },
     "properties": [
       {
@@ -6221,7 +6417,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylchloride",
       "de": "https://de.wikipedia.org/wiki/Polyvinylchlorid",
       "fr": "https://fr.wikipedia.org/wiki/Polychlorure_de_vinyle",
-      "it": "https://it.wikipedia.org/wiki/Polivinilcloruro"
+      "it": "https://it.wikipedia.org/wiki/Polivinilcloruro",
+      "es": "https://es.wikipedia.org/wiki/Policloruro_de_vinilo",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%88%DB%8C%D9%86%DB%8C%D9%84_%DA%A9%D9%84%D8%B1%D8%A7%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D1%85%D0%BB%D0%BE%D1%80%D0%B8%D0%B4",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E5%A1%A9%E5%8C%96%E3%83%93%E3%83%8B%E3%83%AB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E6%B0%AF%E4%B9%99%E7%83%AF"
     },
     "properties": [
       {
@@ -6546,7 +6747,9 @@
         "label": "Q11189687",
         "cxsmiles": [],
         "photos": [],
-        "wikipedia": {}
+        "wikipedia": {
+          "ja": "https://ja.wikipedia.org/wiki/ATBC-PVC"
+        }
       },
       {
         "qid": "Q131574942",
@@ -6605,7 +6808,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylideenfluoride",
       "de": "https://de.wikipedia.org/wiki/Polyvinylidenfluorid",
       "fr": "https://fr.wikipedia.org/wiki/Polyfluorure_de_vinylid%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Polivinilidenfluoruro"
+      "it": "https://it.wikipedia.org/wiki/Polivinilidenfluoruro",
+      "es": "https://es.wikipedia.org/wiki/Fluoruro_de_polivinilideno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%88%DB%8C%D9%86%DB%8C%D9%84%DB%8C%D8%AF%DB%8C%D9%86_%D9%81%D9%84%D9%88%D8%B1%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%B8%D0%B4%D0%B5%D0%BD%D1%84%D1%82%D0%BE%D1%80%D0%B8%D0%B4",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%95%E3%83%83%E5%8C%96%E3%83%93%E3%83%8B%E3%83%AA%E3%83%87%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%81%8F%E4%BA%8C%E6%B0%9F%E4%B9%99%E7%83%AF"
     },
     "properties": [
       {
@@ -6780,7 +6988,9 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylfluoride",
       "de": "https://de.wikipedia.org/wiki/Polyvinylfluorid",
       "fr": "https://fr.wikipedia.org/wiki/Polyfluorure_de_vinyle",
-      "it": "https://it.wikipedia.org/wiki/Polivinilfluoruro"
+      "it": "https://it.wikipedia.org/wiki/Polivinilfluoruro",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%88%DB%8C%D9%86%DB%8C%D9%84_%D9%81%D9%84%D9%88%D8%B1%DB%8C%D8%AF",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%95%E3%83%83%E5%8C%96%E3%83%93%E3%83%8B%E3%83%AB"
     },
     "properties": [],
     "members": []
@@ -6834,7 +7044,10 @@
       "en": "https://en.wikipedia.org/wiki/Styrene-acrylonitrile_resin",
       "de": "https://de.wikipedia.org/wiki/Styrol-Acrylnitril-Copolymer",
       "fr": "https://fr.wikipedia.org/wiki/Styr%C3%A8ne-acrylonitrile",
-      "it": "https://it.wikipedia.org/wiki/Copolimero_SAN"
+      "it": "https://it.wikipedia.org/wiki/Copolimero_SAN",
+      "es": "https://es.wikipedia.org/wiki/Estireno_acrilonitrilo",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%DB%8C%D9%86_%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D8%B1%D9%86-%D8%A2%DA%A9%D8%B1%DB%8C%D9%84%D9%88%D9%86%DB%8C%D8%AA%D8%B1%DB%8C%D9%84",
+      "ja": "https://ja.wikipedia.org/wiki/AS%E6%A8%B9%E8%84%82"
     },
     "properties": [],
     "members": []
@@ -6888,7 +7101,12 @@
       "en": "https://en.wikipedia.org/wiki/Styrene-butadiene",
       "de": "https://de.wikipedia.org/wiki/Styrol-Butadien-Kautschuk",
       "fr": "https://fr.wikipedia.org/wiki/Styr%C3%A8ne-butadi%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Gomma_SBR"
+      "it": "https://it.wikipedia.org/wiki/Gomma_SBR",
+      "es": "https://es.wikipedia.org/wiki/Caucho_estireno-butadieno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B3%D8%AA%DB%8C%DA%A9_%D8%B3%D9%86%D8%AA%D8%B2%DB%8C",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D1%82%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD-%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%BA%D0%B0%D1%83%D1%87%D1%83%D0%BA%D0%B8",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%AC%E3%83%B3%E3%83%BB%E3%83%96%E3%82%BF%E3%82%B8%E3%82%A8%E3%83%B3%E3%82%B4%E3%83%A0",
+      "zh": "https://zh.wikipedia.org/wiki/%E4%B8%81%E8%8B%AF%E6%A9%A1%E8%83%B6"
     },
     "properties": [],
     "members": [
@@ -6954,7 +7172,12 @@
       "en": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
       "nl": "https://nl.wikipedia.org/wiki/Ureumformaldehyde",
       "de": "https://de.wikipedia.org/wiki/Harnstoffharz",
-      "fr": "https://fr.wikipedia.org/wiki/Mousse_isolante_d%27ur%C3%A9e-formald%C3%A9hyde"
+      "fr": "https://fr.wikipedia.org/wiki/Mousse_isolante_d%27ur%C3%A9e-formald%C3%A9hyde",
+      "es": "https://es.wikipedia.org/wiki/Urea_formaldeh%C3%ADdo",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D8%B1%D9%87_%D9%81%D8%B1%D9%85%D8%A7%D9%84%D8%AF%D9%87%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%B0%D0%BC%D0%B8%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%B3%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D0%BC%D0%BE%D0%BB%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E5%B0%BF%E7%B4%A0%E6%A8%B9%E8%84%82",
+      "zh": "https://zh.wikipedia.org/wiki/%E5%B0%BF%E7%B4%A0%E7%94%B2%E9%86%9B%E6%A8%B9%E8%84%82"
     },
     "properties": [],
     "members": []
@@ -7010,7 +7233,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Chitine",
       "de": "https://de.wikipedia.org/wiki/Chitin",
       "fr": "https://fr.wikipedia.org/wiki/Chitine",
-      "it": "https://it.wikipedia.org/wiki/Chitina"
+      "it": "https://it.wikipedia.org/wiki/Chitina",
+      "es": "https://es.wikipedia.org/wiki/Quitina",
+      "fa": "https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D8%AA%DB%8C%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B8%D1%82%D0%B8%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%81%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%94%B2%E6%AE%BC%E8%B3%AA"
     },
     "properties": [
       {
@@ -7074,7 +7302,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Glycogeen",
       "de": "https://de.wikipedia.org/wiki/Glykogen",
       "fr": "https://fr.wikipedia.org/wiki/Glycog%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Glicogeno"
+      "it": "https://it.wikipedia.org/wiki/Glicogeno",
+      "es": "https://es.wikipedia.org/wiki/Gluc%C3%B3geno",
+      "fa": "https://fa.wikipedia.org/wiki/%DA%AF%D9%84%DB%8C%DA%A9%D9%88%DA%98%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%BB%D0%B8%D0%BA%D0%BE%D0%B3%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%82%B3%E3%83%BC%E3%82%B2%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%B3%96%E5%8E%9F"
     },
     "properties": [],
     "members": [
@@ -7132,7 +7365,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Maltodextrine",
       "de": "https://de.wikipedia.org/wiki/Maltodextrin",
       "fr": "https://fr.wikipedia.org/wiki/Maltodextrine",
-      "it": "https://it.wikipedia.org/wiki/Maltodestrina"
+      "it": "https://it.wikipedia.org/wiki/Maltodestrina",
+      "es": "https://es.wikipedia.org/wiki/Maltodextrina",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%84%D8%AA%D9%88%D8%AF%DA%A9%D8%B3%D8%AA%D8%B1%DB%8C%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D0%BE%D0%BA%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%88%E3%83%87%E3%82%AD%E3%82%B9%E3%83%88%E3%83%AA%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E9%BA%A5%E8%8A%BD%E7%B3%8A%E7%B2%BE"
     },
     "properties": [],
     "members": [
@@ -7191,7 +7429,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Nylon",
       "de": "https://de.wikipedia.org/wiki/Nylon_(Faser)",
       "fr": "https://fr.wikipedia.org/wiki/Nylon",
-      "it": "https://it.wikipedia.org/wiki/Nylon"
+      "it": "https://it.wikipedia.org/wiki/Nylon",
+      "es": "https://es.wikipedia.org/wiki/Nailon",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%86%D8%A7%DB%8C%D9%84%D9%88%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D0%BB%D0%BE%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E5%B0%BC%E9%BE%99"
     },
     "properties": [
       {
@@ -7245,7 +7488,10 @@
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Nylon_6",
           "de": "https://de.wikipedia.org/wiki/Polycaprolactam",
-          "fr": "https://fr.wikipedia.org/wiki/Nylon_6"
+          "fr": "https://fr.wikipedia.org/wiki/Nylon_6",
+          "es": "https://es.wikipedia.org/wiki/Nailon_6",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BF%D1%80%D0%BE%D0%BD",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B36"
         }
       },
       {
@@ -7257,7 +7503,10 @@
         "photos": [],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Nylon_66",
-          "de": "https://de.wikipedia.org/wiki/Nylon_66"
+          "de": "https://de.wikipedia.org/wiki/Nylon_66",
+          "es": "https://es.wikipedia.org/wiki/Nylon_6,6",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D0%BB%D0%BE%D0%BD-66",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B36,6"
         }
       },
       {
@@ -7367,7 +7616,9 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyglutamic_acid",
-      "de": "https://de.wikipedia.org/wiki/%CE%93-Polyglutamins%C3%A4ure"
+      "de": "https://de.wikipedia.org/wiki/%CE%93-Polyglutamins%C3%A4ure",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%B0%E3%83%AB%E3%82%BF%E3%83%9F%E3%83%B3%E9%85%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E8%B0%B7%E6%B0%A8%E9%85%B8"
     },
     "properties": [],
     "members": []
@@ -7421,7 +7672,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Amylose",
       "de": "https://de.wikipedia.org/wiki/Amylose",
       "fr": "https://fr.wikipedia.org/wiki/Amylose",
-      "it": "https://it.wikipedia.org/wiki/Amilosio"
+      "it": "https://it.wikipedia.org/wiki/Amilosio",
+      "es": "https://es.wikipedia.org/wiki/Amilosa",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A2%D9%85%DB%8C%D9%84%D9%88%D8%B2",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B8%D0%BB%D0%BE%D0%B7%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%AD%E3%83%BC%E3%82%B9",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%9B%B4%E9%8F%88%E6%BE%B1%E7%B2%89"
     },
     "properties": [],
     "members": []
@@ -7464,7 +7720,9 @@
       "en": "https://en.wikipedia.org/wiki/Zylon",
       "de": "https://de.wikipedia.org/wiki/Poly(p-phenylen-2,6-benzobisoxazol)",
       "fr": "https://fr.wikipedia.org/wiki/Zylon",
-      "it": "https://it.wikipedia.org/wiki/Zylon"
+      "it": "https://it.wikipedia.org/wiki/Zylon",
+      "es": "https://es.wikipedia.org/wiki/Zylon",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A4%E3%83%AD%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -7512,7 +7770,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Amylopectine",
       "de": "https://de.wikipedia.org/wiki/Amylopektin",
       "fr": "https://fr.wikipedia.org/wiki/Amylopectine",
-      "it": "https://it.wikipedia.org/wiki/Amilopectina"
+      "it": "https://it.wikipedia.org/wiki/Amilopectina",
+      "es": "https://es.wikipedia.org/wiki/Amilopectina",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A2%D9%85%DB%8C%D9%84%D9%88%D9%BE%DA%A9%D8%AA%DB%8C%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B8%D0%BB%D0%BE%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9F%E3%83%AD%E3%83%9A%E3%82%AF%E3%83%81%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E6%94%AF%E9%93%BE%E6%B7%80%E7%B2%89"
     },
     "properties": [
       {
@@ -7584,7 +7847,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Hyaluronan",
       "de": "https://de.wikipedia.org/wiki/Hyalurons%C3%A4ure",
       "fr": "https://fr.wikipedia.org/wiki/Acide_hyaluronique",
-      "it": "https://it.wikipedia.org/wiki/Acido_ialuronico"
+      "it": "https://it.wikipedia.org/wiki/Acido_ialuronico",
+      "es": "https://es.wikipedia.org/wiki/%C3%81cido_hialur%C3%B3nico",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%87%DB%8C%D8%A7%D9%84%D9%88%D8%B1%D9%88%D9%86%DB%8C%DA%A9_%D8%A7%D8%B3%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B0%D0%BB%D1%83%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%92%E3%82%A2%E3%83%AB%E3%83%AD%E3%83%B3%E9%85%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%8E%BB%E5%B0%BF%E9%85%B8"
     },
     "properties": [],
     "members": []
@@ -7648,7 +7916,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Chondro%C3%AFtine",
       "de": "https://de.wikipedia.org/wiki/Chondroitinsulfat",
       "fr": "https://fr.wikipedia.org/wiki/Sulfate_de_chondro%C3%AFtine",
-      "it": "https://it.wikipedia.org/wiki/Condroitina_solfato"
+      "it": "https://it.wikipedia.org/wiki/Condroitina_solfato",
+      "es": "https://es.wikipedia.org/wiki/Condroit%C3%ADn_sulfato",
+      "fa": "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%D8%AF%D8%B1%D9%88%D8%A7%DB%8C%D8%AA%DB%8C%D9%86_%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D0%BD%D0%B4%D1%80%D0%BE%D0%B8%D1%82%D0%B8%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%84%D0%B0%D1%82%D1%8B",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A4%E3%83%81%E3%83%B3%E7%A1%AB%E9%85%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0"
     },
     "properties": [],
     "members": [
@@ -7703,7 +7976,9 @@
       "en": "https://en.wikipedia.org/wiki/Polyhexanide",
       "nl": "https://nl.wikipedia.org/wiki/Polyhexanide",
       "de": "https://de.wikipedia.org/wiki/Polyhexanid",
-      "fr": "https://fr.wikipedia.org/wiki/Polyhexam%C3%A9thyl%C3%A8ne_biguanide"
+      "fr": "https://fr.wikipedia.org/wiki/Polyhexam%C3%A9thyl%C3%A8ne_biguanide",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%87%DA%AF%D8%B2%D8%A7%D9%86%DB%8C%D8%AF",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%98%E3%82%AD%E3%82%B5%E3%83%8B%E3%83%89"
     },
     "properties": [],
     "members": []
@@ -7755,7 +8030,11 @@
       "en": "https://en.wikipedia.org/wiki/Polyacrylic_acid",
       "nl": "https://nl.wikipedia.org/wiki/Polyacrylzuur",
       "de": "https://de.wikipedia.org/wiki/Polyacryls%C3%A4ure",
-      "fr": "https://fr.wikipedia.org/wiki/Acide_polyacrylique"
+      "fr": "https://fr.wikipedia.org/wiki/Acide_polyacrylique",
+      "es": "https://es.wikipedia.org/wiki/%C3%81cido_poliacr%C3%ADlico",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A2%DA%A9%D8%B1%DB%8C%D9%84%DB%8C%DA%A9_%D8%A7%D8%B3%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B0%D0%BA%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B8%99%E7%83%AF%E9%85%B8"
     },
     "properties": [
       {
@@ -7842,7 +8121,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyethyleenglycol",
       "de": "https://de.wikipedia.org/wiki/Polyethylenglycol",
       "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_glycol",
-      "it": "https://it.wikipedia.org/wiki/Glicole_polietilenico"
+      "it": "https://it.wikipedia.org/wiki/Glicole_polietilenico",
+      "es": "https://es.wikipedia.org/wiki/Polietilenglicol",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B3%D0%BB%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3%E3%82%B0%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E4%BA%8C%E9%86%87"
     },
     "properties": [
       {
@@ -7881,7 +8165,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "en": "https://en.wikipedia.org/wiki/PEG_400"
+          "en": "https://en.wikipedia.org/wiki/PEG_400",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%E2%80%8C%D8%A7%DB%8C%DB%8C%E2%80%8C%D8%AC%DB%8C_%DB%B4%DB%B0%DB%B0"
         }
       },
       {
@@ -7929,7 +8214,8 @@
       "en": "https://en.wikipedia.org/wiki/Ficoll",
       "nl": "https://nl.wikipedia.org/wiki/Ficoll",
       "de": "https://de.wikipedia.org/wiki/Saccharose-Epichlorhydrin-Copolymer",
-      "it": "https://it.wikipedia.org/wiki/Ficoll"
+      "it": "https://it.wikipedia.org/wiki/Ficoll",
+      "es": "https://es.wikipedia.org/wiki/Ficol"
     },
     "properties": [],
     "members": []
@@ -7963,7 +8249,8 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Diethylaminoethyl_cellulose",
       "de": "https://de.wikipedia.org/wiki/Diethylaminoethylcellulose",
-      "fr": "https://fr.wikipedia.org/wiki/Cellulose_di%C3%A9thylamino%C3%A9thyle"
+      "fr": "https://fr.wikipedia.org/wiki/Cellulose_di%C3%A9thylamino%C3%A9thyle",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A8%E3%83%81%E3%83%AB%E3%82%A2%E3%83%9F%E3%83%8E%E3%82%A8%E3%83%81%E3%83%AB%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9"
     },
     "properties": [],
     "members": []
@@ -8070,7 +8357,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polydimethylsiloxaan",
       "de": "https://de.wikipedia.org/wiki/Polydimethylsiloxan",
       "fr": "https://fr.wikipedia.org/wiki/Polydim%C3%A9thylsiloxane",
-      "it": "https://it.wikipedia.org/wiki/Polidimetilsilossano"
+      "it": "https://it.wikipedia.org/wiki/Polidimetilsilossano",
+      "es": "https://es.wikipedia.org/wiki/Polidimetilsiloxano",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%AF%DB%8C%E2%80%8C%D9%85%D8%AA%DB%8C%D9%84%E2%80%8C%D8%B3%DB%8C%D9%84%D9%88%DA%A9%D8%B3%D8%A7%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B4%D0%B8%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D1%81%D0%B8%D0%BB%D0%BE%D0%BA%D1%81%D0%B0%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A1%E3%83%81%E3%83%AB%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%AD%E3%82%AD%E3%82%B5%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%BA%8C%E7%94%B2%E5%9F%BA%E7%9F%BD%E6%B0%A7%E7%83%B7"
     },
     "properties": [],
     "members": []
@@ -8104,7 +8396,9 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cyanophycin",
       "de": "https://de.wikipedia.org/wiki/Cyanophycin",
-      "fr": "https://fr.wikipedia.org/wiki/Cyanophycine"
+      "fr": "https://fr.wikipedia.org/wiki/Cyanophycine",
+      "es": "https://es.wikipedia.org/wiki/Cianoficina",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%97%BB%E9%9D%92%E7%B4%A0"
     },
     "properties": [],
     "members": []
@@ -8214,7 +8508,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Polyvinylpyrrolidon",
       "de": "https://de.wikipedia.org/wiki/Polyvinylpyrrolidon",
       "fr": "https://fr.wikipedia.org/wiki/Polyvinylpyrrolidone",
-      "it": "https://it.wikipedia.org/wiki/Polivinilpirrolidone"
+      "it": "https://it.wikipedia.org/wiki/Polivinilpirrolidone",
+      "es": "https://es.wikipedia.org/wiki/Povidona_(pol%C3%ADmero)",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D9%88%DB%8C%D9%86%DB%8C%D9%84%E2%80%8C%D9%BE%DB%8C%D8%B1%D9%88%D9%84%DB%8C%D8%AF%D9%88%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D0%BD%D0%B8%D0%BB%D0%BF%D0%B8%D1%80%D1%80%D0%BE%D0%BB%D0%B8%D0%B4%D0%BE%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%93%E3%83%8B%E3%83%AB%E3%83%94%E3%83%AD%E3%83%AA%E3%83%89%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E7%83%AF%E5%90%A1%E5%92%AF%E7%83%B7%E9%85%AE"
     },
     "properties": [],
     "members": []
@@ -8269,7 +8568,11 @@
       "en": "https://en.wikipedia.org/wiki/Methyl_cellulose",
       "de": "https://de.wikipedia.org/wiki/Methylcellulose",
       "fr": "https://fr.wikipedia.org/wiki/M%C3%A9thylcellulose",
-      "it": "https://it.wikipedia.org/wiki/Metilcellulosa"
+      "it": "https://it.wikipedia.org/wiki/Metilcellulosa",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%85%D8%AA%DB%8C%D9%84_%D8%B3%D9%84%D9%88%D9%84%D8%B2",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B8%D0%BB%D1%86%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%81%E3%83%AB%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%94%B2%E5%9F%BA%E7%BA%96%E7%B6%AD%E7%B4%A0"
     },
     "properties": [],
     "members": []
@@ -8314,7 +8617,12 @@
       "en": "https://en.wikipedia.org/wiki/Enoxaparin_sodium",
       "de": "https://de.wikipedia.org/wiki/Enoxaparin-Natrium",
       "fr": "https://fr.wikipedia.org/wiki/%C3%89noxaparine",
-      "it": "https://it.wikipedia.org/wiki/Enoxaparina"
+      "it": "https://it.wikipedia.org/wiki/Enoxaparina",
+      "es": "https://es.wikipedia.org/wiki/Enoxaparina_s%C3%B3dica",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D9%88%DA%A9%D8%B3%D8%A7%D9%BE%D8%A7%D8%B1%DB%8C%D9%86_%D8%B3%D8%AF%DB%8C%D9%85",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BD%D0%BE%D0%BA%D1%81%D0%B0%D0%BF%D0%B0%D1%80%D0%B8%D0%BD_%D0%BD%D0%B0%D1%82%D1%80%D0%B8%D1%8F",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8E%E3%82%AD%E3%82%B5%E3%83%91%E3%83%AA%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E4%BE%9D%E8%AF%BA%E8%82%9D%E7%B4%A0%E9%92%A0"
     },
     "properties": [],
     "members": []
@@ -8360,7 +8668,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Polybutyleen",
       "de": "https://de.wikipedia.org/wiki/Polybuten",
       "fr": "https://fr.wikipedia.org/wiki/Polybut%C3%A8ne-1",
-      "it": "https://it.wikipedia.org/wiki/Polibutilene"
+      "it": "https://it.wikipedia.org/wiki/Polibutilene",
+      "es": "https://es.wikipedia.org/wiki/Polibutileno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A8%D9%88%D8%AA%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B1%D1%83%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B8%81%E7%83%AF"
     },
     "properties": [],
     "members": []
@@ -8409,7 +8721,12 @@
       "en": "https://en.wikipedia.org/wiki/Paraformaldehyde",
       "nl": "https://nl.wikipedia.org/wiki/Paraformaldehyde",
       "de": "https://de.wikipedia.org/wiki/Paraformaldehyd",
-      "it": "https://it.wikipedia.org/wiki/Paraformaldeide"
+      "it": "https://it.wikipedia.org/wiki/Paraformaldeide",
+      "es": "https://es.wikipedia.org/wiki/Paraformaldeh%C3%ADdo",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%D8%A7%D9%81%D8%B1%D9%85%D8%A7%D9%84%D8%AF%D9%87%DB%8C%D8%AF",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%B3%D0%B8%D0%B4",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%A2%E3%83%AB%E3%83%87%E3%83%92%E3%83%89",
+      "zh": "https://zh.wikipedia.org/wiki/%E5%A4%9A%E8%81%9A%E7%94%B2%E9%86%9B"
     },
     "properties": [],
     "members": []
@@ -8456,7 +8773,11 @@
       "en": "https://en.wikipedia.org/wiki/Polyethylenimine",
       "nl": "https://nl.wikipedia.org/wiki/Polyethyleenimine",
       "de": "https://de.wikipedia.org/wiki/Polyethylenimin",
-      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8neimine"
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8neimine",
+      "es": "https://es.wikipedia.org/wiki/Polietilenimina",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86%E2%80%8C%D8%A7%DB%8C%D9%85%DB%8C%D9%86",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3%E3%82%A4%E3%83%9F%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E7%83%AF%E4%BA%9A%E8%83%BA"
     },
     "properties": [],
     "members": []
@@ -8499,7 +8820,11 @@
       "en": "https://en.wikipedia.org/wiki/Polyacetylene",
       "de": "https://de.wikipedia.org/wiki/Polyethin",
       "fr": "https://fr.wikipedia.org/wiki/Polyac%C3%A9tyl%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Poliacetilene"
+      "it": "https://it.wikipedia.org/wiki/Poliacetilene",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%B3%D8%AA%DB%8C%D9%84%D9%86",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B0%D1%86%D0%B5%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%A2%E3%82%BB%E3%83%81%E3%83%AC%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E4%B9%99%E7%82%94"
     },
     "properties": [],
     "members": []
@@ -8543,7 +8868,9 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Policosanol",
       "de": "https://de.wikipedia.org/wiki/Policosanol",
-      "it": "https://it.wikipedia.org/wiki/Policosanoli"
+      "it": "https://it.wikipedia.org/wiki/Policosanoli",
+      "es": "https://es.wikipedia.org/wiki/Policosanol",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BA%D0%BE%D0%B7%D0%B0%D0%BD%D0%BE%D0%BB"
     },
     "properties": [],
     "members": []
@@ -8591,7 +8918,10 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ethyl_cellulose",
       "de": "https://de.wikipedia.org/wiki/Ethylcellulose",
-      "fr": "https://fr.wikipedia.org/wiki/%C3%89thylcellulose"
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thylcellulose",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%DB%8C%D9%84_%D8%B3%D9%84%D9%88%D9%84%D8%B2",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%B8%D0%BB%D1%86%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%83%AB%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9"
     },
     "properties": [],
     "members": []
@@ -8624,7 +8954,9 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/PEDOT:PSS",
-      "fr": "https://fr.wikipedia.org/wiki/PEDOT:PSS"
+      "fr": "https://fr.wikipedia.org/wiki/PEDOT:PSS",
+      "es": "https://es.wikipedia.org/wiki/PEDOT:PSS",
+      "fa": "https://fa.wikipedia.org/wiki/PEDOT:PSS"
     },
     "properties": [],
     "members": []
@@ -8666,7 +8998,11 @@
       "nl": "https://nl.wikipedia.org/wiki/Guttapercha",
       "de": "https://de.wikipedia.org/wiki/Guttapercha",
       "fr": "https://fr.wikipedia.org/wiki/Gutta-percha",
-      "it": "https://it.wikipedia.org/wiki/Guttaperca"
+      "it": "https://it.wikipedia.org/wiki/Guttaperca",
+      "es": "https://es.wikipedia.org/wiki/Gutapercha",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%93%D1%83%D1%82%D1%82%D0%B0%D0%BF%D0%B5%D1%80%D1%87%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%BF%E3%83%91%E3%83%BC%E3%83%81%E3%83%A3",
+      "zh": "https://zh.wikipedia.org/wiki/%E5%8F%A4%E5%A1%94%E8%83%B6"
     },
     "properties": [],
     "members": []
@@ -8718,7 +9054,10 @@
       "en": "https://en.wikipedia.org/wiki/Polyglycolide",
       "de": "https://de.wikipedia.org/wiki/Polyhydroxyessigs%C3%A4ure",
       "fr": "https://fr.wikipedia.org/wiki/Acide_polyglycolique",
-      "it": "https://it.wikipedia.org/wiki/Acido_poliglicolico"
+      "it": "https://it.wikipedia.org/wiki/Acido_poliglicolico",
+      "es": "https://es.wikipedia.org/wiki/%C3%81cido_poliglic%C3%B3lico",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%DA%AF%D9%84%DB%8C%DA%A9%D9%88%D9%84%DB%8C%D8%AF",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%B0%E3%83%AA%E3%82%B3%E3%83%BC%E3%83%AB%E9%85%B8"
     },
     "properties": [],
     "members": []
@@ -8767,7 +9106,10 @@
       "en": "https://en.wikipedia.org/wiki/Polyhydroxybutyrate",
       "de": "https://de.wikipedia.org/wiki/Polyhydroxybutters%C3%A4ure",
       "fr": "https://fr.wikipedia.org/wiki/Poly-%CE%B2-hydroxybutyrate",
-      "it": "https://it.wikipedia.org/wiki/Poli-%CE%B2-idrossibutirrato"
+      "it": "https://it.wikipedia.org/wiki/Poli-%CE%B2-idrossibutirrato",
+      "es": "https://es.wikipedia.org/wiki/%C3%81cido_polihidroxibut%C3%ADrico",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%92%E3%83%89%E3%83%AD%E3%82%AD%E3%82%B7%E9%85%AA%E9%85%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E7%BE%9F%E5%9F%BA%E4%B8%81%E9%85%B8%E9%85%AF"
     },
     "properties": [],
     "members": []
@@ -8818,7 +9160,11 @@
       "en": "https://en.wikipedia.org/wiki/Heparan_sulfate",
       "de": "https://de.wikipedia.org/wiki/Heparansulfat",
       "fr": "https://fr.wikipedia.org/wiki/Sulfate_d%27h%C3%A9parane",
-      "it": "https://it.wikipedia.org/wiki/Eparan_solfato"
+      "it": "https://it.wikipedia.org/wiki/Eparan_solfato",
+      "es": "https://es.wikipedia.org/wiki/Hepar%C3%A1n_sulfato",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%87%D9%BE%D8%A7%D8%B1%D8%A7%D9%86_%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%91%E3%83%A9%E3%83%B3%E7%A1%AB%E9%85%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%A1%AB%E9%85%B8%E4%B9%99%E9%85%B0%E8%82%9D%E7%B4%A0"
     },
     "properties": [],
     "members": []
@@ -8855,7 +9201,11 @@
       "en": "https://en.wikipedia.org/wiki/Callose",
       "de": "https://de.wikipedia.org/wiki/Callose",
       "fr": "https://fr.wikipedia.org/wiki/Callose",
-      "it": "https://it.wikipedia.org/wiki/Callosio"
+      "it": "https://it.wikipedia.org/wiki/Callosio",
+      "es": "https://es.wikipedia.org/wiki/Calosa",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BB%D0%BB%D0%BE%D0%B7%D0%B0",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AD%E3%83%BC%E3%82%B9",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%83%BC%E8%83%9D%E8%B3%AA"
     },
     "properties": [],
     "members": []
@@ -8893,7 +9243,9 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Parylene",
       "de": "https://de.wikipedia.org/wiki/Parylene",
-      "fr": "https://fr.wikipedia.org/wiki/Paryl%C3%A8ne"
+      "fr": "https://fr.wikipedia.org/wiki/Paryl%C3%A8ne",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8-%D0%BF%D0%B0%D1%80%D0%B0-%D0%BA%D1%81%D0%B8%D0%BB%D0%B8%D0%BB%D0%B5%D0%BD",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%AF%B9%E4%BA%8C%E7%94%B2%E8%8B%AF"
     },
     "properties": [],
     "members": []
@@ -8932,7 +9284,11 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ultra-high-molecular-weight_polyethylene",
       "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_de_masse_molaire_tr%C3%A8s_%C3%A9lev%C3%A9e",
-      "it": "https://it.wikipedia.org/wiki/Polietilene_ad_altissimo_peso_molecolare"
+      "it": "https://it.wikipedia.org/wiki/Polietilene_ad_altissimo_peso_molecolare",
+      "es": "https://es.wikipedia.org/wiki/Polietileno_de_ultra_alto_peso_molecular",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%D8%A8%D8%A7_%D9%88%D8%B2%D9%86_%D9%85%D9%88%D9%84%DA%A9%D9%88%D9%84%DB%8C_%D8%A8%D8%B3%DB%8C%D8%A7%D8%B1_%D8%A8%D8%A7%D9%84%D8%A7",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%BC%D0%BE%D0%BB%D0%B5%D0%BA%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD_%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B8",
+      "ja": "https://ja.wikipedia.org/wiki/%E8%B6%85%E9%AB%98%E5%88%86%E5%AD%90%E9%87%8F%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -9032,7 +9388,11 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Lipoteichoic_acid",
-      "fr": "https://fr.wikipedia.org/wiki/Acide_lipot%C3%A9icho%C3%AFque"
+      "fr": "https://fr.wikipedia.org/wiki/Acide_lipot%C3%A9icho%C3%AFque",
+      "es": "https://es.wikipedia.org/wiki/%C3%81cido_lipoteicoico",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B9%D1%85%D0%BE%D0%B5%D0%B2%D1%8B%D0%B5_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%9D%E3%82%BF%E3%82%A4%E3%82%B3%E9%85%B8",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%84%82%E5%A3%81%E9%85%B8"
     },
     "properties": [],
     "members": []
@@ -9068,7 +9428,12 @@
       "nl": "https://nl.wikipedia.org/wiki/Thermoharder",
       "de": "https://de.wikipedia.org/wiki/Duroplaste",
       "fr": "https://fr.wikipedia.org/wiki/Thermodurcissable",
-      "it": "https://it.wikipedia.org/wiki/Polimeri_termoindurenti"
+      "it": "https://it.wikipedia.org/wiki/Polimeri_termoindurenti",
+      "es": "https://es.wikipedia.org/wiki/Pl%C3%A1stico_termoestable",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%D9%85%D8%B1_%DA%AF%D8%B1%D9%85%D8%A7%D8%B3%D8%AE%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B0%D0%BA%D1%82%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D1%8B",
+      "ja": "https://ja.wikipedia.org/wiki/%E7%86%B1%E7%A1%AC%E5%8C%96%E6%80%A7%E6%A8%B9%E8%84%82",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%83%AD%E5%9B%BA%E6%80%A7%E8%81%9A%E5%90%88%E7%89%A9"
     },
     "properties": [],
     "members": [
@@ -9085,7 +9450,10 @@
         ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Polymer_clay",
-          "it": "https://it.wikipedia.org/wiki/Argilla_polimerica"
+          "it": "https://it.wikipedia.org/wiki/Argilla_polimerica",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B3_%D8%A8%D8%B3%D9%BE%D8%A7%D8%B1",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D0%BB%D0%B8%D0%BD%D0%B0",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%BD%AF%E9%99%B6"
         }
       },
       {
@@ -9105,7 +9473,12 @@
           "en": "https://en.wikipedia.org/wiki/Urea-formaldehyde",
           "nl": "https://nl.wikipedia.org/wiki/Ureumformaldehyde",
           "de": "https://de.wikipedia.org/wiki/Harnstoffharz",
-          "fr": "https://fr.wikipedia.org/wiki/Mousse_isolante_d%27ur%C3%A9e-formald%C3%A9hyde"
+          "fr": "https://fr.wikipedia.org/wiki/Mousse_isolante_d%27ur%C3%A9e-formald%C3%A9hyde",
+          "es": "https://es.wikipedia.org/wiki/Urea_formaldeh%C3%ADdo",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%A7%D9%88%D8%B1%D9%87_%D9%81%D8%B1%D9%85%D8%A7%D9%84%D8%AF%D9%87%DB%8C%D8%AF",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%B0%D0%BC%D0%B8%D0%B4%D0%BE%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%B3%D0%B8%D0%B4%D0%BD%D0%B0%D1%8F_%D1%81%D0%BC%D0%BE%D0%BB%D0%B0",
+          "ja": "https://ja.wikipedia.org/wiki/%E5%B0%BF%E7%B4%A0%E6%A8%B9%E8%84%82",
+          "zh": "https://zh.wikipedia.org/wiki/%E5%B0%BF%E7%B4%A0%E7%94%B2%E9%86%9B%E6%A8%B9%E8%84%82"
         }
       },
       {
@@ -9118,7 +9491,8 @@
           "nl": "https://nl.wikipedia.org/wiki/Fimo-klei",
           "de": "https://de.wikipedia.org/wiki/Fimo",
           "fr": "https://fr.wikipedia.org/wiki/P%C3%A2te_Fimo",
-          "it": "https://it.wikipedia.org/wiki/Fimo"
+          "it": "https://it.wikipedia.org/wiki/Fimo",
+          "es": "https://es.wikipedia.org/wiki/Fimo_(pasta_moldeable)"
         }
       },
       {
@@ -9128,7 +9502,8 @@
         "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/Aminoplast",
-          "fr": "https://fr.wikipedia.org/wiki/Aminoplaste"
+          "fr": "https://fr.wikipedia.org/wiki/Aminoplaste",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B8%D0%BD%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D1%8B"
         }
       },
       {
@@ -9148,7 +9523,9 @@
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Duroplast",
           "nl": "https://nl.wikipedia.org/wiki/Duroplast",
-          "fr": "https://fr.wikipedia.org/wiki/Duroplast"
+          "fr": "https://fr.wikipedia.org/wiki/Duroplast",
+          "es": "https://es.wikipedia.org/wiki/Duroplast",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D9%88%D9%BE%D9%84%D8%A7%D8%B3%D8%AA"
         }
       },
       {
@@ -9160,7 +9537,10 @@
           "en": "https://en.wikipedia.org/wiki/Melamine_resin",
           "de": "https://de.wikipedia.org/wiki/Melaminharz",
           "fr": "https://fr.wikipedia.org/wiki/M%C3%A9lamine_(r%C3%A9sine)",
-          "it": "https://it.wikipedia.org/wiki/Resina_melamminica"
+          "it": "https://it.wikipedia.org/wiki/Resina_melamminica",
+          "fa": "https://fa.wikipedia.org/wiki/%D8%B1%D8%B2%DB%8C%D9%86_%D9%85%D9%84%D8%A7%D9%85%DB%8C%D9%86",
+          "ja": "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A9%E3%83%9F%E3%83%B3%E6%A8%B9%E8%84%82",
+          "zh": "https://zh.wikipedia.org/wiki/%E4%B8%89%E8%81%9A%E6%B0%B0%E8%83%BA-%E7%94%B2%E9%86%9B%E6%A0%91%E8%84%82"
         }
       },
       {
@@ -9217,7 +9597,9 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Colesevelam",
       "de": "https://de.wikipedia.org/wiki/Colesevelam",
-      "it": "https://it.wikipedia.org/wiki/Colesevelam"
+      "it": "https://it.wikipedia.org/wiki/Colesevelam",
+      "es": "https://es.wikipedia.org/wiki/Colesevelam",
+      "fa": "https://fa.wikipedia.org/wiki/%DA%A9%D9%84%D8%B3%D9%88%D9%84%D8%A7%D9%85"
     },
     "properties": [
       {
@@ -9303,7 +9685,9 @@
       "en": "https://en.wikipedia.org/wiki/Hypalon",
       "nl": "https://nl.wikipedia.org/wiki/Hypalon",
       "de": "https://de.wikipedia.org/wiki/Hypalon",
-      "fr": "https://fr.wikipedia.org/wiki/Hypalon"
+      "fr": "https://fr.wikipedia.org/wiki/Hypalon",
+      "es": "https://es.wikipedia.org/wiki/Hypalon",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%AD%E3%82%B9%E3%83%AB%E3%83%9B%E3%83%B3%E5%8C%96%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -9370,7 +9754,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polybutene",
-      "fr": "https://fr.wikipedia.org/wiki/Polybut%C3%A8ne"
+      "fr": "https://fr.wikipedia.org/wiki/Polybut%C3%A8ne",
+      "es": "https://es.wikipedia.org/wiki/Polibuteno"
     },
     "properties": [],
     "members": []
@@ -9414,7 +9799,10 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polythiazyl",
       "de": "https://de.wikipedia.org/wiki/Polythiazyl",
-      "fr": "https://fr.wikipedia.org/wiki/Polythiazyle"
+      "fr": "https://fr.wikipedia.org/wiki/Polythiazyle",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%AA%DB%8C%D8%A7%D8%B2%DB%8C%D9%84",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%B0%D0%B7%D0%B8%D0%BB",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E6%B0%AE%E5%8C%96%E7%A1%AB"
     },
     "properties": [],
     "members": []
@@ -9479,7 +9867,8 @@
       "openalex": []
     },
     "wikipedia": {
-      "de": "https://de.wikipedia.org/wiki/Kollodiumwolle"
+      "de": "https://de.wikipedia.org/wiki/Kollodiumwolle",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B8%D0%BD%D0%B8%D1%82%D1%80%D0%BE%D1%86%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0"
     },
     "properties": [],
     "members": []
@@ -9572,7 +9961,10 @@
       "nl": "https://nl.wikipedia.org/wiki/Lagedichtheidpolyetheen",
       "de": "https://de.wikipedia.org/wiki/Polyethylen_niedriger_Dichte",
       "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_basse_densit%C3%A9",
-      "it": "https://it.wikipedia.org/wiki/Polietilene_a_bassa_densit%C3%A0"
+      "it": "https://it.wikipedia.org/wiki/Polietilene_a_bassa_densit%C3%A0",
+      "es": "https://es.wikipedia.org/wiki/Polietileno_de_baja_densidad",
+      "ja": "https://ja.wikipedia.org/wiki/%E4%BD%8E%E5%AF%86%E5%BA%A6%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E4%BD%8E%E5%AF%86%E5%BA%A6%E8%81%9A%E4%B9%99%E7%83%AF"
     },
     "properties": [
       {
@@ -9873,7 +10265,8 @@
     },
     "wikipedia": {
       "de": "https://de.wikipedia.org/wiki/Poly(3-hexylthiophen-2,5-diyl)",
-      "fr": "https://fr.wikipedia.org/wiki/P3HT"
+      "fr": "https://fr.wikipedia.org/wiki/P3HT",
+      "es": "https://es.wikipedia.org/wiki/P3HT"
     },
     "properties": [],
     "members": []
@@ -9942,7 +10335,8 @@
       "en": "https://en.wikipedia.org/wiki/Polytrimethylene_terephthalate",
       "nl": "https://nl.wikipedia.org/wiki/Poly(trimethyleentereftalaat)",
       "de": "https://de.wikipedia.org/wiki/Polytrimethylenterephthalat",
-      "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_de_trim%C3%A9thyl%C3%A8ne"
+      "fr": "https://fr.wikipedia.org/wiki/Polyt%C3%A9r%C3%A9phtalate_de_trim%C3%A9thyl%C3%A8ne",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%AA%D8%B1%DB%8C%E2%80%8C%D9%85%D8%AA%DB%8C%D9%84%D9%86_%D8%AA%D8%B1%D9%81%D8%AA%D8%A7%D9%84%D8%A7%D8%AA"
     },
     "properties": [],
     "members": [
@@ -9952,7 +10346,8 @@
         "cxsmiles": [],
         "photos": [],
         "wikipedia": {
-          "en": "https://en.wikipedia.org/wiki/Sorona"
+          "en": "https://en.wikipedia.org/wiki/Sorona",
+          "es": "https://es.wikipedia.org/wiki/Sorona_(pol%C3%ADmero)"
         }
       }
     ]
@@ -10002,7 +10397,10 @@
       "en": "https://en.wikipedia.org/wiki/Nomex",
       "de": "https://de.wikipedia.org/wiki/Nomex",
       "fr": "https://fr.wikipedia.org/wiki/Nomex",
-      "it": "https://it.wikipedia.org/wiki/Nomex"
+      "it": "https://it.wikipedia.org/wiki/Nomex",
+      "es": "https://es.wikipedia.org/wiki/Nomex",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%86%D9%88%D9%85%DA%A9%D8%B3",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%A1%E3%83%83%E3%82%AF%E3%82%B9"
     },
     "properties": [],
     "members": []
@@ -10053,7 +10451,11 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Dermatan_sulfate",
-      "it": "https://it.wikipedia.org/wiki/Dermatan_solfato"
+      "it": "https://it.wikipedia.org/wiki/Dermatan_solfato",
+      "es": "https://es.wikipedia.org/wiki/Dermat%C3%A1n_sulfato",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D9%85%D8%A7%D8%AA%D8%A7%D9%86_%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%BC%D0%B0%D1%82%D0%B0%D0%BD%D1%81%D1%83%D0%BB%D1%8C%D1%84%D0%B0%D1%82",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%AB%E3%83%9E%E3%82%BF%E3%83%B3%E7%A1%AB%E9%85%B8"
     },
     "properties": [],
     "members": []
@@ -10169,7 +10571,10 @@
       "en": "https://en.wikipedia.org/wiki/Polythiophene",
       "de": "https://de.wikipedia.org/wiki/Polythiophene",
       "fr": "https://fr.wikipedia.org/wiki/Polythioph%C3%A8ne",
-      "it": "https://it.wikipedia.org/wiki/Politiofene"
+      "it": "https://it.wikipedia.org/wiki/Politiofene",
+      "es": "https://es.wikipedia.org/wiki/Politiofeno",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%81%E3%82%AA%E3%83%95%E3%82%A7%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%99%BB%E5%90%A9"
     },
     "properties": [],
     "members": []
@@ -10223,7 +10628,10 @@
       "en": "https://en.wikipedia.org/wiki/High-density_polyethylene",
       "nl": "https://nl.wikipedia.org/wiki/Hoge-dichtheidspolyetheen",
       "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_haute_densit%C3%A9",
-      "it": "https://it.wikipedia.org/wiki/Polietilene_ad_alta_densit%C3%A0"
+      "it": "https://it.wikipedia.org/wiki/Polietilene_ad_alta_densit%C3%A0",
+      "es": "https://es.wikipedia.org/wiki/Polietileno_de_alta_densidad",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%DA%86%DA%AF%D8%A7%D9%84%DB%8C_%D8%A8%D8%A7%D9%84%D8%A7",
+      "ja": "https://ja.wikipedia.org/wiki/%E9%AB%98%E5%AF%86%E5%BA%A6%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
     },
     "properties": [
       {
@@ -10538,7 +10946,11 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cross-linked_polyethylene",
       "de": "https://de.wikipedia.org/wiki/Vernetztes_Polyethylen",
-      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_r%C3%A9ticul%C3%A9"
+      "fr": "https://fr.wikipedia.org/wiki/Poly%C3%A9thyl%C3%A8ne_r%C3%A9ticul%C3%A9",
+      "es": "https://es.wikipedia.org/wiki/Polietileno_reticulado",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C%D8%A7%D8%AA%DB%8C%D9%84%D9%86_%D9%85%D8%B4%D8%A8%DA%A9",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A1%D1%88%D0%B8%D1%82%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BB%D0%B8%D1%8D%D1%82%D0%B8%D0%BB%D0%B5%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E6%9E%B6%E6%A9%8B%E3%83%9D%E3%83%AA%E3%82%A8%E3%83%81%E3%83%AC%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -10581,7 +10993,8 @@
       "en": "https://en.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
       "nl": "https://nl.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
       "fr": "https://fr.wikipedia.org/wiki/Poly(N-isopropylacrylamide)",
-      "it": "https://it.wikipedia.org/wiki/PNIPPA"
+      "it": "https://it.wikipedia.org/wiki/PNIPPA",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C(%D8%A7%D9%86-%D8%A7%DB%8C%D8%B2%D9%88%D9%BE%D8%B1%D9%88%D9%BE%DB%8C%D9%84%E2%80%8C%D8%A7%DA%A9%D8%B1%DB%8C%D9%84%E2%80%8C%D8%A2%D9%85%DB%8C%D8%AF)"
     },
     "properties": [],
     "members": []
@@ -10621,7 +11034,10 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polystyrene_sulfonate",
-      "fr": "https://fr.wikipedia.org/wiki/Poly(styr%C3%A8ne_sulfonate)_de_sodium"
+      "fr": "https://fr.wikipedia.org/wiki/Poly(styr%C3%A8ne_sulfonate)_de_sodium",
+      "es": "https://es.wikipedia.org/wiki/Sulfonato_de_poliestireno",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D8%A7%D8%B3%D8%AA%D8%A7%DB%8C%D8%B1%D9%86_%D8%B3%D9%88%D9%84%D9%81%D9%88%D9%86%D8%A7%D8%AA",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E8%8B%AF%E4%B9%99%E7%83%AF%E7%A3%BA%E9%85%B8"
     },
     "properties": [
       {
@@ -10764,7 +11180,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Formazine",
-      "it": "https://it.wikipedia.org/wiki/Formazina"
+      "it": "https://it.wikipedia.org/wiki/Formazina",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D0%B7%D0%B8%D0%BD"
     },
     "properties": [],
     "members": []
@@ -10837,7 +11254,9 @@
     },
     "wikipedia": {
       "fr": "https://fr.wikipedia.org/wiki/Carbom%C3%A8re",
-      "it": "https://it.wikipedia.org/wiki/Polimero_carbossivinilico"
+      "it": "https://it.wikipedia.org/wiki/Polimero_carbossivinilico",
+      "es": "https://es.wikipedia.org/wiki/Carbopol",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%BE%D0%BF%D0%BE%D0%BB%D1%8B"
     },
     "properties": [],
     "members": []
@@ -10878,7 +11297,9 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Cellulose_acetate_butyrate",
-      "de": "https://de.wikipedia.org/wiki/Celluloseacetatbutyrat"
+      "de": "https://de.wikipedia.org/wiki/Celluloseacetatbutyrat",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%90%D1%86%D0%B5%D1%82%D0%BE%D0%B1%D1%83%D1%82%D0%B8%D1%80%D0%B0%D1%82_%D1%86%D0%B5%D0%BB%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D1%8B",
+      "zh": "https://zh.wikipedia.org/wiki/%E4%B9%99%E9%85%B8%E4%B8%81%E9%85%B8%E7%BA%96%E7%B6%AD%E7%B4%A0"
     },
     "properties": [],
     "members": []
@@ -10974,7 +11395,9 @@
       "mesh": [],
       "openalex": []
     },
-    "wikipedia": {},
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%B1%D0%B0%D0%BC%D0%B8%D0%B4%D0%BD%D0%BE-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%B4%D0%B5%D0%B3%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D0%B5%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82"
+    },
     "properties": [],
     "members": []
   },
@@ -11052,7 +11475,10 @@
       ]
     },
     "wikipedia": {
-      "en": "https://en.wikipedia.org/wiki/Poly(methacrylic_acid)"
+      "en": "https://en.wikipedia.org/wiki/Poly(methacrylic_acid)",
+      "es": "https://es.wikipedia.org/wiki/%C3%81cido_polimetacr%C3%ADlico",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_(%D9%85%D8%AA%D8%A7%DA%A9%D8%B1%DB%8C%D9%84%DB%8C%DA%A9_%D8%A7%D8%B3%DB%8C%D8%AF)",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%82%D0%B0%D0%BA%D1%80%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0"
     },
     "properties": [],
     "members": []
@@ -11087,7 +11513,9 @@
       "mesh": [],
       "openalex": []
     },
-    "wikipedia": {},
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%80%D0%B0%D0%BB"
+    },
     "properties": [],
     "members": []
   },
@@ -11121,7 +11549,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Fluoroelastomer",
-      "fr": "https://fr.wikipedia.org/wiki/Fluoro%C3%A9lastom%C3%A8re"
+      "fr": "https://fr.wikipedia.org/wiki/Fluoro%C3%A9lastom%C3%A8re",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A4%D1%82%D0%BE%D1%80%D0%BA%D0%B0%D1%83%D1%87%D1%83%D0%BA%D0%B8"
     },
     "properties": [],
     "members": []
@@ -11153,7 +11582,8 @@
       "openalex": []
     },
     "wikipedia": {
-      "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat"
+      "de": "https://de.wikipedia.org/wiki/Cellulosetrinitrat",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%80%D0%BE%D0%BA%D1%81%D0%B8%D0%BB%D0%B8%D0%BD"
     },
     "properties": [],
     "members": []
@@ -11191,7 +11621,10 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Anoxomer",
       "de": "https://de.wikipedia.org/wiki/Anoxomer",
-      "fr": "https://fr.wikipedia.org/wiki/Anoxom%C3%A8re"
+      "fr": "https://fr.wikipedia.org/wiki/Anoxom%C3%A8re",
+      "es": "https://es.wikipedia.org/wiki/Anox%C3%B3mero",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D9%88%DA%A9%D8%B3%D9%88%D9%85%D8%B1",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8E%E3%82%AD%E3%82%BD%E3%83%9E%E3%83%BC"
     },
     "properties": [],
     "members": []
@@ -11264,7 +11697,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Compound_48/80",
-      "fr": "https://fr.wikipedia.org/wiki/Compos%C3%A9_48/80"
+      "fr": "https://fr.wikipedia.org/wiki/Compos%C3%A9_48/80",
+      "zh": "https://zh.wikipedia.org/wiki/%E5%8C%96%E5%90%88%E7%89%A948/80"
     },
     "properties": [],
     "members": []
@@ -11328,7 +11762,8 @@
       "openalex": []
     },
     "wikipedia": {
-      "en": "https://en.wikipedia.org/wiki/Flubber_(material)"
+      "en": "https://en.wikipedia.org/wiki/Flubber_(material)",
+      "es": "https://es.wikipedia.org/wiki/Flubber_(material)"
     },
     "properties": [],
     "members": []
@@ -11361,7 +11796,9 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Graphitic_carbon_nitride",
-      "fr": "https://fr.wikipedia.org/wiki/Nitrure_de_carbone_graphitique"
+      "fr": "https://fr.wikipedia.org/wiki/Nitrure_de_carbone_graphitique",
+      "fa": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A8%D9%86_%D9%86%DB%8C%D8%AA%D8%B1%DB%8C%D8%AF_%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%D8%AA%DB%8C",
+      "zh": "https://zh.wikipedia.org/wiki/%E7%9F%B3%E5%A2%A8%E6%B0%AE%E5%8C%96%E7%A2%B3"
     },
     "properties": [],
     "members": []
@@ -11413,7 +11850,10 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Nylon_66",
-      "de": "https://de.wikipedia.org/wiki/Nylon_66"
+      "de": "https://de.wikipedia.org/wiki/Nylon_66",
+      "es": "https://es.wikipedia.org/wiki/Nylon_6,6",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D0%B9%D0%BB%D0%BE%D0%BD-66",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%83%AD%E3%83%B36,6"
     },
     "properties": [
       {
@@ -11591,7 +12031,8 @@
       "openalex": []
     },
     "wikipedia": {
-      "en": "https://en.wikipedia.org/wiki/PHBV"
+      "en": "https://en.wikipedia.org/wiki/PHBV",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C_%D9%87%DB%8C%D8%AF%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%A8%D9%88%D8%AA%DB%8C%D8%B1%D8%A7%D8%AA_%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%AA"
     },
     "properties": [],
     "members": []
@@ -11846,7 +12287,11 @@
           "en": "https://en.wikipedia.org/wiki/Poly(p-phenylene_oxide)",
           "de": "https://de.wikipedia.org/wiki/Polyphenylenether",
           "fr": "https://fr.wikipedia.org/wiki/Poly(oxyde_de_ph%C3%A9nyl%C3%A8ne)",
-          "it": "https://it.wikipedia.org/wiki/Polifenilenossido"
+          "it": "https://it.wikipedia.org/wiki/Polifenilenossido",
+          "es": "https://es.wikipedia.org/wiki/%C3%93xido_de_polifenileno",
+          "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%E2%80%8C(%D9%BE%DB%8C-%D9%81%D9%86%DB%8C%D9%84%D9%86_%D8%A7%DA%A9%D8%B3%DB%8C%D8%AF)",
+          "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D1%84%D0%B5%D0%BD%D0%B8%D0%BB%D0%B5%D0%BD%D0%BE%D0%BA%D1%81%D0%B8%D0%B4",
+          "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E6%B0%A7%E4%BA%8C%E7%94%B2%E8%8B%AF"
         }
       }
     ]
@@ -12034,7 +12479,8 @@
       "openalex": []
     },
     "wikipedia": {
-      "en": "https://en.wikipedia.org/wiki/Thermoplastic_olefin"
+      "en": "https://en.wikipedia.org/wiki/Thermoplastic_olefin",
+      "es": "https://es.wikipedia.org/wiki/Elast%C3%B3meros_termopl%C3%A1sticos_de_olefinas"
     },
     "properties": [],
     "members": []
@@ -12340,7 +12786,8 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(3,4-ethylenedioxythiophene)",
       "de": "https://de.wikipedia.org/wiki/Poly-3,4-ethylendioxythiophen",
-      "fr": "https://fr.wikipedia.org/wiki/Poly(3,4-%C3%A9thyl%C3%A8nedioxythioph%C3%A8ne)"
+      "fr": "https://fr.wikipedia.org/wiki/Poly(3,4-%C3%A9thyl%C3%A8nedioxythioph%C3%A8ne)",
+      "es": "https://es.wikipedia.org/wiki/PEDOT"
     },
     "properties": [],
     "members": []
@@ -12605,7 +13052,8 @@
       "openalex": []
     },
     "wikipedia": {
-      "en": "https://en.wikipedia.org/wiki/Thiokol_(polymer)"
+      "en": "https://en.wikipedia.org/wiki/Thiokol_(polymer)",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B8%D0%BE%D0%BA%D0%BE%D0%BB"
     },
     "properties": [],
     "members": []
@@ -12698,7 +13146,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Star-shaped_polymer",
-      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A8re_en_%C3%A9toile"
+      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A8re_en_%C3%A9toile",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C%D9%85%D8%B1%D9%87%D8%A7%DB%8C_%D8%B3%D8%AA%D8%A7%D8%B1%D9%87%E2%80%8C%D8%A7%DB%8C"
     },
     "properties": [],
     "members": []
@@ -12893,7 +13342,9 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Ethyl_methyl_cellulose",
       "de": "https://de.wikipedia.org/wiki/Methylethylcellulose",
-      "fr": "https://fr.wikipedia.org/wiki/%C3%89thylm%C3%A9thylcellulose"
+      "fr": "https://fr.wikipedia.org/wiki/%C3%89thylm%C3%A9thylcellulose",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A7%D8%AA%DB%8C%D9%84_%D9%85%D8%AA%DB%8C%D9%84_%D8%B3%D9%84%D9%88%D9%84%D8%B2",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%83%AB%E3%83%A1%E3%83%81%E3%83%AB%E3%82%BB%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%B9"
     },
     "properties": [],
     "members": []
@@ -12926,7 +13377,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyoxymethylene_dimethyl_ethers",
-      "de": "https://de.wikipedia.org/wiki/Polyoxymethylendimethylether"
+      "de": "https://de.wikipedia.org/wiki/Polyoxymethylendimethylether",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BE%D0%BA%D1%81%D0%B8%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4%D0%B8%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D0%BE%D0%B2%D1%8B%D0%B5_%D1%8D%D1%84%D0%B8%D1%80%D1%8B"
     },
     "properties": [],
     "members": []
@@ -13143,7 +13595,10 @@
       "openalex": []
     },
     "wikipedia": {
-      "en": "https://en.wikipedia.org/wiki/Polyhexamethylene_guanidine"
+      "en": "https://en.wikipedia.org/wiki/Polyhexamethylene_guanidine",
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%B3%D0%B5%D0%BA%D1%81%D0%B0%D0%BC%D0%B5%D1%82%D0%B8%D0%BB%D0%B5%D0%BD%D0%B3%D1%83%D0%B0%D0%BD%D0%B8%D0%B4%D0%B8%D0%BD",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%83%98%E3%82%AD%E3%82%B5%E3%83%A1%E3%83%81%E3%83%AC%E3%83%B3%E3%82%B0%E3%82%A2%E3%83%8B%E3%82%B8%E3%83%B3",
+      "zh": "https://zh.wikipedia.org/wiki/%E8%81%9A%E5%85%AD%E4%BA%9A%E7%94%B2%E5%9F%BA%E8%83%8D%E7%9B%90%E9%85%B8%E7%9B%90"
     },
     "properties": [],
     "members": []
@@ -13333,7 +13788,10 @@
       "en": "https://en.wikipedia.org/wiki/Aloxiprin",
       "de": "https://de.wikipedia.org/wiki/Aloxiprin",
       "fr": "https://fr.wikipedia.org/wiki/Aloxiprine",
-      "it": "https://it.wikipedia.org/wiki/Alossiprina"
+      "it": "https://it.wikipedia.org/wiki/Alossiprina",
+      "es": "https://es.wikipedia.org/wiki/Aloxiprin",
+      "fa": "https://fa.wikipedia.org/wiki/%D8%A2%D9%84%D9%88%DA%A9%D8%B3%DB%8C%E2%80%8C%D9%BE%D8%B1%DB%8C%D9%86",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%94%E3%83%AA%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -13672,7 +14130,9 @@
       "mesh": [],
       "openalex": []
     },
-    "wikipedia": {},
+    "wikipedia": {
+      "ru": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%B8%D0%BC%D0%B5%D1%80%D0%B1%D0%B5%D0%BD%D0%B7%D0%B8%D0%BD"
+    },
     "properties": [
       {
         "property": "P2076",
@@ -13733,7 +14193,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Poly(ethyl_methacrylate)",
-      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A9thacrylate_d%27%C3%A9thyle"
+      "fr": "https://fr.wikipedia.org/wiki/Polym%C3%A9thacrylate_d%27%C3%A9thyle",
+      "fa": "https://fa.wikipedia.org/wiki/%D9%BE%D9%84%DB%8C(%D8%A7%D8%AA%DB%8C%D9%84_%D9%85%D8%AA%D8%A7%DA%A9%D8%B1%DB%8C%D9%84%D8%A7%D8%AA)"
     },
     "properties": [],
     "members": []
@@ -13781,7 +14242,8 @@
     },
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/Polyvinylcarbazole",
-      "de": "https://de.wikipedia.org/wiki/Polyvinylcarbazol"
+      "de": "https://de.wikipedia.org/wiki/Polyvinylcarbazol",
+      "es": "https://es.wikipedia.org/wiki/Polivinilcarbazol"
     },
     "properties": [],
     "members": []
@@ -14591,7 +15053,8 @@
     "wikipedia": {
       "en": "https://en.wikipedia.org/wiki/CR-39",
       "de": "https://de.wikipedia.org/wiki/Polyallyldiglycolcarbonat",
-      "it": "https://it.wikipedia.org/wiki/CR39"
+      "it": "https://it.wikipedia.org/wiki/CR39",
+      "ru": "https://ru.wikipedia.org/wiki/CR-39"
     },
     "properties": [],
     "members": []

@@ -22,6 +22,11 @@ WIKIPEDIAS = {
     'de': ('DE', 'German', 'Q48183'),
     'fr': ('FR', 'French', 'Q8447'),
     'it': ('IT', 'Italian', 'Q11920'),
+    'es': ('ES', 'Spanish', 'Q8449'),
+    'fa': ('IR', 'Persian', 'Q48952'),
+    'ru': ('RU', 'Russian', 'Q206855'),
+    'ja': ('JP', 'Japanese', 'Q177837'),
+    'zh': ('CN', 'Chinese', 'Q30239'),
 }
 ORDER = list(WIKIPEDIAS)
 TIERS = ['Lead image of a Wikipedia article',

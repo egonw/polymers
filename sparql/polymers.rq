@@ -46,7 +46,9 @@ WHERE {
   OPTIONAL {
     VALUES ?wikipedia {
       <https://en.wikipedia.org/> <https://nl.wikipedia.org/> <https://de.wikipedia.org/>
-      <https://fr.wikipedia.org/> <https://it.wikipedia.org/>
+      <https://fr.wikipedia.org/> <https://it.wikipedia.org/> <https://es.wikipedia.org/>
+      <https://fa.wikipedia.org/> <https://ru.wikipedia.org/> <https://ja.wikipedia.org/>
+      <https://zh.wikipedia.org/>
     }
     ?article schema:about ?polymer ; schema:isPartOf ?wikipedia .
   }

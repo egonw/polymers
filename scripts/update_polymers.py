@@ -45,7 +45,7 @@ PHOTO_TYPES = {
 PHOTO_WORDS = re.compile(r'\bphoto(graph)?s?\b', re.IGNORECASE)
 
 # The Wikipedias whose articles are linked, in the order of the page.
-WIKIPEDIAS = ('en', 'nl', 'de', 'fr', 'it')
+WIKIPEDIAS = ('en', 'nl', 'de', 'fr', 'it', 'es', 'fa', 'ru', 'ja', 'zh')
 
 ENTITY = 'http://www.wikidata.org/entity/'
 GENID = '/.well-known/genid/'
