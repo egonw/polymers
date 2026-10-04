@@ -1,0 +1,43 @@
+# Once a week, asks Wikidata for the polymers (make update) and commits
+# _data/polymers.json when it changed.
+name: Update
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+      - run: pip install -r requirements.txt
+      - run: make update PYTHON=python
+      - name: Commit changes
+        id: commit
+        run: |
+          if git diff --quiet -- _data/polymers.json; then
+            echo "No changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _data/polymers.json
+            git commit -m "Synchronized with Wikidata"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      # Pushes made with GITHUB_TOKEN do not trigger other workflows,
+      # so start the website build explicitly.
+      - name: Rebuild the website
+        if: steps.commit.outputs.changed == 'true'
+        run: gh workflow run pages.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
