@@ -5,7 +5,7 @@ from flask import Blueprint, abort, current_app, render_template
 
 main = Blueprint('app', __name__)
 
-DEPICT = ('https://cdkdepict.toolforge.org/depict/bow/svg?smi={smiles}'
+DEPICT = ('https://cdkdepict.cloud.vhp4safety.nl/depict/bow/svg?smi={smiles}'
           '&abbr=on&hdisp=bridgehead&showtitle=false&zoom={zoom}'
           '&annotate=none')
 
