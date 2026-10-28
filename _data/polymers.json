@@ -692,6 +692,21 @@
         }
       },
       {
+        "qid": "Q57271754",
+        "label": "tapioca starch",
+        "cxsmiles": [],
+        "photos": [
+          {
+            "file": "Casabe-3.jpg",
+            "artist": "Luisovalles",
+            "license": "CC BY-SA 3.0"
+          }
+        ],
+        "wikipedia": {
+          "it": "https://it.wikipedia.org/wiki/Polvilho"
+        }
+      },
+      {
         "qid": "Q59555990",
         "label": "monostarch phosphate",
         "cxsmiles": [],
@@ -766,21 +781,6 @@
         "photos": [],
         "wikipedia": {
           "de": "https://de.wikipedia.org/wiki/St%C3%A4rkephosphate"
-        }
-      },
-      {
-        "qid": "Q104483024",
-        "label": "cassava starch",
-        "cxsmiles": [],
-        "photos": [
-          {
-            "file": "Casabe-3.jpg",
-            "artist": "Luisovalles",
-            "license": "CC BY-SA 3.0"
-          }
-        ],
-        "wikipedia": {
-          "it": "https://it.wikipedia.org/wiki/Polvilho"
         }
       },
       {
@@ -2198,7 +2198,13 @@
     "cxsmiles": [
       "[*]CCCCCC(=O)N[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
     ],
-    "photos": [],
+    "photos": [
+      {
+        "file": "Darning yarn card with black perlon thread 1.jpg",
+        "artist": "W.carter",
+        "license": "CC BY 4.0"
+      }
+    ],
     "classes": [
       {
         "qid": "Q119896085",
@@ -7484,7 +7490,13 @@
         "cxsmiles": [
           "[*]CCCCCC(=O)N[*] |Sg:n:1,2,3,4,5,6,7,8::ht|"
         ],
-        "photos": [],
+        "photos": [
+          {
+            "file": "Darning yarn card with black perlon thread 1.jpg",
+            "artist": "W.carter",
+            "license": "CC BY 4.0"
+          }
+        ],
         "wikipedia": {
           "en": "https://en.wikipedia.org/wiki/Nylon_6",
           "de": "https://de.wikipedia.org/wiki/Polycaprolactam",
@@ -8437,7 +8449,8 @@
       "en": "https://en.wikipedia.org/wiki/Nafion",
       "de": "https://de.wikipedia.org/wiki/Nafion",
       "fr": "https://fr.wikipedia.org/wiki/Nafion",
-      "it": "https://it.wikipedia.org/wiki/Nafion"
+      "it": "https://it.wikipedia.org/wiki/Nafion",
+      "ja": "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%95%E3%82%A3%E3%82%AA%E3%83%B3"
     },
     "properties": [],
     "members": []
@@ -14380,6 +14393,62 @@
     "wikipedia": {},
     "properties": [],
     "members": []
+  },
+  {
+    "qid": "Q72501213",
+    "label": "Poly(allylamine hydrochloride)",
+    "description": "chemical compound",
+    "cxsmiles": [],
+    "photos": [],
+    "classes": [
+      {
+        "qid": "Q113145171",
+        "label": "type of chemical entity"
+      },
+      {
+        "qid": "Q119896085",
+        "label": "type of polymer"
+      }
+    ],
+    "monomers": [
+      {
+        "qid": "Q903911",
+        "label": "allylamine hydrochloride"
+      }
+    ],
+    "identifiers": {
+      "cas": [
+        "71550-12-4"
+      ],
+      "chebi": [],
+      "pubchem_cid": [
+        "Poly(Allylamine Hydrochloride)"
+      ],
+      "pubchem_sid": [
+        "516575498"
+      ],
+      "ec": [],
+      "echa": [],
+      "dsstox": [
+        "DTXSID101011128"
+      ],
+      "mesh": [],
+      "openalex": []
+    },
+    "wikipedia": {
+      "en": "https://en.wikipedia.org/wiki/Polyallylamine_hydrochloride",
+      "fr": "https://fr.wikipedia.org/wiki/Poly(hydrochlorure_d%27allylamine)"
+    },
+    "properties": [],
+    "members": [
+      {
+        "qid": "Q82694085",
+        "label": "(¹³C₃)Prop-2-en-1-(¹⁵N)amine—hydrogen chloride (1/1)",
+        "cxsmiles": [],
+        "photos": [],
+        "wikipedia": {}
+      }
+    ]
   },
   {
     "qid": "Q72501434",
